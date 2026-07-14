@@ -25,6 +25,21 @@ We can accurately see the proportion of candidates who submitted an intro video 
 
 > **Watch the Submissions:** You can browse our curated archive of these successful introduction videos in the [ADMITTED_VIDEOS.md](ADMITTED_VIDEOS.md) directory.
 
+### Publicly Known Videos per Cohort
+Currently, we have aggregated exactly **74** public introduction videos. Below is the statistical distribution of these available videos across the cohort years:
+- **2027:** 11 videos
+- **2026:** 8 videos
+- **2025:** 8 videos
+- **2024:** 5 videos
+- **2023:** 14 videos
+- **2022:** 10 videos
+- **2021:** 4 videos
+- **2020:** 6 videos
+- **2019:** 3 videos
+- **2018:** 5 videos
+
+![Videos per Cohort](https://raw.githubusercontent.com/youssefbouhaik/SchwarzmanScholarsOpenData/master/analytics_dashboard/videos_per_cohort.png)
+
 ### Program Growth Over Time
 The overall recorded cohort distribution across the years we have tracked highlights the program's evolving scale and the availability of public admission data over time.
 
