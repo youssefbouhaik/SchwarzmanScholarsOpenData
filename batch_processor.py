@@ -165,8 +165,6 @@ def process_all():
             f.write(f"- **Visual Charisma & Warmth Score:** {emotion_data['score']:.1f}/100 (Happy: {emotion_data['happy']:.1f}%, Neutral: {emotion_data['neutral']:.1f}%)\n")
             f.write(f"- **Vocal/Thematic Sentiment:** {sentiment:.2f} (Positive > 0.1 is optimistic)\n")
             f.write(f"- **Core Themes (Keywords):** {', '.join(keywords) if keywords else 'None detected'}\n")
-            f.write("### Transcript Summary\n")
-            f.write(f"> {transcript[:400]}...\n\n")
             f.write("---\n\n")
 
 if __name__ == "__main__":

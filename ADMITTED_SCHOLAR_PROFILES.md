@@ -9,9 +9,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 94.6/100 (Happy: 35.0%, Neutral: 45.2%)
 - **Vocal/Thematic Sentiment:** 0.24 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hello, I am Dotao Avedri. I'm part of the class of 2019. I studied finance, business and analytics, and I'm from the Pokemon Mountains Pennsylvania. The most part of I was sitting right now, it was a exploring pen. So I really didn't go about taking my core classes right away. I took a lift of course, explored my full interest. I traveled for the first time to various places in the world. I did a...
-
 ---
 
 ## Abdullah Almiqasbi (Cohort 2018)
@@ -21,9 +18,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 87.8/100 (Happy: 42.8%, Neutral: 12.9%)
 - **Vocal/Thematic Sentiment:** 0.13 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  My name is Abdulan Magaspi. I was born in Benghazi, Libya. In 2011, Libya was hit by a silver war. During that time, I quit my medical high school program, taught myself English. And two years later, I found myself in China at the University of Nottingham, studying international business with communications studies. Studying at a British university in China has been exciting, yet challenging. My ...
-
 ---
 
 ## Elsa Alvarado (Cohort 2020)
@@ -33,9 +27,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 50.1/100 (Happy: 4.0%, Neutral: 30.6%)
 - **Vocal/Thematic Sentiment:** 0.18 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hi, my name is Elsa Alvarado and I am 22 years old from Queen's New York. I am currently a litigation assistant for Sullivan and Chromel, but I just graduated from Middlebury not too long ago in May with a degree in political science. I love my work here at Sullivan and Chromel and want to pursue a career in international arbitration. Here at Sullivan and Chromel, I've been able to deal with clie...
-
 ---
 
 ## Celene Aridin (Cohort 2026)
@@ -45,9 +36,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 49.8/100 (Happy: 16.5%, Neutral: 0.1%)
 - **Vocal/Thematic Sentiment:** 0.12 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hi, my name is Celine and I'm applying to be a Shorzman scholar for the 2025-2026 cohort. A little bit about me is that I recently graduated from UC Davis with my degree in international relations in a minor in Arabic. During my time at UC Davis I got to do quite a little bit of traveling which you get to read more about in my application. Something that I'm really passionate about is volunteer w...
-
 ---
 
 ## Anita Bassey (Cohort 2027)
@@ -57,9 +45,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 99.0/100 (Happy: 59.7%, Neutral: 34.4%)
 - **Vocal/Thematic Sentiment:** 0.16 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hi, my name is Anita Bassy and I'm a rising senior at North Lester University and when I first moved to the US I was per day for a station And no, I don't mean that in an ironic way Growing up in Nigeria, everyone's kind of terrified of the bush Mesquitos carrying malaria to snake some scorpions. It just wasn't a place for recreational fun And then I moved to Pauline County, Georgia and people we...
-
 ---
 
 ## Patrik Birkle (Cohort 2022)
@@ -69,9 +54,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 58.0/100 (Happy: 23.2%, Neutral: 0.3%)
 - **Vocal/Thematic Sentiment:** 0.12 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hi, my name is Taylor Bland, I am 22 years of age and I am from Sydney, Australia. I am currently awaiting my invitation letter for me to return to Shanghai to complete my final year of studies at NYU Shanghai. I study a major in social science for the self-designed track in comparative law and I double minor in philosophy and Mandarin. I am also the current student body president, the global bia...
-
 ---
 
 ## Gurchit Chatha (Cohort 2022)
@@ -81,9 +63,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 58.3/100 (Happy: 0.5%, Neutral: 55.5%)
 - **Vocal/Thematic Sentiment:** 0.27 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hi short swimscalers, my name is Gertjep and I work in Baja. A tech enabled moving platform that did $30 million in revenue and helped 60,000 customers move homes in 2019. I manage supply growth, so my goals to identify how many workers our platform needs each month to hit the finance team's revenue targets. Outside of work, I live for trying new food, reading and spending time outdoors. Your 70 ...
-
 ---
 
 ## Capucine Cogné (Cohort 2019)
@@ -93,9 +72,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 99.0/100 (Happy: 60.1%, Neutral: 4.4%)
 - **Vocal/Thematic Sentiment:** 0.16 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hello, my name is Kathleen Cognay. I am applying for the 2019 class of Shwoproosco. Behind me you can see Elvod can San Pedro. The volcano I climbed yesterday. I love a challenge whether it be physical, academic or other and love traveling, getting to know new cultures as I have been able to do hearing Guatemala among other countries. As an introduction, I am originally French, however I have liv...
-
 ---
 
 ## Justin L. Curl (Cohort 2023)
@@ -105,9 +81,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 46.4/100 (Happy: 0.2%, Neutral: 32.3%)
 - **Vocal/Thematic Sentiment:** 0.13 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hi, my name is Justin Kroll and I'm a senior in the Computer Science Department here at Princeton University and I'm saying hello to you from a parking lot. Now this parking lot is not just any place where you can part your cars. It is located at the exact made way point between the computer science, public policy, and psychology buildings. As a result, it is something I pass by frequently when I...
-
 ---
 
 ## Laura Darnley (Cohort 2020)
@@ -117,9 +90,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 59.6/100 (Happy: 17.1%, Neutral: 18.1%)
 - **Vocal/Thematic Sentiment:** 0.06 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hi, I'm Nora and I'm a political economy student at King's College London. I specialize in East Asia and global security and I've pursued these interests while studying, broadened, pan, South Korea and Hong Kong. However, when I'm not countouting the library or often some far from the centre, I serve as no secreted with a British shanning. I'm a keen sportswoman and I kept my course take on the t...
-
 ---
 
 ## Debpriya Das (Cohort 2021)
@@ -129,9 +99,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 86.0/100 (Happy: 38.9%, Neutral: 18.6%)
 - **Vocal/Thematic Sentiment:** 0.12 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hi, I'm Depriam, I'm from Bangladesh, but I did my undergrad from Singapore and Australia. And today I want to tell you about my superpower. Growing up in a minority community in Bangladesh has been challenging, especially as a girl. But also because I had a passion for a violent science since, and there are almost a university programs for that year. I realized that's because high school student...
-
 ---
 
 ## Natalie Delille (Cohort 2027)
@@ -141,9 +108,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 81.3/100 (Happy: 25.6%, Neutral: 41.1%)
 - **Vocal/Thematic Sentiment:** 0.20 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  What would it take to build a world where people don't just get by, but truly have the opportunities they need to thrive? My name is Natalie Dillill, and I'm the founder of Dear Society, a nonprofit breaking cycles of poverty through education. Starting in Haiti where my family is from, a country too often for God and we've already awarded more than 150 scholarships to underserved youth. Access t...
-
 ---
 
 ## Abdourahamane Diallo (Cohort 2020)
@@ -153,9 +117,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 64.3/100 (Happy: 2.1%, Neutral: 63.4%)
 - **Vocal/Thematic Sentiment:** 0.09 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Imagine yourselves living in one of the poorest country in the world, where education is a privilege for only people who can afford it. Imagine yourself growing up in one of the poorest family in the world. Sleeping on the same fall if your parents and siblings staying days without preparing for it. Today I'm here in an United States of America far away from Guinea. Thanks to the globalization, g...
-
 ---
 
 ## Mariam Dogar (Cohort 2021)
@@ -165,9 +126,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 99.0/100 (Happy: 59.4%, Neutral: 6.5%)
 - **Vocal/Thematic Sentiment:** 0.07 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hello, my name is Mamedogar and today I'm in SirX with Srelint. I'm here for the InCube Challenge, basically tomorrow, my team and I will be getting a problem. Then we'll go inside a class cube and work on a prototype for that problem for four days. This sort of thing is representative of what I really like to do, which is push myself outside of my comfort zone, travel, meet new people, working o...
-
 ---
 
 ## Lance Entsuah (Cohort 2025)
@@ -177,9 +135,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 74.4/100 (Happy: 0.1%, Neutral: 88.6%)
 - **Vocal/Thematic Sentiment:** 0.08 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Greetings from Italy. Hello, my name is Anzansu and I'm a senior at the NAM of Student at the University of Cincinnati. Colonel Anzansu and Messer have scheduled to lose business for France. As of 2022, I've had the privilege of traveling over 17 countries all across the world, interacting and building relationships with different types of people, and learning vital lessons on different cultures....
-
 ---
 
 ## Kay Glaeske (Cohort 2024)
@@ -189,9 +144,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 45.9/100 (Happy: 0.2%, Neutral: 31.3%)
 - **Vocal/Thematic Sentiment:** 0.18 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  This Worseman's goal of mission team, I'm taking less than 22 years old from Switzerland and currently breaking transaction advisory services for Ernst and Young in Zurich. I grew up in an entrepreneurial family teaching me from a very young age the importance of team work to reach bigger goals. What started as an urge to help people that were sick or needed mental support developed into my mantr...
-
 ---
 
 ## Emmanuel Godfrey (Cohort 2025)
@@ -201,9 +153,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 99.0/100 (Happy: 53.3%, Neutral: 16.4%)
 - **Vocal/Thematic Sentiment:** 0.07 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Growing up in war zone like area, our witness conflicts impact on people and economies. See, my family is in all the families' drama, drove me to seek ways for economic progress. In 2016, when I graduated from high school without the prospect of antennaing college, I followed the Wittas project to the highest school student. There was the Winders program that the family realized that many young p...
-
 ---
 
 ## Moriah Hamilton (Cohort 2026)
@@ -213,9 +162,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 88.7/100 (Happy: 43.1%, Neutral: 14.0%)
 - **Vocal/Thematic Sentiment:** 0.36 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hello, I'm Mariah. If you will know me best, know me from my distractions. A rather curiosity. My life began in the tiny denial of synkids and fully blossomed on the course of the Amazon basin in Ghana. A country-bressing with resources, diverse cultures, and my favorite part. Food. My call for a brain laid a foundation for my civic duty and strong connection to a community that oftentimes doesn'...
-
 ---
 
 ## Lena Hoffmann (Cohort 2022)
@@ -225,9 +171,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 38.6/100 (Happy: 5.7%, Neutral: 3.5%)
 - **Vocal/Thematic Sentiment:** 0.23 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Welcome to the startup village. We're not quite Silicon Valley, but we're working very hard to get there. I'm Leina and I started working here six weeks ago with ACF Ventures. Currently we're evaluating two companies with a eye-driven technologies that work in M&A and logistics. In my role I'm working towards diversifying the pipeline of young entrepreneurs and understanding how these season indu...
-
 ---
 
 ## Franz Hohmann (Cohort 2025)
@@ -237,9 +180,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 60.3/100 (Happy: 13.7%, Neutral: 27.7%)
 - **Vocal/Thematic Sentiment:** 0.07 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  That's your how, I'm Franz Holman, and I'm very grateful for the opportunity to share my aspirations with you. My journey has been guided by a profound passion for China. Hence, I want to actively contribute through reversing this terrible trend of the tier-writing relationships between China and Western countries. Therunning my own, realistic investment fund, and being engaged in organisations l...
-
 ---
 
 ## Bor Hung Chong (Cohort 2019)
@@ -249,9 +189,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 69.5/100 (Happy: 2.1%, Neutral: 74.0%)
 - **Vocal/Thematic Sentiment:** 0.21 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hi, I'm Ron Chow from the Laser. I'm here at Niffin, we're at the Founding Team of this startup. Niffin, I spent my time developing solar projects, convincing global companies to convert to using solar energy. I would like to tell you about a very interesting project for a large German company in Nanjing. Technical difficulties aside, the company is extremely conservative. We talk about a year of...
-
 ---
 
 ## Martha Isaacs (Cohort 2024)
@@ -261,9 +198,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 72.4/100 (Happy: 35.0%, Neutral: 0.8%)
 - **Vocal/Thematic Sentiment:** 0.02 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  My name is Martha Isaacs, and I'm an urban planner with a passion for safe, accessible, and sustainable streets. When I walked down a sidewalk, I analyzed the delicate balance between every tree pit, bike rack, and pedestrian ramp for wheelchair users. Growing up north of Baltimore, Maryland, I learned how inadequate transportation infrastructure negatively impacts health and socioeconomic mobili...
-
 ---
 
 ## Trevaughn Latimer (Cohort 2022)
@@ -273,9 +207,6 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 49.8/100 (Happy: 0.6%, Neutral: 38.1%)
 - **Vocal/Thematic Sentiment:** 0.03 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  Hello, my name is Trayvarn. As you can see, I have a variety of hobbies and interests. But my ultimate passion is to develop economic development solutions to poverty and economic inequality. In this book, Just Mercy, Bryan Stevens says that two justice is birthed when we are approximated to the people we serve. All life has been defined by proximity. I was approximately the birth of a global soc...
-
 ---
 
 ## Varun Sharma (Cohort 2020)
@@ -285,8 +216,5 @@ This report contains a psychological and thematic profile for each admitted scho
 - **Visual Charisma & Warmth Score:** 78.2/100 (Happy: 0.0%, Neutral: 96.3%)
 - **Vocal/Thematic Sentiment:** 0.09 (Positive > 0.1 is optimistic)
 - **Core Themes (Keywords):** None detected
-### Transcript Summary
->  My name is Varun and I first became interested in China and during a model you won conference in high school. After a weekend spent debating the intricacies of the Hukong system I was hooked. The next summer I went to the University of Chicago and took 10 weeks of intensive Chinese classes. The after that, during an internship at a financial services lobbying firm, I researched the Chinese stock ...
-
 ---
 
