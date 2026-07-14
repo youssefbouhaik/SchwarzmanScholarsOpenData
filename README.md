@@ -23,6 +23,8 @@ We can accurately see the proportion of candidates who submitted an intro video 
 
 ![Video Submission Rate](https://raw.githubusercontent.com/youssefbouhaik/SchwarzmanScholarsOpenData/master/analytics_dashboard/video_submissions.png)
 
+> **Watch the Submissions:** You can browse our curated archive of these successful introduction videos in the [ADMITTED_VIDEOS.md](ADMITTED_VIDEOS.md) directory.
+
 ### Program Growth Over Time
 The overall recorded cohort distribution across the years we have tracked highlights the program's evolving scale and the availability of public admission data over time.
 
