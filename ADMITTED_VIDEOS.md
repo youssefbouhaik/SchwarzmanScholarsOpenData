@@ -20,8 +20,7 @@ This directory contains the confirmed public introduction videos of successful S
 ## Cohort 2026
 | Name | University | Country | Link |
 |------|------------|---------|------|
-| Angelo Mok | University of Southern California | United States of America | [Watch Video](https://www.youtube.com/watch?v=EWg0WqCZv_w&pp=ygUxQW5nZWxvIE1vayBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D
-) |
+| Angelo Mok | University of Southern California | United States of America | [Watch Video](https://www.youtube.com/watch?v=EWg0WqCZv_w&pp=ygUxQW5nZWxvIE1vayBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
 | Celene Aridin | University of California, Davis | United States of America | [Watch Video](https://www.youtube.com/watch?v=jasK1AyzUhE&pp=ygU1Y2VsZW5lIGFyaWRpbiBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbyA%3D) |
 | Garrett Williams | University of Georgia | United States of America | [Watch Video](https://www.youtube.com/watch?v=ctP1TZ_RPUU&pp=ygU4IGdhcnJlZXQgd2lsbGlhbXMgc2Nod2Fyem1hbiBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D) |
 | Maha Latif | National Defence University | Pakistan | [Watch Video](https://www.youtube.com/watch?v=KDwyZQMsILg&pp=ygUxTWFoYSBMYXRpZiBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
