@@ -1,31 +1,30 @@
-# Schwarzman Scholars Open Data & Video Project
+# The Subtext Engine: Schwarzman Scholars Video Analysis
 
-Welcome to the Schwarzman Scholars Open Data project! This repository contains a cleaned, publicly-sourced dataset of Schwarzman Scholars' biographies, universities, and links to their public application introduction videos.
+Welcome to the **Subtext Engine**, an open-source project designed to reverse-engineer the unspoken cues that make a global leader stand out.
 
-## 🎯 Our Mission
-Applying to competitive fellowships like Schwarzman can be daunting. We created this project to demystify the application process by providing a data-driven look at the diverse backgrounds of past scholars and aggregating their public introduction videos.
+While traditional advice focuses on the text of an application, human judgment relies heavily on **subtext**: lighting, setting, pacing, body language, and environmental cues. This project aggregates public introduction videos from admitted Schwarzman Scholars to systematically analyze the visual and tonal subtext of successful applicants.
 
-By making this information accessible, we aim to:
-- Show that there is no "single profile" for a Schwarzman Scholar.
-- Help future applicants understand different styles of successful 1-minute intro videos.
-- Encourage a collaborative, open-source approach to learning about the fellowship.
+## 🎯 The Vision
+We believe that the intuitive cues humans use to judge "leadership potential" (e.g., choosing to film outside vs. in a formal office, dynamic camera movement vs. static framing, the warmth of the lighting) can be translated to a machine.
 
-## 📊 Data Overview
-Inside the `data/` directory, you'll find `scholars_public.csv`, which contains:
-- `name`: The scholar's name.
-- `country`: Country of origin.
-- `university`: Undergraduate/Graduate institution.
-- `cohort_year`: The year the scholar joined the program.
-- `youtube_video_id`: (Optional) Links to public introduction videos.
-- `bio`: The scholar's public biography.
+**Our ultimate goal:** To provide a GitHub Pages web app where future applicants can submit their draft YouTube video links. The engine will run the video against our historical dataset of admitted scholars, extracting the visual/subtextual cues, and provide a "Standout Percentage" to help them refine their narrative.
 
-*Note: All data in this repository is sourced from public web pages. We have purposefully removed speculative or unnecessary demographic data to protect privacy and promote an ethical dataset.*
+## ⚠️ Acknowledging the Limitations
+We are building this with our eyes wide open to the inherent limitations of the data:
+1. **Survivorship & Sharing Bias:** Our dataset relies entirely on scholars who chose to make their introduction videos public. 
+2. **The Video is Not the Application:** The intro video is just one piece of the puzzle. We do not have access to essays, transcripts, or recommendation letters. 
+3. **Correlation vs. Causation:** Filming outside doesn't *get* you admitted, but it may correlate with a specific archetype of candidate that the committee is currently looking for.
 
-## 📈 Analytics & Notebooks
-Check out the `notebooks/` directory for Jupyter notebooks containing data visualizations, including:
-- **Video Format Breakdown:** Vlogs vs. High-Production videos.
-- **Academic Diversity:** Visualizing the wide range of universities and majors.
-- **Bio Keyword Extraction:** Discover the most common themes in scholar bios (e.g., Policy, Tech, Climate, Community).
+Despite these limitations, analyzing the subtext of the one piece of the application we *can* see is a powerful tool for demystifying elite admissions.
+
+## 🧠 How It Works (Roadmap)
+1. **Historical Video Corpus:** Aggregating public 1-minute intro videos from past cohorts.
+2. **Subtext Extraction:** Using multimodal AI to analyze non-verbal cues:
+   - *Setting:* Indoor vs. Outdoor, Office vs. Field.
+   - *Production Value:* Smartphone raw vs. highly edited.
+   - *Lighting & Tone:* Warm, harsh, dynamic, static.
+3. **The Standout Scorer:** A web interface hosted on GitHub Pages that compares a user-submitted video against the established archetypes of admitted scholars.
 
 ## 🤝 Contributing
-Are you a Schwarzman Scholar or an applicant? We'd love for you to contribute to this living archive! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for instructions on how to submit a Pull Request to add your public video link or fix typos.
+Are you a Schwarzman Scholar with a public video? Or an AI engineer interested in computer vision and multimodal subtext extraction? 
+Check out [CONTRIBUTING.md](CONTRIBUTING.md) to see how you can help build the Subtext Engine.
