@@ -14,8 +14,7 @@ This directory contains the confirmed public introduction videos of successful S
 | Natalie Delille | Howard University, University of Cambridge, Georgetown University | United States of America | [Watch Video](https://www.youtube.com/watch?v=HQjrNDE7m3g&pp=ygU3IG5hdGFsaWUgZGVsbGlsZXNjaHdhcnptYW4gc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVvINIHCQlRCwGHKiGM7w%3D%3D) |
 | Patricio Ortiz | Stanford University | United States of America | [Watch Video](https://www.youtube.com/watch?v=KOc-z_MBsSs&pp=ygUwcGF0cmljaW8gc2Nod2Fyem1hbiBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8g) |
 | Sara Torres | Tufts University, University of Oxford | Colombia | [Watch Video](https://www.youtube.com/watch?v=-CYnL7XpHO0&pp=ygU7c2FyYWggdG9yZXMgcmFpYmljayBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbyA%3D) |
-| Stephanie Li | Duke Kunshan University, Columbia University | China | [Watch Video](https://www.youtube.com/watch?v=imwXwnyzpRU&pp=ygUzU3RlcGhhbmllIExpIHNjaHdhcnptYW4gc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv
-) |
+| Stephanie Li | Duke Kunshan University, Columbia University | China | [Watch Video](https://www.youtube.com/watch?v=imwXwnyzpRU&pp=ygUzU3RlcGhhbmllIExpIHNjaHdhcnptYW4gc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv) |
 | Xavier Ramirez | Indiana University | United States of America | [Watch Video](https://www.youtube.com/watch?v=9OS18lCo8Tw&pp=ygU2eGF2aWVyIHJhbWlyZXogc2Nod2Fyem1hbiBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8g) |
 
 ## Cohort 2026
@@ -24,23 +23,19 @@ This directory contains the confirmed public introduction videos of successful S
 | Angelo Mok | University of Southern California | United States of America | [Watch Video](https://www.youtube.com/watch?v=EWg0WqCZv_w&pp=ygUxQW5nZWxvIE1vayBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D
 ) |
 | Celene Aridin | University of California, Davis | United States of America | [Watch Video](https://www.youtube.com/watch?v=jasK1AyzUhE&pp=ygU1Y2VsZW5lIGFyaWRpbiBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbyA%3D) |
-| Garrett Williams | University of Georgia | United States of America | [Watch Video](https://www.youtube.com/watch?v=ctP1TZ_RPUU&pp=ygU4IGdhcnJlZXQgd2lsbGlhbXMgc2Nod2Fyem1hbiBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D
-) |
-| Maha Latif | National Defence University | Pakistan | [Watch Video](https://www.youtube.com/watch?v=KDwyZQMsILg&pp=ygUxTWFoYSBMYXRpZiBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D
-) |
+| Garrett Williams | University of Georgia | United States of America | [Watch Video](https://www.youtube.com/watch?v=ctP1TZ_RPUU&pp=ygU4IGdhcnJlZXQgd2lsbGlhbXMgc2Nod2Fyem1hbiBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D) |
+| Maha Latif | National Defence University | Pakistan | [Watch Video](https://www.youtube.com/watch?v=KDwyZQMsILg&pp=ygUxTWFoYSBMYXRpZiBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
 | Moriah Hamilton | Howard University | Guyana | [Watch Video](https://www.youtube.com/shorts/GTn_TetMxiM) |
 | Stephanie Lin | Harvard University | United States of America | [Watch Video](https://www.youtube.com/watch?v=imwXwnyzpRU&pp=ygU0c3RlcGhhbmllIGxpIHNjaHdhcnptYW4gc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVvIA%3D%3D) |
 | Tra Nguyen | Szent Istvan University | Vietnam | [Watch Video](https://www.youtube.com/watch?v=nXSYcZCLoJU&pp=ygUxVHJhIE5ndXllbiBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
-| Yu Ci Faye Ng | National University of Singapore | Singapore | [Watch Video](https://www.youtube.com/watch?v=paf6_SEO7Pw&pp=ygU0WXUgQ2kgRmF5ZSBOZyBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D
-) |
+| Yu Ci Faye Ng | National University of Singapore | Singapore | [Watch Video](https://www.youtube.com/watch?v=paf6_SEO7Pw&pp=ygU0WXUgQ2kgRmF5ZSBOZyBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
 
 ## Cohort 2025
 | Name | University | Country | Link |
 |------|------------|---------|------|
 | Daiki Yoshioka | Binghamton University | Japan | [Watch Video](https://www.youtube.com/watch?v=CwuCdIvDfFo&pp=ygU1RGFpa2kgWW9zaGlva2Egc2Nod2Fyem1hbiBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D) |
 | Emmanuel Godfrey | African Leadership University, Rwanda | Liberia | [Watch Video](https://www.youtube.com/watch?v=cN0QwVZEoWk&pp=ygU4RW1tYW51ZWwgR29kZnJleSAgc2Nod2Fyem1hbiBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D) |
-| Franz Hohmann | Ludwig-Maximilians-Universität München, Frankfurt School of Finance & Management | Germany | [Watch Video](https://www.youtube.com/watch?v=UzkPwRgB_eQ&pp=ygU0RnJhbnogSG9obWFubiBzY2hhcnptYW4gIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D
-) |
+| Franz Hohmann | Ludwig-Maximilians-Universität München, Frankfurt School of Finance & Management | Germany | [Watch Video](https://www.youtube.com/watch?v=UzkPwRgB_eQ&pp=ygU0RnJhbnogSG9obWFubiBzY2hhcnptYW4gIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
 | Jennelle Ohene-Agyei | Hunter College, The City University of New York | United States of America | [Watch Video](https://www.youtube.com/watch?v=K3w3xqjFhek) |
 | Juan Venancio | Harvard University | United States of America | [Watch Video](https://www.youtube.com/watch?v=jAatbVbt2Dw&pp=ygU0SnVhbiBWZW5hbmNpbyBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
 | Lance Entsuah | University of Cincinnati | United States of America | [Watch Video](https://www.youtube.com/watch?v=D-2AlbMTsVc&pp=ygU0TGFuY2UgRW50c3VhaCBzY2h3YXJ6bWFuIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
@@ -54,8 +49,7 @@ This directory contains the confirmed public introduction videos of successful S
 | Kay Glaeske | Universität St. Gallen | Switzerland | [Watch Video](https://www.youtube.com/watch?v=x1RFfz3Lgrc&pp=ygUzS2F5IEdsYWVza2UgIHNjaHdhcnptYW4gc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv) |
 | Kléber Paucar Molina | King's College London | Ecuador | [Watch Video](https://www.youtube.com/watch?v=Csus3oAfO30) |
 | Martha Isaacs | University of North Carolina, Chapel Hill | United States of America | [Watch Video](https://www.youtube.com/watch?v=wnbpEnDFOAQ&pp=ygU1TWFydGhhIElzYWFjcyAgc2Nod2Fyem1hbiBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D) |
-| Natalia Paz Méndez Ponce | Universidad de Santiago de Chile | Chile | [Watch Video](https://www.youtube.com/watch?v=MaQDjEXUfVc&pp=ygVBTmF0YWxpYSBQYXogTcOpbmRleiBQb25jZSAgc2Nod2Fyem1hbiBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D
-) |
+| Natalia Paz Méndez Ponce | Universidad de Santiago de Chile | Chile | [Watch Video](https://www.youtube.com/watch?v=MaQDjEXUfVc&pp=ygVBTmF0YWxpYSBQYXogTcOpbmRleiBQb25jZSAgc2Nod2Fyem1hbiBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D) |
 
 ## Cohort 2023
 | Name | University | Country | Link |
@@ -65,36 +59,29 @@ This directory contains the confirmed public introduction videos of successful S
 | Damian Murray | Jackson State University, Columbia University | United States of America | [Watch Video](https://www.youtube.com/watch?v=drO5k8wttkg&pp=ygU1RGFtaWFuIE11cnJheSBzY2h3YXJ6bWFuICBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D) |
 | Daniel James II | Cornell University | United States of America | [Watch Video](https://www.youtube.com/watch?v=w-itBoF6kCQ&pp=ygU3RGFuaWVsIEphbWVzIElJIHNjaHdhcnptYW4gIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
 | Justin L. Curl | Princeton University | United States of America | [Watch Video](https://www.youtube.com/watch?v=1hNJgD0gmdM&pp=ygU3SnVzdGluIEwuIEN1cmwgIHNjaHdhcnptYW4gIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
-| Lea Thome | University of Rochester | Germany | [Watch Video](https://www.youtube.com/watch?v=jSAmaOjxvIg&pp=ygUxTGVhIFRob21lIHNjaHdhcnptYW4gIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlb9IHCQlRCwGHKiGM7w%3D%3D
-) |
+| Lea Thome | University of Rochester | Germany | [Watch Video](https://www.youtube.com/watch?v=jSAmaOjxvIg&pp=ygUxTGVhIFRob21lIHNjaHdhcnptYW4gIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlb9IHCQlRCwGHKiGM7w%3D%3D) |
 | Lloyd Jose Nunag | Trinity University of Asia, University of London | Philippines | [Watch Video](https://www.youtube.com/watch?v=uRsh02Z5Wgk&pp=ygU5TGxveWQgSm9zZSBOdW5hZyAgc2Nod2Fyem1hbiAgc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv) |
 | Manthan Shah | S P Jain School of Global Management | India | [Watch Video](https://www.youtube.com/watch?v=PHADsJDcvSM&pp=ygU1TWFudGhhbiBTaGFoICBzY2h3YXJ6bWFuICBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW_SBwkJUQsBhyohjO8%3D) |
 | Mikhail Zamskoy | University of Bologna | Russia | [Watch Video](https://www.youtube.com/watch?v=bHS2QVh4NiY&pp=ygUsTWlraGFpbCBaYW1za295ICBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW_SBwkJUQsBhyohjO8%3D) |
 | Neel Reddy | University of Texas at Dallas | United States of America | [Watch Video](https://www.youtube.com/watch?v=F0cJKKFZ0ho&pp=ygUzTmVlbCBSZWRkeSAgc2Nod2Fyem1hbiAgc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv) |
 | Nicolás Tamayo Medina | Universidad de Los Andes | Colombia | [Watch Video](https://www.youtube.com/watch?v=BimixKUh3Nc&pp=ygU-Tmljb2zDoXMgVGFtYXlvIE1lZGluYSBzY2h3YXJ6bWFuICBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW_SBwkJUQsBhyohjO8%3D) |
-| Sam Zahn | University of North Carolina, Chapel Hill | United States of America | [Watch Video](https://www.youtube.com/watch?v=6F7Va8MPkrY&pp=ygUkU2FtIFphaG4gc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv
-) |
+| Sam Zahn | University of North Carolina, Chapel Hill | United States of America | [Watch Video](https://www.youtube.com/watch?v=6F7Va8MPkrY&pp=ygUkU2FtIFphaG4gc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv) |
 | Trishna Nagrani | University of Warwick | Panama | [Watch Video](https://www.youtube.com/watch?v=g8L_Nu-pzfs&pp=ygU3VHJpc2huYSBOYWdyYW5pIHNjaHdhcnptYW4gIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
-| Yuchen Wang | George Washington University, Johns Hopkins University | China | [Watch Video](https://www.youtube.com/watch?v=ZzBa2Ju8TdY&pp=ygUoWXVjaGVuIFdhbmcgIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D
-) |
+| Yuchen Wang | George Washington University, Johns Hopkins University | China | [Watch Video](https://www.youtube.com/watch?v=ZzBa2Ju8TdY&pp=ygUoWXVjaGVuIFdhbmcgIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
 
 ## Cohort 2022
 | Name | University | Country | Link |
 |------|------------|---------|------|
-| Anathi Tshabe | University of the Free State | South Africa | [Watch Video](https://www.youtube.com/watch?v=NrchkapM4UY&pp=ygU2QW5hdGhpIFRzaGFiZSAgc2Nod2Fyem1hbiAgc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv
-) |
+| Anathi Tshabe | University of the Free State | South Africa | [Watch Video](https://www.youtube.com/watch?v=NrchkapM4UY&pp=ygU2QW5hdGhpIFRzaGFiZSAgc2Nod2Fyem1hbiAgc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv) |
 | Gurchit Chatha | University of California, Berkeley | United States of America | [Watch Video](https://www.youtube.com/watch?v=IFcTVVabiuo&pp=ygUqR3VyY2hpdCBDaGF0aGEgc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv) |
 | Jin Young Lim | Peking University, Waseda University | Malaysia | [Watch Video](https://www.youtube.com/watch?v=c_hcqnuTFSc&pp=ygU2SmluIFlvdW5nIExpbSAgc2Nod2Fyem1hbiAgc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVv) |
 | Lena Hoffmann | Vrije Universitet Amsterdam | Germany | [Watch Video](https://www.youtube.com/shorts/FBlIoREM8l0) |
-| Lucio Milanese | Imperial College London, Massachusetts Institute of Technology | Italy | [Watch Video](https://www.youtube.com/watch?v=yMldSmixA-o&pp=ygU4IEx1Y2lvIE1pbGFuZXNlICBzY2h3YXJ6bWFuICBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D
-) |
+| Lucio Milanese | Imperial College London, Massachusetts Institute of Technology | Italy | [Watch Video](https://www.youtube.com/watch?v=yMldSmixA-o&pp=ygU4IEx1Y2lvIE1pbGFuZXNlICBzY2h3YXJ6bWFuICBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW8%3D) |
 | Matea Kocevska | New York University | North Macedonia | [Watch Video](https://www.youtube.com/watch?v=1XAUlBhJBPA) |
-| Michael McPhail | University of Western Australia | Australia | [Watch Video](https://www.youtube.com/watch?v=uw-iqK3RMoE&pp=ygU3TWljaGFlbCBNY1BoYWlsIHNjaHdhcnptYW4gIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D
-) |
+| Michael McPhail | University of Western Australia | Australia | [Watch Video](https://www.youtube.com/watch?v=uw-iqK3RMoE&pp=ygU3TWljaGFlbCBNY1BoYWlsIHNjaHdhcnptYW4gIHNjaG9sYXJzIGludHJvZHVjdGlvbiB2aWRlbw%3D%3D) |
 | Patrik Birkle | University College London | Germany | [Watch Video](https://www.youtube.com/watch?v=Prs1VtXYeUo&pp=ygU5VGF5bGFoIEJsYW5kIHNjaHdhcnptYW4gc2Nob2xhcnMgaW50cm9kdWN0aW9uIHZpZGVvIHZpZGVv) |
 | Paulina Ruta | University of Pennsylvania | United States of America | [Watch Video](https://www.youtube.com/watch?v=aXw_BPFA8AE) |
-| Trevaughn Latimer | Loyola University Chicago | United States of America | [Watch Video](https://www.youtube.com/watch?v=pgj9yuPHyYk&pp=ygU7VHJldmF1Z2huIExhdGltZXIgICBzY2h3YXJ6bWFuICBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW_SBwkJUQsBhyohjO8%3D
-) |
+| Trevaughn Latimer | Loyola University Chicago | United States of America | [Watch Video](https://www.youtube.com/watch?v=pgj9yuPHyYk&pp=ygU7VHJldmF1Z2huIExhdGltZXIgICBzY2h3YXJ6bWFuICBzY2hvbGFycyBpbnRyb2R1Y3Rpb24gdmlkZW_SBwkJUQsBhyohjO8%3D) |
 
 ## Cohort 2021
 | Name | University | Country | Link |
