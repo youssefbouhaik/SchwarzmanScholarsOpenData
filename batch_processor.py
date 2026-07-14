@@ -108,8 +108,8 @@ def process_all():
     
     if not os.path.exists(report_file):
         with open(report_file, "w") as f:
-            f.write("# Schwarzman Scholars - Individual AI Profiles\\n\\n")
-            f.write("This report contains a psychological and thematic profile for each admitted scholar's video, generated entirely by ML.\\n\\n")
+            f.write("# Schwarzman Scholars - Individual AI Profiles\n\n")
+            f.write("This report contains a psychological and thematic profile for each admitted scholar's video, generated entirely by ML.\n\n")
     
     # Read existing IDs to allow resume
     with open(report_file, "r") as f:
@@ -123,7 +123,7 @@ def process_all():
             print(f"Skipping {name} (already processed)")
             continue
             
-        print(f"\\nProcessing: {name} ({vid_id})")
+        print(f"\nProcessing: {name} ({vid_id})")
         
         # Extract the actual ID for the filename to prevent invalid paths
         clean_id = vid_id.split("v=")[-1] if "v=" in vid_id else vid_id
@@ -158,16 +158,16 @@ def process_all():
             
         # Write to report
         with open(report_file, "a") as f:
-            f.write(f"## {name} (Cohort {row['cohort_year']})\\n")
-            f.write(f"- **Undergrad:** {row.get('undergraduate_university', 'N/A')}\\n")
-            f.write(f"- **Video ID:** `{vid_id}`\\n")
-            f.write("### AI Analysis\\n")
-            f.write(f"- **Visual Charisma & Warmth Score:** {emotion_data['score']:.1f}/100 (Happy: {emotion_data['happy']:.1f}%, Neutral: {emotion_data['neutral']:.1f}%)\\n")
-            f.write(f"- **Vocal/Thematic Sentiment:** {sentiment:.2f} (Positive > 0.1 is optimistic)\\n")
-            f.write(f"- **Core Themes (Keywords):** {', '.join(keywords) if keywords else 'None detected'}\\n")
-            f.write("### Transcript Summary\\n")
-            f.write(f"> {transcript[:400]}...\\n\\n")
-            f.write("---\\n\\n")
+            f.write(f"## {name} (Cohort {row['cohort_year']})\n")
+            f.write(f"- **Undergrad:** {row.get('undergraduate_university', 'N/A')}\n")
+            f.write(f"- **Video ID:** `{vid_id}`\n")
+            f.write("### AI Analysis\n")
+            f.write(f"- **Visual Charisma & Warmth Score:** {emotion_data['score']:.1f}/100 (Happy: {emotion_data['happy']:.1f}%, Neutral: {emotion_data['neutral']:.1f}%)\n")
+            f.write(f"- **Vocal/Thematic Sentiment:** {sentiment:.2f} (Positive > 0.1 is optimistic)\n")
+            f.write(f"- **Core Themes (Keywords):** {', '.join(keywords) if keywords else 'None detected'}\n")
+            f.write("### Transcript Summary\n")
+            f.write(f"> {transcript[:400]}...\n\n")
+            f.write("---\n\n")
 
 if __name__ == "__main__":
     process_all()
