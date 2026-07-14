@@ -1,1 +1,17 @@
-frontend/
+# Node modules
+frontend/node_modules/
+node_modules/
+
+# Python virtual environments
+.venv_ml/
+.venv/
+venv/
+__pycache__/
+
+# Heavy video files
+frontend/public/videos/*.mp4
+data/videos/*.mp4
+
+# Environment variables
+.env
+.DS_Store
