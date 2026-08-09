@@ -54,3 +54,45 @@
 - `data/bios_clusters.csv` (`shorthand,cluster,cluster_name`) → join on `name` to `data/video_legend.csv` (`shorthand`) → `data/bios_clusters_pca.csv` (`pca0,pca1`) for any PNG: `plt.scatter(pca0,pca1,c=cluster)` + `annotate(shorthand)` — see `analytics_dashboard/bios_clusters_pca.png`.
 - To make “Schwarzman vs others” simple: filter `cluster==3` vs `cluster==0` and plot `region` share (US/CN/Other tables in `docs/VIDEO_LEGEND.md` already grouped). Or compare any cluster to `all 1497` baseline (`region` counts).
 - **Next data to break H-level:** fill 50 pending videos (`make transcripts` — free Whisper) → re-run KMeans on *transcripts* (spoken language vs bios) and see if Health/Tech video language converges.
+
+
+---
+
+## Distributions for the names of people that applied — grouped by cluster
+
+Each cluster below is a **name group** you can copy into your own application framing. Shorthand = First+Last (from `data/video_legend.csv` style) for readable plots; full lists in `data/cluster_names/cluster_*.csv`.
+
+| Cluster | n | Region mix (from `bios_clusters_by_region.png`) | Cohort 2026/2027 | Top feeder signal |
+|---|---|---|---|---|
+| **Tech-Business Builders (n104)** | 36% | US 38% · CN 15% · Other 16% · Asia-Pac 9% | 51 / 53 (stable) | Dispersed — no single feeder, `MIT/Stanford/Tsinghua` scattered (see `bios_clusters_by_feeder.png`) |
+| **Policy/International (n84)** | 29% | US 64% · CN 11% · Europe/LatAm 8% | 43 / 41 | **Harvard-heavy** — `Harvard` appears as top-3 term in cluster only here |
+| **Climate & China Bridge (n70)** | 25% | **CN 44%** · US 13% · Europe/LatAm 14% | 36 / 34 | Most China-concentrated — `Hong Kong, Tsinghua, climate` story |
+| **Health Systems (n27)** | 9% | US 48% · CN 15% · Africa/MiddleEast 15% | 14 / 13 | Most dispersed — no dominant feeder (good if you’re non-traditional) |
+
+**Name distributions — the actual people (first 8 shorthand per cluster, full in `data/cluster_names/`):**
+
+- **Tech-Business:** `AZ Adele Zhong (CN), AD Akorfa Dagadu (Ghana/MIT), AM Albee Mote (Myanmar), AH Alessandro Hammond (US/Harvard), SD Shir Diner...` → *founders who shipped tech for development*.
+- **Policy/Intl:** `AH Aili Hou (US/Columbia), AG Aleena Gul (US/Yale), AK Aleksandr Kuzmenchuk (US/W&M), AW Amanda Whylie (Jamaica)...` → *IR/law institutional language*.
+- **Climate-Bridge:** `AS Ajay Sawant (India), AT Alex Tseng (US/Princeton), AT Alicia Tien (MY/Tsinghua), LO Lozangtashi (CN/Tibet)...` → *climate/education + China bridge*.
+- **Health:** `AB Anita Bassey (US), AE Ayotomiwa Elesho (Nigeria/Ibadan), DC Daphne Chebesi (Cameroon/Ashesi)...` → *health equity systems builders*.
+
+![By region](analytics_dashboard/bios_clusters_by_region.png)
+![By cohort](analytics_dashboard/bios_clusters_by_cohort.png)
+![By feeder](analytics_dashboard/bios_clusters_by_feeder.png)
+
+---
+
+## What they actually accept — and how to sway your fit
+
+**Read the images you shared:** the L-system tree (*Schwarzman Open Data* cover) is the *single* growth metaphor they want — one trunk (you) branching to many systems — and the treemap (*USA/China/global/international/policy/…*) proves they don’t rank words by frequency of `the/and` but by `china/global/united` — bridge language dwarfs everything else.
+
+**Use the 4 doors to aim, not to list:**
+
+1.  **Pick one door** — Don’t write “I do health *and* climate *and* fintech.” The PCA (`bios_clusters_pca.png`) shows hybrids sit in the middle and blur. Choose the cluster whose top words you can *prove* with verbs: Tech needs `founded/led + technology`, Policy needs `international/law/policy + institution`, Climate needs `china/tsinghua/climate`, Health needs `health/access/systems + community`.
+2.  **Bridge is non-negotiable** — Even the Health cluster has `china, global` top-12. Your SOP must contain a US↔China translation moment (not “I love China” but “*I translated X between systems*” — e.g., `Geneva translation > founder hero` from `INTERVIEWS.md`). Test: does your draft contain `cross-cultural / exchange / hong kong / tsinghua / global`? If not, you’re in the `passionate 58` trap.
+3.  **Verb > adjective** — The treemap you sent shows `founded, aims, led, health, policy, development` as the large blocks after `USA/China/global`. Mirror that: `founded` (73) and `led` (71) outrank `passionate` (58) 6:1. Write 3 verbs with numbers.
+4.  **Fit the distribution, not the feeder** — Policy loves Harvard, but Tech-Business and Climate *don’t* — they’re feeder-dispersed (`bios_clusters_by_feeder.png`). If you’re not at an elite feeder, apply via Tech/Climate where `MIT/Stanford/Tsinghua/state school (Fresno CS27, Montana DM27)` all win. Don’t apologize for your school — pick the door where your proof already fits.
+5.  **If you have a video, use it as compensatory** — Warmth v2 mean 63.1: warm + optimistic (top-right of `warmth_vs_sentiment_all74_shorthand.png`) over-shares from Africa/LatAm/Europe (10-14% vs 2.7% CN). If you’re from an under-represented region, a 60s public 1-min intro (YouTube) is leverage; if you’re CN, your bio does the work — video under-share (0.7%) means don’t force it.
+
+> **Copy-paste for your own draft:** open `data/bios_clusters_with_region.csv`, filter `cluster==3` (Tech) and `region==your region`, read 5 bios in that slice — steal the sentence shape, not the content. Then run `python scripts/bios_nlp.py` on your own bio draft to see which cluster you land in before you submit.
+
