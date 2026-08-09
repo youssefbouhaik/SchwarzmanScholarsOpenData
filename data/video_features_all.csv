@@ -1,0 +1,75 @@
+shorthand,vid,name,cohort,region,country,university,warmth_v2,sentiment,has_bio,status
+AA18,y8b9NvyEYJs,Abdullah Almiqasbi,2018,Africa,Libya,University of Nottingham,76.7,0.13,0,scored
+CP18,Yq4m7urLTZs,Collin Parker,2018,US,United States of America,United States Military Academy at West Point,NA,NA,0,pending
+MM18,BHbcyDjIILc,Mark McGinnis,2018,US,United States of America,United States Military Academy at West Point,NA,NA,0,pending
+MS18,Mf1FHwNbOvQ,Mollie Saltskog,2018,Other,Sweden,Yale-NUS College,NA,NA,0,pending
+PG18,zGVnKAos_Uo,Paula Martínez Gutiérrez,2018,LatAm,Mexico,Brown University,NA,NA,0,pending
+BC19,biimnNZ_6Us,Bor Hung Chong,2019,Other,Malaysia,Hong Kong University of Science and Technology,55.4,0.21,0,scored
+CC19,kipw95qFY3E,Capucine Cogné,2019,Europe,France,London School of Economics and Political Science,90.2,0.16,0,scored
+HW19,UZai5XwY-l0,Hugo Wood,2019,Other,Panama,"Tulane University, Universidad Católica Santa María La Antigua",NA,NA,0,pending
+AD20,Ieccvd2jkaI,Abdourahamane Diallo,2020,Africa,Guinea,"Baruch College, The City University of New York",52.7,0.09,0,scored
+AA20,ByzmZ6edkcc,Adedotun Adejare,2020,US,United States of America,University of Pennsylvania,77.8,0.24,0,scored
+EA20,zkUex_CYFZ0,Elsa Alvarado,2020,US,United States of America,Middlebury College,46.2,0.18,0,scored
+LD20,0qr-_TpqsKw,Laura Darnley,2020,UK,United Kingdom,King's College London,54.9,0.06,0,scored
+MR20,vV1MfWotcPM,Mohamed Ramy,2020,Other,Egypt,Amherst College,NA,NA,0,pending
+VS20,qT2y4ZxLBEo,Varun Sharma,2020,US,United States of America,University of Virginia,59.1,0.09,0,scored
+CV21,Jcc33F58Sak,Christopher Vassallo,2021,US,United States of America,Harvard University,NA,NA,0,pending
+DD21,by3s8SNK-Z0,Debpriya Das,2021,Asia-Pacific,Bangladesh,University of Melbourne,74.7,0.12,0,scored
+MD21,Lv5QrS_Fi28,Mariam Dogar,2021,US,United States of America,Massachusetts Institute of Technology,90.1,0.07,0,scored
+SN21,ofVs_cdEw2Q,Shreya Nayak,2021,CA,Canada,University of Toronto,NA,NA,0,pending
+AT22,NrchkapM4UY,Anathi Tshabe,2022,Other,South Africa,University of the Free State,NA,NA,0,pending
+GC22,IFcTVVabiuo,Gurchit Chatha,2022,US,United States of America,"University of California, Berkeley",49.3,0.27,0,scored
+JL22,c_hcqnuTFSc,Jin Young Lim,2022,Other,Malaysia,"Peking University, Waseda University",NA,NA,0,pending
+LH22,FBlIoREM8l0,Lena Hoffmann,2022,Europe,Germany,Vrije Universitet Amsterdam,41.0,0.23,0,scored
+LM22,yMldSmixA-o,Lucio Milanese,2022,Other,Italy,"Imperial College London, Massachusetts Institute of Technology",NA,NA,0,pending
+MK22,1XAUlBhJBPA,Matea Kocevska,2022,Other,North Macedonia,New York University,NA,NA,0,pending
+MM22,uw-iqK3RMoE,Michael McPhail,2022,Asia-Pacific,Australia,University of Western Australia,NA,NA,0,pending
+PB22,Prs1VtXYeUo,Patrik Birkle,2022,Europe,Germany,University College London,56.0,0.12,0,scored
+PR22,aXw_BPFA8AE,Paulina Ruta,2022,US,United States of America,University of Pennsylvania,NA,NA,0,pending
+TL22,pgj9yuPHyYk,Trevaughn Latimer,2022,US,United States of America,Loyola University Chicago,45.1,0.03,0,scored
+BJ23,JXTQ2zX-uss,Bailey Johnson,2023,US,United States of America,University of Mary Washington,NA,NA,0,pending
+CW23,rzakTV9mYSU,Christina Wiremu-Brook,2023,Other,New Zealand,Middlebury College,NA,NA,0,pending
+DM23,drO5k8wttkg,Damian Murray,2023,US,United States of America,"Jackson State University, Columbia University",NA,NA,0,pending
+DI23,w-itBoF6kCQ,Daniel James II,2023,US,United States of America,Cornell University,NA,NA,0,pending
+JC23,1hNJgD0gmdM,Justin L. Curl,2023,US,United States of America,Princeton University,43.3,0.13,0,scored
+LT23,jSAmaOjxvIg,Lea Thome,2023,Europe,Germany,University of Rochester,NA,NA,0,pending
+LN23,uRsh02Z5Wgk,Lloyd Jose Nunag,2023,Other,Philippines,"Trinity University of Asia, University of London",NA,NA,0,pending
+MS23,PHADsJDcvSM,Manthan Shah,2023,Asia-Pacific,India,S P Jain School of Global Management,NA,NA,0,pending
+MZ23,bHS2QVh4NiY,Mikhail Zamskoy,2023,Other,Russia,University of Bologna,NA,NA,0,pending
+NR23,F0cJKKFZ0ho,Neel Reddy,2023,US,United States of America,University of Texas at Dallas,NA,NA,0,pending
+NM23,BimixKUh3Nc,Nicolás Tamayo Medina,2023,LatAm,Colombia,Universidad de Los Andes,NA,NA,0,pending
+SZ23,6F7Va8MPkrY,Sam Zahn,2023,US,United States of America,"University of North Carolina, Chapel Hill",NA,NA,0,pending
+TN23,g8L_Nu-pzfs,Trishna Nagrani,2023,Other,Panama,University of Warwick,NA,NA,0,pending
+YW23,ZzBa2Ju8TdY,Yuchen Wang,2023,CN,China,"George Washington University, Johns Hopkins University",NA,NA,0,pending
+HM24,Uui00mSb1w4,Hans Mulyawan,2024,Asia-Pacific,Indonesia,National University of Singapore,NA,NA,0,pending
+KG24,x1RFfz3Lgrc,Kay Glaeske,2024,Europe,Switzerland,Universität St. Gallen,43.0,0.18,0,scored
+KM24,Csus3oAfO30,Kléber Paucar Molina,2024,LatAm,Ecuador,King's College London,NA,NA,0,pending
+MI24,wnbpEnDFOAQ,Martha Isaacs,2024,US,United States of America,"University of North Carolina, Chapel Hill",66.7,0.02,0,scored
+NP24,MaQDjEXUfVc,Natalia Paz Méndez Ponce,2024,Other,Chile,Universidad de Santiago de Chile,NA,NA,0,pending
+DY25,CwuCdIvDfFo,Daiki Yoshioka,2025,Asia-Pacific,Japan,Binghamton University,NA,NA,0,pending
+EG25,cN0QwVZEoWk,Emmanuel Godfrey,2025,Africa,Liberia,"African Leadership University, Rwanda",87.1,0.07,0,scored
+FH25,UzkPwRgB_eQ,Franz Hohmann,2025,Europe,Germany,"Ludwig-Maximilians-Universität München, Frankfurt School of Finance & Management",54.3,0.07,0,scored
+JO25,K3w3xqjFhek,Jennelle Ohene-Agyei,2025,US,United States of America,"Hunter College, The City University of New York",NA,NA,0,pending
+JV25,jAatbVbt2Dw,Juan Venancio,2025,US,United States of America,Harvard University,NA,NA,0,pending
+LE25,D-2AlbMTsVc,Lance Entsuah,2025,US,United States of America,University of Cincinnati,57.2,0.08,0,scored
+RS25,tcTDKYH-wA0,Ruqaiyah Mohamed Shiraz,2025,Asia-Pacific,Sri Lanka,University College London,NA,NA,0,pending
+WL25,nTHh8j0Wtzg,William Li,2025,US,United States of America,Swarthmore College,NA,NA,0,pending
+AM26,EWg0WqCZv_w,Angelo Mok,2026,US,United States of America,University of Southern California,NA,NA,1,pending
+CA26,jasK1AyzUhE,Celene Aridin,2026,US,United States of America,"University of California, Davis",49.9,0.12,1,scored
+GW26,ctP1TZ_RPUU,Garrett Williams,2026,US,United States of America,University of Georgia,NA,NA,1,pending
+ML26,KDwyZQMsILg,Maha Latif,2026,Asia-Pacific,Pakistan,National Defence University,NA,NA,1,pending
+MH26,GTn_TetMxiM,Moriah Hamilton,2026,Other,Guyana,Howard University,77.3,0.36,1,scored
+SL26,imwXwnyzpRU,Stephanie Lin,2026,US,United States of America,Harvard University,NA,NA,1,pending
+TN26,nXSYcZCLoJU,Tra Nguyen,2026,Asia-Pacific,Vietnam,Szent Istvan University,NA,NA,1,pending
+YN26,paf6_SEO7Pw,Yu Ci Faye Ng,2026,Asia-Pacific,Singapore,National University of Singapore,NA,NA,1,pending
+AT27,mPn5iU6ge_k,Alex Tseng,2027,US,United States of America,Princeton University,NA,NA,1,pending
+AB27,tQfOHnKnxZU,Anita Bassey,2027,US,United States of America,Northwestern University,97.3,0.16,1,scored
+CS27,yOkVcvo2wgM,Camalah Saleh,2027,US,United States of America,"California State University, Fresno",NA,NA,1,pending
+DM27,2z5mKPO6kEM,Daniel Martin,2027,US,United States of America,University of Montana,NA,NA,1,pending
+FM27,lduZ1CGIWFk,Francis Mok,2027,US,United States of America,Beijing Film Academy,NA,NA,1,pending
+HK27,5ois4AqfhBE,Hamza Khawaja,2027,Asia-Pacific,Pakistan,Lahore University of Management Sciences,NA,NA,1,pending
+ND27,HQjrNDE7m3g,Natalie Delille,2027,US,United States of America,"Howard University, University of Cambridge, Georgetown University",68.3,0.2,1,scored
+PO27,KOc-z_MBsSs,Patricio Ortiz,2027,US,United States of America,Stanford University,NA,NA,1,pending
+ST27,-CYnL7XpHO0,Sara Torres,2027,LatAm,Colombia,"Tufts University, University of Oxford",NA,NA,1,pending
+SL27,imwXwnyzpRU,Stephanie Li,2027,CN,China,"Duke Kunshan University, Columbia University",NA,NA,1,pending
+XR27,9OS18lCo8Tw,Xavier Ramirez,2027,US,United States of America,Indiana University,NA,NA,1,pending
