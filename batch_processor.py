@@ -125,9 +125,14 @@ def process_all():
             
         print(f"\nProcessing: {name} ({vid_id})")
         
-        # Extract the actual ID for the filename to prevent invalid paths
-        clean_id = vid_id.split("v=")[-1] if "v=" in vid_id else vid_id
-        video_path = f"frontend/public/videos/{clean_id}.mp4"
+        # Extract clean ID (handles watch?v= and shorts)
+        if "/shorts/" in vid_id:
+            clean_id = vid_id.split("/shorts/")[1].split("?")[0].split("/")[0]
+        else:
+            clean_id = vid_id.split("v=")[-1].split("&")[0] if "v=" in vid_id else vid_id.split("/")[-1].split("?")[0]
+        # Use repo-local data/videos to avoid missing frontend dir
+        os.makedirs("data/videos", exist_ok=True)
+        video_path = f"data/videos/{clean_id}.mp4"
         
         if not download_video(vid_id, video_path):
             continue
@@ -156,10 +161,15 @@ def process_all():
         except:
             pass
             
-        # Write to report
+        # Write to report — fix column name: dataset uses 'university' not 'undergraduate_university'
+        # also handle shorts extraction for clean_id
+        if "/shorts/" in vid_id:
+            clean_id = vid_id.split("/shorts/")[1].split("?")[0].split("/")[0]
+        else:
+            clean_id = vid_id.split("v=")[-1].split("&")[0] if "v=" in vid_id else vid_id.split("/")[-1].split("?")[0]
         with open(report_file, "a") as f:
             f.write(f"## {name} (Cohort {row['cohort_year']})\n")
-            f.write(f"- **Undergrad:** {row.get('undergraduate_university', 'N/A')}\n")
+            f.write(f"- **Undergrad:** {row.get('university', row.get('undergraduate_university', 'N/A'))}\n")
             f.write(f"- **Video ID:** `{vid_id}`\n")
             f.write("### AI Analysis\n")
             f.write(f"- **Visual Charisma & Warmth Score:** {emotion_data['score']:.1f}/100 (Happy: {emotion_data['happy']:.1f}%, Neutral: {emotion_data['neutral']:.1f}%)\n")

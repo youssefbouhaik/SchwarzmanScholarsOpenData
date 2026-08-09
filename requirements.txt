@@ -1,0 +1,16 @@
+# Core - plots & data
+pandas==2.2.2
+matplotlib==3.8.4
+seaborn==0.13.2
+# Video + ML (optional for batch_processor.py - heavy)
+yt-dlp>=2024.0
+opencv-python>=4.9
+deepface>=0.0.93
+openai-whisper>=20231117
+TextBlob>=0.18
+rake-nltk>=1.0.6
+nltk>=3.8
+# App (optional)
+streamlit>=1.35
+# Lint
+pandas-stubs>=2.2
