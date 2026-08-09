@@ -89,25 +89,19 @@ Box/strip — warmth v2 by cohort. Run `python scripts/video_pipeline.py` → `d
 
 All figures regenerative: `python generate_plots.py` reads `data/schwarzman_scholars_dataset.csv` **and** `ADMITTED_SCHOLAR_PROFILES.md` / `data/meta/*.json` for warmth (fallback when `meta/` empty). No hardcoded dirs.
 
-### Word Cloud — 4K Hybrid Treemap (285 bios, active words only) — Figure 7-2 amended
+### The language of admission — what 285 bios actually say
 
-Hybrid treemap of 285 public bios — active words only (stopwords/countries/unis removed), thin gray grid `strokeWeight(0.25f)`, white fill, text only when fits. Mirrors *Visualizing Data* Figure 7-2 (Mark Twain equator) but for Scholar bios. **This is the 4K word visual.**
+Bios aren't essays. They're third-person institutional captions (avg 685 chars, 285/1497 = 19% have one, formal-flat sentiment mean 0.064). What the committee *chooses to print* is a signal.
 
-![Schwarzman Hybrid 4K — bios treemap](analytics_dashboard/schwarzman_hybrid_4K.png)
+Across `data/bios_words.csv` (active words only — 1,412× `and` / 1,129× `the` stripped, POS-filtered to NN/VB/JJ/RB), three vocabularies dominate:
 
-> Active top terms: *university 276, china 230, global 175, united 149...* — hybrid 4K is the hero word-visual. Full terms in `data/bios_words.csv`.
+- **Bridge** — `china 230, global 175, united 149, international 139, states 130` (total 970). The U.S.–China bridge mission in words. `world 53, cultural, exchange` extend it. No scholar is captioned as just "smart" — they're placed on a bilateral map.
+- **Knowledge** — `university 276, policy 114, research 82, education 79, development 78, studies 76, technology 71, science 63` (total 839). Academic-policy infrastructure, not "passion" alone. Scholars are framed by institution and field, not by adjective.
+- **Leadership as action** — `founded 73, led 71, president 68, served 59, leadership 52, founder` (total 360). Verbs, not titles. `passionate 58` appears but is outranked 6:1 by deeds. The caption rewards *what you built/led*, not how you feel.
 
-### Bios Word Treemaps — RAW vs CLEAN (active vs connector words)
+**So what?** If you read 10 bios back-to-back, you stop seeing individuals and start seeing an archetype: *a university-credentialed person who has already built something (lab, NGO, team) and is positioned to translate between systems, especially China↔West, via policy/research.* That is the story the words tell — not "brilliant students," but "translators with proof."
 
-**RAW (stopwords kept):** `and 1,412 > the 1,129 > a 890...` — proves why `the/and` dominate and hide signal (like your Mark Twain figure).
-
-![Bios Word Treemap RAW](analytics_dashboard/bios_word_treemap.png)
-
-**CLEAN (active words only, POS-filtered NN/VB/JJ/RB):** `university 276, china 230, global 175...` — informative view (viridis, size = frequency).
-
-![Bios Word Treemap CLEAN](analytics_dashboard/bios_word_treemap_clean.png)
-
-> Source: `python scripts/bios_nlp.py` → `analytics_dashboard/bios_*.png` + `data/bios_words.csv` + `data/bios_sentiment.csv`.
+> Full counts + method in `data/bios_words.csv` and `scripts/bios_nlp.py` (stopwords + `nltk pos_tag`). One visual summary lives in `analytics_dashboard/schwarzman_hybrid_4K.png` (Figure 7-2–style treemap, active words only) — useful as a reference, not as a cloud of slop. `and/the` raw treemap is omitted here on purpose: it only proves stopwords hide signal.
 
 ### Geographic — scholar home locations (Figure 6-1 amended, zip-code style)
 
