@@ -103,7 +103,9 @@ Across `data/bios_words.csv` (active words only — 1,412× `and` / 1,129× `the
 
 **So what?** If you read 10 bios back-to-back, you stop seeing individuals and start seeing an archetype: *a university-credentialed person who has already built something (lab, NGO, team) and is positioned to translate between systems, especially China↔West, via policy/research.* That is the story the words tell — not "brilliant students," but "translators with proof."
 
-> Full counts + method in `data/bios_words.csv` and `scripts/bios_nlp.py` (stopwords + `nltk pos_tag`). One visual summary lives in `analytics_dashboard/schwarzman_hybrid_4K.png` (Figure 7-2–style treemap, active words only) — useful as a reference, not as a cloud of slop. `and/the` raw treemap is omitted here on purpose: it only proves stopwords hide signal.
+ > Full counts + method in `data/bios_words.csv` and `scripts/bios_nlp.py` (stopwords + `nltk pos_tag`). One visual summary lives in `analytics_dashboard/schwarzman_hybrid_4K.png` (Figure 7-2–style treemap, active words only) — useful as a reference, not as a cloud of slop. `and/the` raw treemap is omitted here on purpose: it only proves stopwords hide signal.
+
+> **Deeper:** 4 archetypes cluster the 285 bios via public `sklearn` TF-IDF 400 + KMeans k=4 + PCA — see `docs/HYPOTHESES.md` + `analytics_dashboard/bios_clusters_pca.png` (`Tech-Business 36%, Policy-Intl 29%, Climate-Bridge 25%, Health 9%`) and `data/bios_clusters.csv` (`shorthand,cluster`) for any shorthand plot. 5 hypotheses (Four doors, Bridge>brilliance, Verb>noun, University as signal, Video as compensatory) live there.
 
 ### Geographic — scholar home locations (Figure 6-1 amended, zip-code style)
 

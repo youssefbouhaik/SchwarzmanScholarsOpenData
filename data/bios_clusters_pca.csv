@@ -1,0 +1,286 @@
+name,shorthand,country,university,cohort_year,cluster,cluster_name,pca0,pca1,cluster_short
+Amber,AM,China,Peking University,2026,3,Tech-Business Builders (n104),-0.1088433069590295,-0.1119325599017282,Tech-Business
+Lozangtashi,LO,China,"South-Central Minzu University, Beijing Normal University",2026,1,Climate & China Bridge (n70),0.0342351976106926,0.0008955559809495,Climate-Bridge
+Fei Abdi,FA,United States of America,University of Minnesota: Twin Cities,2026,3,Tech-Business Builders (n104),-0.1976250391310605,0.0619792645241343,Tech-Business
+Nurzada Abdivalieva,,Kyrgyzstan,"American University of Central Asia, University of Cambridge, KDI School of Public Policy and Management",2026,1,Climate & China Bridge (n70),-0.1595352512731733,9.216585814044534e-05,Climate-Bridge
+Diamond Abiakalam Chinagorom,DC,Nigeria,Mount Holyoke College,2026,0,Health Systems (n27),-0.1030715291292441,0.0524495816073047,Health
+Jason Adelhoefer,JA,Germany,Berlin Humboldt University,2026,1,Climate & China Bridge (n70),-0.0306485961265094,0.1079081945206571,Climate-Bridge
+Naomi Adeniji,,Ireland,Trinity College Dublin,2027,1,Climate & China Bridge (n70),-0.2229374121827112,-0.1176104343672771,Climate-Bridge
+Victoria Agostini,VA,United States of America,Pomona College,2026,3,Tech-Business Builders (n104),0.0286212251432175,-0.0207772269234137,Tech-Business
+Ariana Ahmed,AA,United States of America,"Hunter College, The City University of New York",2026,2,Policy/International (n84),-0.0137332237070348,0.1348315593084222,Policy-Intl
+Zarrish Ahmed,ZA,Pakistan,Georgetown University,2027,2,Policy/International (n84),0.1974630596230812,-0.0151155591676764,Policy-Intl
+Emmanuel Akandwanaho,EA,Uganda,Makerere University Kampala,2026,3,Tech-Business Builders (n104),-0.1221107612974845,-0.0639748197735124,Tech-Business
+Oluwadamilola Akintewe,OA,Nigeria,Adekunle Ajasin University,2026,3,Tech-Business Builders (n104),-0.1294841770066721,-0.0154113645533503,Tech-Business
+Maha AlAbduljabbar,MA,Saudi Arabia,Alfaisal University,2027,3,Tech-Business Builders (n104),-0.2332947224941269,-0.0905032899064098,Tech-Business
+Ryan Alezz,RA,United States of America,Johns Hopkins University,2027,0,Health Systems (n27),-0.2513873231017021,0.3911846885734549,Health
+Esen Alimzhan uulu,EU,Kyrgyzstan,Corvinus University of Budapest,2027,3,Tech-Business Builders (n104),-0.1726328578578262,-0.1434285054204946,Tech-Business
+Laith Aljohmani,LA,Ireland,Trinity College Dublin,2027,0,Health Systems (n27),-0.1436999934333003,0.1299626005427409,Health
+Leonardo Alves Amaral Torres,LT,Brazil,"Universidade de São Paulo, Institut Polytechnique de Grenoble",2027,1,Climate & China Bridge (n70),-0.0946648599195845,-0.0741469966650211,Climate-Bridge
+Phillip An,PA,United States of America,"California Institute of Technology, Harvard University",2026,3,Tech-Business Builders (n104),0.0095239564859064,0.1242737232669536,Tech-Business
+Jack Anderson,JA,Australia,"University of Western Australia, Harvard University",2026,3,Tech-Business Builders (n104),-0.0454607261948016,0.167400588640466,Tech-Business
+Stephanie Anderson,SA,United States of America,New York University,2027,2,Policy/International (n84),0.2423917918341993,0.0900113502196997,Policy-Intl
+Amara Anigbo,AA,United States of America,Dickinson College,2026,3,Tech-Business Builders (n104),-0.0666278402425809,-0.0040727490708903,Tech-Business
+Vilas Annavarapu,VA,United States of America,"University of Virginia, University of Mississippi",2026,1,Climate & China Bridge (n70),-0.0865218682819959,0.0126894467322989,Climate-Bridge
+Chinonso Anyanwu,CA,United States of America,"Rutgers, The State University of New Jersey: Newark Regional Campus",2026,3,Tech-Business Builders (n104),-0.0555012424856097,-0.0200464693556363,Tech-Business
+Celene Aridin,CA,United States of America,"University of California, Davis",2026,2,Policy/International (n84),0.07625288489846,0.0830540387212609,Policy-Intl
+Somya Arora,SA,United States of America,Princeton University,2027,3,Tech-Business Builders (n104),-0.1521490593202992,0.1993523024222936,Tech-Business
+Cowiya Arouna,CA,United States of America,Smith College,2026,1,Climate & China Bridge (n70),-0.0766158530385892,-0.0264048133402128,Climate-Bridge
+Sholpan Arzhan,SA,Kazakhstan,"Nazarbayev University, Central European University",2027,3,Tech-Business Builders (n104),0.0364666547299647,-0.1306398174066211,Tech-Business
+Garrett Audet,GA,Canada,Queen's University,2027,3,Tech-Business Builders (n104),-0.0615701700680561,-0.000603947819402,Tech-Business
+Joon Baek,JB,South Korea,Columbia University,2026,3,Tech-Business Builders (n104),-0.0806799370403004,-0.0414017128350741,Tech-Business
+Benedict Ballman,BB,United States of America,Vanderbilt University,2027,3,Tech-Business Builders (n104),-0.0698338126773834,0.0606964874319523,Tech-Business
+Christelle Barakat,CB,Lebanon,"Lebanese American University, University of North Carolina, Greensboro",2027,3,Tech-Business Builders (n104),0.0257252846385602,-0.1694225450769694,Tech-Business
+Jan Bartkowiak,JB,Poland,Minerva University,2026,3,Tech-Business Builders (n104),-0.0694145682408039,-0.021540535424773,Tech-Business
+Anita Bassey,AB,United States of America,Northwestern University,2027,0,Health Systems (n27),-0.1339949863864561,0.0811649237677278,Health
+Bat-Orgil Bat-Erdene,BB,Mongolia,"University of Arizona, University College London",2026,1,Climate & China Bridge (n70),-0.0974483098043626,-0.0558550107928782,Climate-Bridge
+Jack Bayanmunkh,JB,Mongolia,Swarthmore College,2027,1,Climate & China Bridge (n70),-0.0060453243558345,0.0481697830114863,Climate-Bridge
+Laxman Bist,LB,Nepal,Dartmouth College,2027,3,Tech-Business Builders (n104),-0.0738489500749365,-0.0719981010389927,Tech-Business
+Kalena Blake,KB,United States of America,Princeton University,2027,2,Policy/International (n84),0.3570476680688997,-0.0225938964306627,Policy-Intl
+Gustavo Blanco-Quiroga,GB,Bolivia,Princeton University,2027,1,Climate & China Bridge (n70),-0.0882230345258787,-0.0455363361003552,Climate-Bridge
+Natalie Bravo Ortiz,NO,Mexico,Instituto Tecnológico Autónomo de México,2026,2,Policy/International (n84),0.0556428735027215,-0.0003462118637524,Policy-Intl
+Anya Button,AB,United States of America,Duke University,2026,3,Tech-Business Builders (n104),-0.0986749369220602,-0.1242534741753044,Tech-Business
+Anne-Amélie Campant,AC,France,Yale University,2026,1,Climate & China Bridge (n70),0.0043087680528187,-0.1069099134582795,Climate-Bridge
+Yijia Cao,YC,China,New York University,2027,3,Tech-Business Builders (n104),-0.0921116723378155,-0.108242406596,Tech-Business
+Kendall Carll,KC,United States of America,Harvard University,2027,2,Policy/International (n84),0.2771080545925485,0.097683979069076,Policy-Intl
+Giancarlo Ceja,GC,United States of America,University of Southern California,2027,1,Climate & China Bridge (n70),0.0257770609158989,-0.1249924522989316,Climate-Bridge
+Jason Chau,JC,China,"University of Bristol, University of Oxford",2027,2,Policy/International (n84),0.192333849662829,-0.09571154316852,Policy-Intl
+Daphne Chebesi,DC,Cameroon,"Ashesi University, University of Edinburgh",2027,0,Health Systems (n27),-0.1633106144605809,-0.0232884097877926,Health
+Claire Chen,CC,China,Tsinghua University,2026,1,Climate & China Bridge (n70),-0.0370630508110102,-0.104428949855788,Climate-Bridge
+Melinda Chen,MC,China,Parsons School of Design,2026,3,Tech-Business Builders (n104),-0.1205281628315561,-0.0140966784320855,Tech-Business
+Yilin Chen,YC,China,Yale University,2026,1,Climate & China Bridge (n70),-0.1198383513594708,-0.1760919034038334,Climate-Bridge
+Alexander Cheng,AC,Australia,University of Technology Sydney,2027,3,Tech-Business Builders (n104),-0.0897245413763579,-0.0184768623824948,Tech-Business
+Jason Chiang,JC,China,The Chinese University of Hong Kong,2027,1,Climate & China Bridge (n70),-0.0576523441309436,-0.0616521491056461,Climate-Bridge
+Kelsey Chin,KC,United States of America,"Barnard College, Columbia University",2026,2,Policy/International (n84),0.2526041736661405,0.0658811761516362,Policy-Intl
+Ashley Choi,AC,China,New York University,2027,3,Tech-Business Builders (n104),-0.0716289119972027,-0.1240235835294754,Tech-Business
+Yash Chudasama,YC,Tanzania,African Leadership University,2027,3,Tech-Business Builders (n104),-0.1429156269281359,0.0017600135947739,Tech-Business
+Su Cizem,SC,United States of America,"University of California, Los Angeles, Northeastern University London",2027,3,Tech-Business Builders (n104),-0.0304112443975788,0.0396031497847289,Tech-Business
+Chandler Compton,CC,United States of America,Wofford College,2026,2,Policy/International (n84),0.2287381963126443,0.0153504033651426,Policy-Intl
+David Connah,DC,Australia,Australian National University,2026,3,Tech-Business Builders (n104),0.0634215640152127,-0.0426458892874931,Tech-Business
+Ottilie Cooper-Ohm,OC,United States of America,University of Nebraska - Omaha,2026,2,Policy/International (n84),0.0178982757142518,0.100942562076851,Policy-Intl
+Maria Gabriella Oliveira Costa,MC,Brazil,Universidade de São Paulo,2026,3,Tech-Business Builders (n104),-0.0102900349262007,-0.1381945185440934,Tech-Business
+Boran Cui,BC,China,Trinity College,2026,0,Health Systems (n27),-0.1750107230446293,0.0620750153621015,Health
+Shiqian Cui,SC,China,Tufts University,2026,3,Tech-Business Builders (n104),-0.1016834993862375,-0.1977719990016755,Tech-Business
+Akorfa Dagadu,AD,Ghana,Massachusetts Institute of Technology,2027,3,Tech-Business Builders (n104),-0.1582352668969469,-0.0107340118717858,Tech-Business
+Anna de Beer,AB,United Kingdom,"University of St Andrews, Barts and the London School of Medicine and Dentistry, Queen Mary University of London",2027,2,Policy/International (n84),0.0841262734911899,0.1249213400533869,Policy-Intl
+Gonzalo de la Cruz,GC,Spain,New York University,2026,3,Tech-Business Builders (n104),-0.1967311519030531,0.0227339791752634,Tech-Business
+Natalie Delille,ND,United States of America,"Howard University, University of Cambridge, Georgetown University",2027,3,Tech-Business Builders (n104),-0.0759741356767788,-0.0299620770577842,Tech-Business
+Camden Dempsey,CD,United States of America,"University of Colorado, Boulder",2027,3,Tech-Business Builders (n104),0.0332311247403478,-0.0308666356857318,Tech-Business
+Emily Deng,ED,United States of America,Stanford University,2027,3,Tech-Business Builders (n104),-0.0793982729097176,0.083784174768575,Tech-Business
+Shir Diner,SD,Israel,Ben Gurion University of the Negev,2027,3,Tech-Business Builders (n104),-0.0704196854883387,0.0133249305024416,Tech-Business
+Edward Dong,ED,United States of America,Harvard University,2027,2,Policy/International (n84),0.2510117621717633,0.1981480953628552,Policy-Intl
+Jonathan Eaton,JE,United States of America,Colgate University,2027,2,Policy/International (n84),0.2079704967353298,0.0435976791698866,Policy-Intl
+Maria Edison,ME,Canada,McMaster University,2026,3,Tech-Business Builders (n104),-0.092980804817712,-0.0431558686852865,Tech-Business
+Chinwendum Egbude,CE,Nigeria,"Afe Babalola University, University of Cambridge",2027,3,Tech-Business Builders (n104),-0.0418020124001395,-0.0412649218467888,Tech-Business
+Ayotomiwa Elesho,AE,Nigeria,University of Ibadan,2027,0,Health Systems (n27),-0.2040473948803501,0.1324948969896735,Health
+Donia Elmansy,DE,United States of America,Harvard University,2027,2,Policy/International (n84),0.2251272337237671,0.162664409200596,Policy-Intl
+Bryanna Entwistle,BE,United States of America,Dartmouth College,2027,2,Policy/International (n84),0.1959078734119994,-0.0046355040454474,Policy-Intl
+Daniela Espinal Fondeur,DF,Dominican Republic,"Universidad Autonoma de Santo Domingo, Sciences Po",2026,1,Climate & China Bridge (n70),0.1323600493627612,-0.1201165268715088,Climate-Bridge
+DaNae Estabine,DE,United States of America,University of Kansas,2026,2,Policy/International (n84),0.1375118727563266,0.1162260822001134,Policy-Intl
+Maria Fernanda Estrada,ME,United States of America,Williams College,2026,3,Tech-Business Builders (n104),-0.0134474242308629,-0.0424694286840216,Tech-Business
+Diana Ferreira Godinho,DG,Brazil,Stetson University,2027,3,Tech-Business Builders (n104),0.0065193801769528,-0.0740798783135424,Tech-Business
+Tage Fossgard-Moser,TF,Norway,Copenhagen Business School,2027,3,Tech-Business Builders (n104),-0.0418687261494332,-0.1030647875878986,Tech-Business
+Eboni Freeman,EF,United States of America,Emory University,2026,3,Tech-Business Builders (n104),-0.1156897909316471,0.0196621828367878,Tech-Business
+Mae Fullerton,MF,United States of America,Brown University,2026,2,Policy/International (n84),0.1090468351034674,0.0743826676107785,Policy-Intl
+Divya Ganesan,DG,United States of America,Stanford University,2027,2,Policy/International (n84),0.0607904043537995,0.1298639477874063,Policy-Intl
+Paw Mar Gay,PG,United States of America,Stanford University,2027,0,Health Systems (n27),-0.0319655202823535,0.2519799779455252,Health
+Leo Gerdén,LG,Sweden,Harvard University,2026,2,Policy/International (n84),0.2612820682874068,0.0161079803150825,Policy-Intl
+José Ginocchio Moraiz,JM,Argentina,Trinity College,2027,1,Climate & China Bridge (n70),-0.0243939486206663,-0.2043273467285244,Climate-Bridge
+Kellen Gitahi,KG,Kenya,Multimedia University of Kenya,2026,3,Tech-Business Builders (n104),-0.177352339535416,0.0313866161411456,Tech-Business
+Josué Godeme,JG,Benin,Dartmouth College,2027,3,Tech-Business Builders (n104),-0.083332466647694,0.1676616325799493,Tech-Business
+Nina Gohel,NG,United States of America,"Rutgers, The State University of New Jersey: New Brunswick/Piscataway Campus, Peking University",2026,2,Policy/International (n84),0.172099734658383,0.0791798630972796,Policy-Intl
+Yutao Gong,YG,China,"Duke University, Massachusetts Institute of Technology",2026,1,Climate & China Bridge (n70),-0.0404455213787102,-0.1574605793871527,Climate-Bridge
+Amanda Gonzalez Mejia,AM,Spain,Duke Kunshan University,2027,1,Climate & China Bridge (n70),-0.0987512150578196,-0.1736063642060866,Climate-Bridge
+Aleena Gul,AG,United States of America,Yale University,2027,2,Policy/International (n84),0.1533629664679408,-0.1165755279711473,Policy-Intl
+Yixuan Guo,YG,China,Xi'an Jiaotong Liverpool University,2027,1,Climate & China Bridge (n70),-0.1024160966651341,0.0037735129514501,Climate-Bridge
+Mahir Hamid,MH,Canada,Queen's University,2026,3,Tech-Business Builders (n104),-0.0033906641955742,-0.0811032048598391,Tech-Business
+Moriah Hamilton,MH,Guyana,Howard University,2026,1,Climate & China Bridge (n70),-0.1530650071761451,-0.1421350379477402,Climate-Bridge
+Princelawrenz Hamlin,PH,United States of America,Charles R. Drew University of Medicine and Science,2026,2,Policy/International (n84),0.0053882606261839,0.0704639095816612,Policy-Intl
+Alessandro Hammond,AH,United States of America,Harvard University,2026,3,Tech-Business Builders (n104),0.0472724351358974,0.0957966228069114,Tech-Business
+Jordan Harb,JH,United States of America,Arizona State University,2026,2,Policy/International (n84),-0.0270029334215339,0.1566622248589079,Policy-Intl
+Cynthia He,CH,China,Tsinghua University,2026,2,Policy/International (n84),0.0568277426827186,-0.0251888580059383,Policy-Intl
+David Hischier,DH,Switzerland,Universität St. Gallen,2027,3,Tech-Business Builders (n104),-0.0173393340643213,-0.121051687100573,Tech-Business
+Shaun Ho,SH,China,"Georgetown University, London School of Economics and Political Science",2026,1,Climate & China Bridge (n70),0.1071468384449019,-0.0866391693411386,Climate-Bridge
+Moritz Homrich,MH,Germany,WHU - Otto Beisheim School of Management,2026,3,Tech-Business Builders (n104),0.007505063344476,0.0213341103820859,Tech-Business
+Haoshan Hong,HH,China,Shanghai International Studies University,2027,1,Climate & China Bridge (n70),-0.0741590143042964,0.0251240897749094,Climate-Bridge
+Aili Hou,AH,United States of America,Columbia University,2027,2,Policy/International (n84),0.1650291780686414,0.0374650795336823,Policy-Intl
+Hpone Thit Htoo,HH,Myanmar,Brown University,2027,2,Policy/International (n84),0.0937421152278821,0.0343476666626756,Policy-Intl
+Rui Huang,RH,China,Vanderbilt University,2027,0,Health Systems (n27),-0.1818255122988333,0.3163859805856294,Health
+Sonabayim Huseynzade,SH,Azerbaijan,"Azerbaijan State Oil and Industry University, Technische Universität Dortmund",2027,3,Tech-Business Builders (n104),-0.0426007226016347,-0.0332362074384624,Tech-Business
+Hope Jackson,HJ,United States of America,"Duke University, Johns Hopkins University",2026,0,Health Systems (n27),-0.1813804493312285,0.4464837147061974,Health
+Bree Javed,BJ,Pakistan,Bahria University,2026,2,Policy/International (n84),0.1561418369541029,-0.0961196742611449,Policy-Intl
+Chengxi Jiang,CJ,China,"Nanjing University, Columbia University",2027,3,Tech-Business Builders (n104),-0.0541825630293964,-0.067823609251691,Tech-Business
+Galen Jiang,GJ,United States of America,"California State University, Fullerton, Stanford University",2026,3,Tech-Business Builders (n104),0.0119280636785695,0.0521842242936223,Tech-Business
+Mira Jiang,MJ,United States of America,Harvard University,2027,2,Policy/International (n84),0.149127149323333,0.1541404480626441,Policy-Intl
+Ava Noelle Johnson,AJ,United States of America,Spelman College,2027,2,Policy/International (n84),0.1056077563176434,0.0334023281231229,Policy-Intl
+Leon Jones,LJ,United States of America,"University of Arkansas at Pine Bluff, Northeastern University",2026,2,Policy/International (n84),0.0914263000487867,0.0830051253814123,Policy-Intl
+Frank Kao,FK,China,Tsinghua University,2026,1,Climate & China Bridge (n70),-0.1615653181521091,-0.074799594559152,Climate-Bridge
+Ishita Kapoor,IK,India,Dr. A. P. J. Abdul Kalam Technical University,2027,3,Tech-Business Builders (n104),-0.1250188659352759,0.0942503255647533,Tech-Business
+Rishika Kartik,RK,United States of America,Brown University,2027,3,Tech-Business Builders (n104),-0.0776107984733321,0.101371887693384,Tech-Business
+Rolando Kattan Rubi,RR,Honduras,Yale University,2026,3,Tech-Business Builders (n104),0.1005124029638439,-0.0911225468521375,Tech-Business
+Justin Kawaguchi,JK,United States of America,University of Southern California,2026,0,Health Systems (n27),-0.2336698487320698,0.3382660762566298,Health
+Jacob Keisner,JK,United Kingdom,University of Cambridge,2026,3,Tech-Business Builders (n104),0.0268597746152062,-0.0152736621110888,Tech-Business
+Joud Khateb,JK,Saudi Arabia,King Abdul Aziz University,2027,3,Tech-Business Builders (n104),-0.0292949146104731,-0.125870177036664,Tech-Business
+Hamza Khawaja,HK,Pakistan,Lahore University of Management Sciences,2027,2,Policy/International (n84),0.0351200968869091,-0.0448253167100977,Policy-Intl
+Isabelle King,IK,United States of America,Harvard University,2026,2,Policy/International (n84),0.3987500605627055,0.0896856763767937,Policy-Intl
+Alexander Koenig,AK,United States of America,Harvard University,2027,2,Policy/International (n84),0.2849787205288582,0.1844411088025414,Policy-Intl
+Fiona Koh,FK,Switzerland,"Manhattan University, University of Liechtenstein",2026,1,Climate & China Bridge (n70),0.0261881255629119,-0.0690351608440978,Climate-Bridge
+Ilia Kosar,IK,Russia,Yale-NUS College,2027,1,Climate & China Bridge (n70),-0.0839421309110657,-0.0306247909427471,Climate-Bridge
+Maxime Kpangbai,MK,United States of America,University of Chicago,2026,3,Tech-Business Builders (n104),-0.1113549328420918,-0.0905445546193841,Tech-Business
+Diya Kraybill,DK,United States of America,Princeton University,2026,2,Policy/International (n84),0.1655810467681209,0.045085573989248,Policy-Intl
+Hannah Kuhn,HK,Germany,"King's College London, Berlin Humboldt University",2026,1,Climate & China Bridge (n70),0.0588544120545062,-0.0126360580902781,Climate-Bridge
+Nomboh Kunchu,NK,Cameroon,African Leadership University,2027,0,Health Systems (n27),-0.2955556463956475,0.340462277204559,Health
+Aleksandr Kuzmenchuk,AK,United States of America,College of William and Mary,2027,2,Policy/International (n84),0.3920773587955981,0.030325252769144,Policy-Intl
+Tiffanie Laborie-Bousquet,TL,France,"University of Hong Kong, Geneva Graduate Institute",2027,1,Climate & China Bridge (n70),-0.1585229445922091,-0.195601488311081,Climate-Bridge
+Maha Latif,ML,Pakistan,National Defence University,2026,3,Tech-Business Builders (n104),-0.0744399106087459,-0.0828525734641416,Tech-Business
+Sage Lattman,SL,United States of America,Harvard University,2026,2,Policy/International (n84),0.3226996867462996,0.1569878895006716,Policy-Intl
+Ka Kiu Lau,KL,China,Pomona College,2027,1,Climate & China Bridge (n70),-0.0147827915373451,-0.0575942207881048,Climate-Bridge
+Eli Leadham,EL,United States of America,Wake Forest University,2027,2,Policy/International (n84),0.1661446030998931,0.0863393587470399,Policy-Intl
+Alison Lee,AL,United States of America,Princeton University,2027,3,Tech-Business Builders (n104),-0.0996494378272044,-0.056736395067982,Tech-Business
+Samuel Levy,SL,United States of America,University of Chicago,2027,2,Policy/International (n84),0.1985636273169311,0.0420088848931968,Policy-Intl
+Kyle Li,KL,China,Imperial College London,2027,3,Tech-Business Builders (n104),-0.1366877714926223,0.0212065223607042,Tech-Business
+Matthew Li,ML,China,Queen Mary University of London,2026,1,Climate & China Bridge (n70),-0.0928629090750513,-0.140908804131084,Climate-Bridge
+Sharon Li,SL,United States of America,Yale University,2026,3,Tech-Business Builders (n104),-0.1013217376056833,-0.0297447032488765,Tech-Business
+Stephanie Li,SL,China,"Duke Kunshan University, Columbia University",2027,1,Climate & China Bridge (n70),-0.0653271688982831,-0.1408523593967431,Climate-Bridge
+Tianxin Li,TL,China,"University of California, San Diego, Columbia University",2026,1,Climate & China Bridge (n70),0.0221915310591511,-0.1472699976389706,Climate-Bridge
+Siqiao Liang,SL,China,New York University,2026,2,Policy/International (n84),0.0266110936664587,0.0268594563627015,Policy-Intl
+Jordan Lin,JL,Canada,University of Waterloo,2026,1,Climate & China Bridge (n70),-0.126678937135654,-0.054467944852195,Climate-Bridge
+Ray Lin,RL,China,"Tsinghua University, Cornell University",2027,2,Policy/International (n84),0.057757572433707,-0.0650559967593766,Policy-Intl
+Stephanie Lin,SL,United States of America,Harvard University,2026,2,Policy/International (n84),0.3235208807746534,0.122780774589441,Policy-Intl
+Gleb Lisichenko,GL,Russia,Moscow State Institute of International Relations,2027,3,Tech-Business Builders (n104),0.1549351621158539,-0.1955217100518493,Tech-Business
+Chloe Liu,CL,China,"University of California, Los Angeles, Harvard University",2026,2,Policy/International (n84),0.1821688585948264,-0.0374742375909994,Policy-Intl
+Suzanne Liu,SL,China,University of Pennsylvania,2026,1,Climate & China Bridge (n70),-0.026845546948645,-0.212207314831157,Climate-Bridge
+Vickie Liu,VL,China,"Mount Holyoke College, Harvard University",2027,1,Climate & China Bridge (n70),-0.0293500927806063,0.0343865741370264,Climate-Bridge
+Vincent Liu,VL,China,Duke University,2026,1,Climate & China Bridge (n70),-0.1986325356802191,-0.0628348791853884,Climate-Bridge
+Yanning Liu,YL,China,The University of Manchester,2026,1,Climate & China Bridge (n70),-0.1232527138294388,-0.1574538923141238,Climate-Bridge
+Tony Luo,TL,Australia,University of Melbourne,2026,3,Tech-Business Builders (n104),-0.0562873921897164,-0.0799298818540462,Tech-Business
+Hanie Luong,HL,Vietnam,University of Hong Kong,2026,1,Climate & China Bridge (n70),-0.0720364503385862,-0.0832227350764754,Climate-Bridge
+Angelo M'ba,AM,France,"Institut Catholique de Rennes, University of Oxford",2026,2,Policy/International (n84),0.101331074491936,-0.1541031858248051,Policy-Intl
+Anthony Ma,AM,China,"Northwest University, China, Beijing Foreign Studies University",2026,1,Climate & China Bridge (n70),0.1035009595477584,-0.2170986063460395,Climate-Bridge
+Dominic Ma,DM,China,Pratt Institute,2026,3,Tech-Business Builders (n104),-0.1238791913079431,-0.0654923652006504,Tech-Business
+Kingwell Ma,KM,China,Georgetown University,2027,3,Tech-Business Builders (n104),0.0522759613103828,-0.1037859188602532,Tech-Business
+Sabrina Ma,SM,China,Renmin University of China,2027,0,Health Systems (n27),-0.1959860115073255,0.0296473595886178,Health
+Deborah Madueke,DM,United States of America,Northeastern University,2027,3,Tech-Business Builders (n104),-0.0602422939173556,-0.1254962872676202,Tech-Business
+Jesse Maikarfi,JM,Nigeria,"African Leadership University, Rwanda",2026,0,Health Systems (n27),-0.1653919323143289,-0.0427407964288684,Health
+Tulisha Malichi,TM,Zambia,EARTH University,2027,0,Health Systems (n27),-0.1148540002285852,0.0697156958498032,Health
+Daniel Martin,DM,United States of America,University of Montana,2027,1,Climate & China Bridge (n70),0.0728591480781304,0.007878763123234,Climate-Bridge
+Tania Martinez,TM,United States of America,"Rutgers, The State University of New Jersey: Camden Campus",2026,3,Tech-Business Builders (n104),0.1212278467736086,0.0056521969775725,Tech-Business
+Nesrine Mbarek,NM,Tunisia,"Stanford University, Harvard University",2026,2,Policy/International (n84),0.1491665710376801,0.1139959037922246,Policy-Intl
+Fridah Mbwaya,FM,Kenya,"University of North Carolina, Chapel Hill",2026,3,Tech-Business Builders (n104),-0.0675322054377139,0.0319624265184912,Tech-Business
+Isaac McCurdy,IM,United States of America,Cornell University,2027,2,Policy/International (n84),0.1207465749180262,-0.0100513658886083,Policy-Intl
+Cian McGlynn,CM,Ireland,Trinity College Dublin,2026,3,Tech-Business Builders (n104),-0.244678079660313,-0.1208712912847064,Tech-Business
+Samuel McKnight,SM,United Kingdom,University of St Andrews,2027,3,Tech-Business Builders (n104),-0.0947534756005637,0.0243867363241813,Tech-Business
+Mary Clare McMahon,MM,United States of America,Yale University,2026,2,Policy/International (n84),0.3073625630422059,-0.0548209811156133,Policy-Intl
+John McQuillan,JM,United States of America,"Florida State University, Harvard University",2026,2,Policy/International (n84),0.1961949708898818,0.1646568928937285,Policy-Intl
+Faisal Minawi,FM,Turkey,American University of Beirut,2027,3,Tech-Business Builders (n104),-0.108291555782046,-0.0493583671185298,Tech-Business
+Imaan Mirza,IM,Pakistan,Harvard University,2026,2,Policy/International (n84),0.2720312867214313,-0.0484913887452299,Policy-Intl
+Angelo Mok,AM,United States of America,University of Southern California,2026,3,Tech-Business Builders (n104),-0.0817813149186116,-0.0467515601945509,Tech-Business
+Francis Mok,FM,United States of America,Beijing Film Academy,2027,3,Tech-Business Builders (n104),0.0462694770955129,-0.0806163209029253,Tech-Business
+Bryan Monge Serrano,BS,United States of America,Stanford University,2026,2,Policy/International (n84),0.0520533152915823,0.0920679131422334,Policy-Intl
+Nicole Montufar,NM,Panama,"Florida State University, Universidad Externado",2026,1,Climate & China Bridge (n70),0.0936952431070866,-0.075620773823357,Climate-Bridge
+Albee Mote,AM,Myanmar,Northeastern University,2026,3,Tech-Business Builders (n104),-0.1499148652469656,-0.0897271015663778,Tech-Business
+Issa Mudashiru,IM,United States of America,Princeton University,2026,0,Health Systems (n27),-0.1808163022964724,0.4619321586306006,Health
+Priyanka Mukhara,PM,United States of America,Harvard University,2027,2,Policy/International (n84),0.1437662865563598,0.1532650877535088,Policy-Intl
+Federico Musso,FM,Italy,Bocconi University,2026,1,Climate & China Bridge (n70),-0.090787600443512,-0.09532964215223,Climate-Bridge
+Sanjeev Musuvathy,SM,United States of America,"University of North Carolina, Chapel Hill",2026,3,Tech-Business Builders (n104),-0.1377504480810812,-0.0447120822638954,Tech-Business
+Yu Ci Faye Ng,YN,Singapore,National University of Singapore,2026,0,Health Systems (n27),-0.1815693495801169,0.1768855287400192,Health
+Nam Nguyen,NN,United States of America,"Washington State University, Johns Hopkins University",2026,2,Policy/International (n84),0.127331893410704,0.1005051518056908,Policy-Intl
+Tra Nguyen,TN,Vietnam,Szent Istvan University,2026,1,Climate & China Bridge (n70),-0.1100746423896161,-0.1476959945120722,Climate-Bridge
+Truc Cam Nguyen,TN,Vietnam,Stanford University,2027,3,Tech-Business Builders (n104),-0.0455839352509008,0.0255449100966453,Tech-Business
+Ivan Nikiforov,IN,Russia,Saint Petersburg State University,2026,2,Policy/International (n84),0.1038965466849211,-0.0756597675471539,Policy-Intl
+Gastón Ocampo,GO,Argentina,Roanoke College,2027,3,Tech-Business Builders (n104),0.0844054474577236,-0.1838889133220078,Tech-Business
+Sasha Ofori,SO,Ghana,Ashesi University,2026,0,Health Systems (n27),-0.1927427885768791,0.1716778646193853,Health
+Arón Olegnowicz,AO,United States of America,"Ohio State University, Columbus",2027,3,Tech-Business Builders (n104),0.0543520363754799,0.1150818206237036,Tech-Business
+Patricio Ortiz,PO,United States of America,Stanford University,2027,3,Tech-Business Builders (n104),0.0946744143804537,-0.0610229496564366,Tech-Business
+Rachel Ou,RO,United States of America,University of Pennsylvania,2027,0,Health Systems (n27),-0.1669473866965426,0.2002499069683199,Health
+Kwabena Owusu Sarfo,KS,Ghana,"Kwame Nkrumah University of Science and Technology, University of California, Berkeley",2027,1,Climate & China Bridge (n70),-0.1878760551880996,-0.1377792285315862,Climate-Bridge
+Max Palys,MP,United States of America,Harvard University,2027,2,Policy/International (n84),0.2718279627660619,0.2177514547543481,Policy-Intl
+Gaurav Pande,GP,Nepal,New York University,2027,3,Tech-Business Builders (n104),-0.1704281490483125,-0.1234902962479784,Tech-Business
+Gabrijela Papec,GP,Croatia,Sciences Po,2026,2,Policy/International (n84),0.1358197680313078,-0.1209000936243624,Policy-Intl
+Sung Jae Harry Park,SP,South Korea,"London School of Economics and Political Science, University of Oxford",2027,2,Policy/International (n84),0.2485902015630998,-0.0474137100046926,Policy-Intl
+Pranav Pattatathunaduvil,PP,United States of America,Yale University,2027,2,Policy/International (n84),0.2382102671627757,-0.0086148052427494,Policy-Intl
+Leonas Pausch,LP,Germany,"University of Cambridge, FernUniversität in Hagen",2027,2,Policy/International (n84),0.0414230104738108,-0.0340579125450195,Policy-Intl
+Barna Peterfi,BP,Hungary,University of Edinburgh,2027,1,Climate & China Bridge (n70),-0.0630372654019465,-0.0947076027232688,Climate-Bridge
+Maya Prakash,MP,United States of America,Williams College,2027,1,Climate & China Bridge (n70),0.0582775177134636,0.0161454636365122,Climate-Bridge
+Xavier Ramirez,XR,United States of America,Indiana University,2027,2,Policy/International (n84),0.0391979563243459,0.1194050583802463,Policy-Intl
+Noa Rassin,NR,Israel,Reichman University,2026,3,Tech-Business Builders (n104),0.0754991663113205,-0.0388971813563648,Tech-Business
+Parker Ritzmann,PR,United States of America,University of Washington,2027,3,Tech-Business Builders (n104),-0.0698320424109709,-0.1235243180561998,Tech-Business
+Sydney Roberts,SR,United States of America,"University of California, Berkeley",2027,2,Policy/International (n84),0.156734315387285,0.1112074367226969,Policy-Intl
+Maya Rosen,MR,United States of America,Harvard University,2026,2,Policy/International (n84),0.1590345124387187,0.101362920659388,Policy-Intl
+Mehakpreet Saggu,MS,India,University of Toronto,2027,1,Climate & China Bridge (n70),-0.099614797353812,0.0766960682916452,Climate-Bridge
+Oluwatoni Salami,OS,Nigeria,University of Durham,2026,3,Tech-Business Builders (n104),-0.0714460824708524,-0.1421661156422105,Tech-Business
+Camalah Saleh,CS,United States of America,"California State University, Fresno",2027,2,Policy/International (n84),0.1090316430841622,0.1574216101028803,Policy-Intl
+Habib Salim,HS,Kenya,University of Pennsylvania,2026,2,Policy/International (n84),0.1515069109337692,-0.1361502923149796,Policy-Intl
+Lucas San Miguel,LM,United States of America,"Emory University, University of St Andrews",2027,3,Tech-Business Builders (n104),0.0896672775382028,-0.172347923968108,Tech-Business
+Ajay Sawant,AS,India,Apollo College of Veterinary Medicine,2027,1,Climate & China Bridge (n70),-0.0751367468855328,-0.0416111582325215,Climate-Bridge
+Mia Sawjani,MS,United Kingdom,University of Cambridge,2026,2,Policy/International (n84),0.1432916739842684,0.0054158410435011,Policy-Intl
+Peter Scheuer,PS,United States of America,Tsinghua University,2027,1,Climate & China Bridge (n70),-0.0063336302666819,-0.1228159506030162,Climate-Bridge
+Joseph Schmitt,JS,United States of America,Northeastern University,2026,3,Tech-Business Builders (n104),-0.1039358418399166,-0.0109604407408017,Tech-Business
+Jasper Schutt,JS,United States of America,"University of North Carolina, Chapel Hill",2026,2,Policy/International (n84),0.1103888781830044,-0.0001766615043476,Policy-Intl
+Anugreh Sehtya,AS,India,SRM University,2026,3,Tech-Business Builders (n104),-0.1506297630683201,-0.0627152911038618,Tech-Business
+Kiara Shan,KS,China,Cornell University,2027,0,Health Systems (n27),-0.2548585711205931,0.2732538997873932,Health
+Lisa Shen,LS,United States of America,Swarthmore College,2027,0,Health Systems (n27),-0.1311689530620546,0.3303494115898193,Health
+Emily Shi,ES,United States of America,University of Chicago,2026,0,Health Systems (n27),-0.0960820111710692,0.4098922448570331,Health
+Josemaria Silvestrini,JS,United States of America,Williams College,2026,1,Climate & China Bridge (n70),0.0201653431179825,0.0223189212353253,Climate-Bridge
+Evan Siu,ES,United States of America,University of Washington,2026,3,Tech-Business Builders (n104),-0.0578981351649819,-0.0472272782769333,Tech-Business
+Elliot Smith,ES,United States of America,Brown University,2027,2,Policy/International (n84),0.1030580361725537,0.0689969915296542,Policy-Intl
+Igor Sobolev,IS,Russia,"Russian State University for the Humanities, National Sun Yat-sen University",2026,2,Policy/International (n84),0.1274624995282848,-0.078807312273049,Policy-Intl
+Chengcheng Song,CS,China,"University of California, Los Angeles",2027,3,Tech-Business Builders (n104),-0.0621385868583369,-0.0222068797978806,Tech-Business
+Ethan Sperla,ES,United States of America,Stanford University,2027,3,Tech-Business Builders (n104),0.1287777833356753,0.020319453663827,Tech-Business
+Kilhah St Fort,KF,United States of America,"Lehman College, The City University of New York",2027,3,Tech-Business Builders (n104),-0.0180032899504928,0.0623405650200718,Tech-Business
+Evie Steele,ES,United States of America,Georgetown University,2027,2,Policy/International (n84),0.319073167542388,0.0201905786600299,Policy-Intl
+Sabrina Steinberga,SS,Ireland,Trinity College Dublin,2027,1,Climate & China Bridge (n70),-0.1445907297326526,-0.1656523658887614,Climate-Bridge
+Philipp Alexander Steininger,PS,Austria,Central European University,2026,1,Climate & China Bridge (n70),-0.0271349857894388,-0.2160079194737393,Climate-Bridge
+Roxanne Stevenson-Brown,RS,United Kingdom,"King's College London, University of Birmingham",2026,0,Health Systems (n27),-0.160296869744116,0.291506686773634,Health
+Nasir Stovall,NS,United States of America,"Stony Brook University, Harvard University",2026,0,Health Systems (n27),0.1089156552099483,0.3751973510544452,Health
+Mustafa Syed,MS,United States of America,Michigan State University,2026,3,Tech-Business Builders (n104),-0.0457557208986614,-0.006490923887615,Tech-Business
+Sarah Syed,SS,Canada,"University of Toronto, University of Windsor",2027,1,Climate & China Bridge (n70),-0.1820386500627616,-0.0757242937471912,Climate-Bridge
+Lucas Tai,LT,United States of America,"Ohio State University, Columbus",2026,3,Tech-Business Builders (n104),0.1418513314102217,0.0347230726917917,Tech-Business
+Noah Tan,NT,United States of America,Stanford University,2027,2,Policy/International (n84),0.3210738152394071,-0.038108066187246,Policy-Intl
+Xuanlin Tang,XT,China,Tsinghua University,2027,1,Climate & China Bridge (n70),-0.0138036209254204,-0.0125243983003985,Climate-Bridge
+Jo Teo,JT,Singapore,"University College Utrecht, University of Oxford",2027,1,Climate & China Bridge (n70),-0.0241268974735772,0.0207507081047417,Climate-Bridge
+Aryan Thakur,AT,United States of America,University of Georgia,2026,0,Health Systems (n27),-0.2677997058515415,0.4056965804556916,Health
+Alicia Tien,AT,Malaysia,"The University of Manchester, Tsinghua University",2027,1,Climate & China Bridge (n70),-0.1480900485369771,-0.1922349565043453,Climate-Bridge
+Sara Torres,ST,Colombia,"Tufts University, University of Oxford",2027,3,Tech-Business Builders (n104),0.1395869261696859,-0.1297179488332388,Tech-Business
+Kaitlyn Tran,KT,United States of America,Harvard University,2027,2,Policy/International (n84),0.2986419288703003,-0.012498361459292,Policy-Intl
+Jira Trinetkamol,JT,Thailand,"University of California, Irvine",2027,2,Policy/International (n84),0.1671818357679909,-0.0108121002840614,Policy-Intl
+Alex Tseng,AT,United States of America,Princeton University,2027,1,Climate & China Bridge (n70),-0.1087607230918493,0.0503435768643955,Climate-Bridge
+Davis Tyler-Dudley,DT,United States of America,Harvard University,2026,2,Policy/International (n84),0.3779739562654206,0.0071884692381899,Policy-Intl
+Edozie Umunna,EU,United States of America,American University,2026,2,Policy/International (n84),0.3755798934978552,0.1075387565198308,Policy-Intl
+Rozmet Urunov,RU,Turkmenistan,"Central China Normal University, Hangzhou Normal University",2026,3,Tech-Business Builders (n104),-0.0386173430191962,-0.1190616164814111,Tech-Business
+Zach Valentine,ZV,United States of America,Brigham Young University,2026,0,Health Systems (n27),-0.1798664595081187,0.4308759097012695,Health
+Jordan Van Doren,JD,United States of America,Yale University,2027,2,Policy/International (n84),0.1984446376442814,-0.0869999247450936,Policy-Intl
+Eduardo Vasconcelos Goyanna Filho,EF,Brazil,Harvard University,2026,2,Policy/International (n84),0.1559342656379661,0.1022739106737835,Policy-Intl
+Ernie Vita,EV,United States of America,Texas A&M University,2027,3,Tech-Business Builders (n104),-0.0536910764728595,-0.0870177795010561,Tech-Business
+Charlotte Wang,CW,China,"University of Southern California, Bocconi University, Hong Kong University of Science and Technology",2026,1,Climate & China Bridge (n70),-0.0899925581912703,-0.0742656249909773,Climate-Bridge
+Falecie Wang,FW,United States of America,"University of California, Los Angeles",2026,2,Policy/International (n84),0.0931690068614136,0.0812772757880588,Policy-Intl
+James Wang,JW,China,"University of Toronto, Georgetown University",2027,2,Policy/International (n84),0.0586299332596416,-0.0342846146164179,Policy-Intl
+Paul Wang,PW,United States of America,Bowdoin College,2026,1,Climate & China Bridge (n70),0.0251788023426529,0.0205427705357412,Climate-Bridge
+Roxana Wang,RW,China,"University of California, Berkeley",2026,1,Climate & China Bridge (n70),0.0054481741230968,-0.1071913409066765,Climate-Bridge
+Zilu Wang,ZW,China,Cornell University,2026,1,Climate & China Bridge (n70),-0.1527662381759352,-0.0431484507450892,Climate-Bridge
+Schuyler Wei,SW,China,Tsinghua University,2027,1,Climate & China Bridge (n70),-0.1207896850329284,-0.0974364051771545,Climate-Bridge
+Shankai Wei,SW,China,University College London,2027,1,Climate & China Bridge (n70),-0.0753455116586716,-0.1920144049222835,Climate-Bridge
+Austin West,AW,United States of America,"University of Central Oklahoma, University of Oklahoma, University College Cork",2026,2,Policy/International (n84),0.1182671153002775,0.0684168584601104,Policy-Intl
+Amanda Whylie,AW,Jamaica,University of Georgia,2026,2,Policy/International (n84),0.040538188021182,-0.0115159877876031,Policy-Intl
+Garrett Williams,GW,United States of America,University of Georgia,2026,3,Tech-Business Builders (n104),-0.0799317907919974,-0.0430976316244381,Tech-Business
+Ishmael Williams,IW,United States of America,Howard University,2026,0,Health Systems (n27),-0.0953738950085296,0.4921771035730755,Health
+Jamaal Willis,JW,United States of America,Harvard University,2027,2,Policy/International (n84),0.4244985893212327,0.091108995768872,Policy-Intl
+Richard Wilson,RW,United States of America,University of Louisville,2027,3,Tech-Business Builders (n104),-0.0795154139710285,-0.0396317337561391,Tech-Business
+Eva Wu,EW,China,Columbia University,2026,3,Tech-Business Builders (n104),-0.0523017342417196,-0.1478986057931783,Tech-Business
+Junhui Xu,JX,China,"Fudan University, University of California, San Diego",2026,3,Tech-Business Builders (n104),-0.0230182369013359,-0.0488858878916424,Tech-Business
+Harry Yang,HY,China,Georgetown University,2026,1,Climate & China Bridge (n70),-0.0028320051971365,-0.0337043678952208,Climate-Bridge
+Jing Jing Yang,JY,China,Brown University,2026,1,Climate & China Bridge (n70),-0.0737616330520733,-0.0929765935266268,Climate-Bridge
+Travis Ye,TY,China,Hong Kong University of Science and Technology,2027,1,Climate & China Bridge (n70),-0.2061938840323411,-0.0763201125584414,Climate-Bridge
+Husnaa Zamarai,HZ,Canada,Toronto Metropolitan University,2027,3,Tech-Business Builders (n104),-0.1169311935105878,-0.0459192547162169,Tech-Business
+Catherine Zeng,CZ,China,Royal College of Music,2027,1,Climate & China Bridge (n70),-0.1747849319477923,-0.0143961613612139,Climate-Bridge
+Angel Zhang,AZ,China,Harvard University,2027,1,Climate & China Bridge (n70),0.0556322667209754,0.0258908820006026,Climate-Bridge
+Dora Zhang,DZ,China,Peking University,2026,1,Climate & China Bridge (n70),-0.1181985764928286,-0.1375850388915381,Climate-Bridge
+Elaine Zhang,EZ,China,Duke University,2027,2,Policy/International (n84),0.0436186387580238,-0.0615607074082979,Policy-Intl
+James Zhang,JZ,United States of America,Princeton University,2026,3,Tech-Business Builders (n104),-0.0786331516439209,0.1311683474165695,Tech-Business
+Lochlan Zhang,LZ,China,"Columbia University, Trinity College Dublin",2026,2,Policy/International (n84),0.1823534574869284,-0.0462934000680264,Policy-Intl
+Yixi Zhang,YZ,China,University of Chicago,2027,2,Policy/International (n84),0.1054367932700618,-0.1689712949229219,Policy-Intl
+Yixuan Zhang,YZ,China,Beijing Foreign Studies University,2027,3,Tech-Business Builders (n104),-0.0791925210956865,-0.126517657527573,Tech-Business
+Yujing Zhang,YZ,China,"New York University, Stanford University",2027,1,Climate & China Bridge (n70),0.0826764617539125,-0.1476747743278353,Climate-Bridge
+Jasmine Zhao,JZ,China,McGill University,2027,3,Tech-Business Builders (n104),0.0455899271448452,-0.2338237035573507,Tech-Business
+Adele Zhong,AZ,China,"Renmin University of China, London School of Economics and Political Science",2026,3,Tech-Business Builders (n104),-0.1864964766276529,-0.1331614315499298,Tech-Business
+Xueyi Zhou,XZ,China,"Zhejiang University, Sciences Po",2027,3,Tech-Business Builders (n104),-0.0257783100833278,-0.1423912630525964,Tech-Business
+Wafia Zia,WZ,United Kingdom,University College London,2026,2,Policy/International (n84),0.0087776238679912,0.0602335771938153,Policy-Intl
