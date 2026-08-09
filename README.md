@@ -81,13 +81,25 @@ DeepFace (RetinaFace) warmth score (x) vs. TextBlob sentiment on Whisper transcr
 
 All figures regenerative: `python generate_plots.py` writes to `analytics_dashboard/` (relative path, no hardcoded dirs).
 
-### Word cloud — bios thematic (Figure 7-2 amended, treemap style)
+### Word Cloud — 4K Hybrid Treemap (285 bios, active words only) — Figure 7-2 amended
 
-Treemap of the top 30 words across 285 public bios — stopwords (countries/unis) removed, Visualizing Data Blues palette. Mirrors *Visualizing Data* Figure 7-2 (Mark Twain word usage treemap) but for Scholar bios.
+Hybrid treemap of 285 public bios — active words only (stopwords/countries/unis removed), thin gray grid `strokeWeight(0.25f)`, white fill, text only when fits. Mirrors *Visualizing Data* Figure 7-2 (Mark Twain equator) but for Scholar bios. **This is the 4K word visual.**
 
-![Word cloud treemap](analytics_dashboard/wordcloud_treemap.png)
+![Schwarzman Hybrid 4K — bios treemap](analytics_dashboard/schwarzman_hybrid_4K.png)
 
-> Top terms: *global, international, policy, leadership, community, research* — high data-ink, not a decorative cloud. Full terms in `analytics_dashboard/wordcloud_top_terms.csv`.
+> Active top terms: *university 276, china 230, global 175, united 149...* — hybrid 4K is the hero word-visual. Full terms in `data/bios_words.csv`.
+
+### Bios Word Treemaps — RAW vs CLEAN (active vs connector words)
+
+**RAW (stopwords kept):** `and 1,412 > the 1,129 > a 890...` — proves why `the/and` dominate and hide signal (like your Mark Twain figure).
+
+![Bios Word Treemap RAW](analytics_dashboard/bios_word_treemap.png)
+
+**CLEAN (active words only, POS-filtered NN/VB/JJ/RB):** `university 276, china 230, global 175...` — informative view (viridis, size = frequency).
+
+![Bios Word Treemap CLEAN](analytics_dashboard/bios_word_treemap_clean.png)
+
+> Source: `python scripts/bios_nlp.py` → `analytics_dashboard/bios_*.png` + `data/bios_words.csv` + `data/bios_sentiment.csv`.
 
 ### Geographic — scholar home locations (Figure 6-1 amended, zip-code style)
 
@@ -95,7 +107,7 @@ Equirectangular bubble map — bubble area ∝ count by home country (n=1497, 74
 
 ![Geographic](analytics_dashboard/geographic_zipcode_style.png)
 
-### Bios sentiment — polarity at scale (new)
+### Bios sentiment — polarity at scale
 
 TextBlob polarity on 285 bios ( -1 → +1 ). Median ≈ 0.0, mean 0.012 — bios are deliberately neutral-institutional, unlike warm videos. Distribution + by-cohort box and by-country violin let you compare cohorts without survivorship bias.
 
@@ -103,7 +115,7 @@ TextBlob polarity on 285 bios ( -1 → +1 ). Median ≈ 0.0, mean 0.012 — bios
 ![Bios sentiment by country](analytics_dashboard/bios_sentiment_by_country.png)
 
 > Scores in `analytics_dashboard/bios_sentiment_scores.csv` (country, cohort, polarity). Very low variance is expected — bios are third-person, formal.
-
+> Also see `analytics_dashboard/bios_sentiment_hist.png` (285-bio hist, mean 0.064) — same data, alternative view.
 
 ---
 
