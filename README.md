@@ -159,19 +159,6 @@ python batch_processor.py
 
 ---
 
-## Expansions — where this goes next
-
-- **Transcript archive:** Commit 74 Whisper transcripts under `data/transcripts/` with scholar consent; add `transcript_word_count`, `speaking_rate_wpm` columns.
-- **`INTERVIEWS.md`:** Publish anonymized interview synthesis (motivations, essay structure, Tsinghua fit) — you’ve already recorded these; cleaning them is the next commit.
-- **Longitudinal trends:** Country HHI concentration 2017→2027, feeder-university entropy, and US/China share over time (`country_share_by_cohort.png` is first of these).
-- **NLP on bios:** TF-IDF on 285 bios (leadership vs. STEM vs. policy frames) to compare with video transcripts.
-- **Searchable dashboard:** Lightweight `streamlit` or Datasette front end for cohort/country/university filters.
-- **Video features:** Speaking-rate, filler-word rate, background (library/office/outdoor) tags — coded manually, not inferred.
-
-PRs welcome — see `CONTRIBUTING.md`. If you are a scholar and want your bio/video corrected or removed, open an Issue or PR; takedowns are honored same-day.
-
----
-
 ## Cite
 
 ```bibtex
