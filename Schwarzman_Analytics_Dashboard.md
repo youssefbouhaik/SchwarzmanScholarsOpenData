@@ -21,15 +21,15 @@ Overall recorded cohort distribution across the years we've tracked:
 ---
 
 ## 🤖 DeepFace & NLP Sentiment Insights
-We deployed an ML pipeline (using `RetinaFace` and `Whisper`) to scan the facial expressions and vocal sentiment of the **24 successfully retrieved video pitches**.
+We recalibrated to **Warmth v2** (`happy*0.9+neutral*0.25-fear*0.15-sad*0.10+35`, 7 frames, fallback) — 24/74 scored (mean 63.1 vs v1 71.2); reproducible via `ADMITTED_SCHOLAR_PROFILES.md` / `data/meta/*.json`.
 
 ### Visual Charisma vs Vocal Optimism
 We mapped the Visual Charisma Score (x-axis) against the Vocal NLP Sentiment (y-axis). As expected, the average accepted scholar scores high in *both* metrics (Warmth > 70/100, Sentiment > 0.1).
-![Visual Warmth vs Vocal Optimism](./warmth_vs_sentiment.png)
+![Warmth v2 vs Sentiment](./analytics_dashboard/warmth_vs_sentiment.png)
 
 ### The Charisma Distribution
 A histogram showing the distribution of the facial Charisma/Warmth score across the 24 candidates. Notice how heavily skewed it is towards the 90-100 range!
-![Warmth Distribution](./warmth_distribution.png)
+![Warmth Distribution v2](./analytics_dashboard/warmth_distribution.png)
 
 ---
 > [!TIP]

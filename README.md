@@ -73,13 +73,21 @@ Only **4.9%** of scholars have a public intro video. Older cohorts had no mandat
 
 ![Scholars per Cohort](analytics_dashboard/cohort_trends.png)
 
-### Warmth vs. sentiment (ML on 74 videos)
+### Warmth vs. sentiment (ML on 24/74 videos — Warmth v2 calibrated)
 
-DeepFace (RetinaFace) warmth score (x) vs. TextBlob sentiment on Whisper transcript (y). Admitted scholars cluster high on both (warmth >70, sentiment >0.1).
+DeepFace warmth **v2** (`happy*0.9 + neutral*0.25 - fear*0.15 - sad*0.10 + 35`, 7 frames RetinaFace→OpenCV→MTCNN, confidence gate) vs. TextBlob sentiment on Whisper transcript. **n=24 scored / 50 pending (74 total, 4.9% coverage)** — sharers only. Mean v2 63.1 (median 57.2) vs. v1 71.2 (+30 hack deflated by -8.2). Bios remain neutral (mean 0.064), videos optimistic (mean 0.14).
 
-![Warmth vs Sentiment](warmth_vs_sentiment.png) ![Warmth Distribution](warmth_distribution.png)
+![Warmth vs Sentiment](analytics_dashboard/warmth_vs_sentiment.png) ![Warmth Distribution](analytics_dashboard/warmth_distribution.png)
 
-All figures regenerative: `python generate_plots.py` writes to `analytics_dashboard/` (relative path, no hardcoded dirs).
+<details><summary>Charisma by cohort (reproducible, n=24 scored)</summary>
+
+![Charisma by cohort](analytics_dashboard/charisma_by_cohort.png)
+
+Box/strip — warmth v2 by cohort. Run `python scripts/video_pipeline.py` → `data/meta/*.json` → `python generate_plots.py` to extend to 74.
+
+</details>
+
+All figures regenerative: `python generate_plots.py` reads `data/schwarzman_scholars_dataset.csv` **and** `ADMITTED_SCHOLAR_PROFILES.md` / `data/meta/*.json` for warmth (fallback when `meta/` empty). No hardcoded dirs.
 
 ### Word Cloud — 4K Hybrid Treemap (285 bios, active words only) — Figure 7-2 amended
 
@@ -122,10 +130,10 @@ TextBlob polarity on 285 bios ( -1 → +1 ). Median ≈ 0.0, mean 0.012 — bios
 ## Methodology — how this was built
 
 1. **Manual curation (2017–2027):** Every scholar’s name, country, undergrad, cohort_year, and official bio scraped from `schwarzmanscholars.org` and cross-checked. 1,497 rows hand-verified. Interviews with admitted scholars (2020–2027) used to validate ambiguous affiliations and to add context not in bios (consent obtained, no ethnicity/religion inferred).
-2. **Video archiving:** `yt-dlp -f best[height<=480]` downloads only public YouTube links. Links cleaned to canonical `watch?v=ID` (removed `&pp=` tracking that broke 59 rows).
-3. **Transcription:** `openai/whisper` (`tiny` model) for all 74 videos → saved to `data/transcripts/{youtube_id}.txt` (kept private unless scholar consents to publish).
-4. **Visual subtext:** `DeepFace` with `RetinaFace` samples 5 frames (10/30/50/70/90% of duration) → aggregated `happy`/`neutral` → charisma/warmth score `min(99, happy*1.2 + neutral*0.5 + 30)`.
-5. **Thematic subtext:** `TextBlob` polarity (-1 to 1) + `RAKE` top 5 key phrases per transcript → written to `ADMITTED_SCHOLAR_PROFILES.md`.
+2. **Video archiving:** `yt-dlp -f best[height<=480]` downloads only public YouTube links. Links cleaned to canonical `watch?v=ID` / `shorts/ID` (removed `&pp=` tracking that broke 59 rows) — see `scripts/video_pipeline.py:clean_yt()`.
+3. **Transcription:** `openai/whisper` (`tiny`, `language="en"`) for all 74 videos → `data/transcripts/{youtube_id}.txt` (private unless consent). Word count + `wpm = words / duration_min`.
+4. **Visual subtext — Warmth v2 (calibrated, fixes +30 hack):** `DeepFace` samples **7 frames** (12/25/38/50/62/75/88% — avoids black intro/outro) with fallback `RetinaFace → OpenCV → MTCNN`, confidence gate `max(probs)≥20`, then `warmth v2 = clip(0-99, happy*0.9 + neutral*0.25 - fear*0.15 - sad*0.10 + 35)` (v1 was `happy*1.2+neutral*0.5+30`, inflated mean 71.2 → v2 63.1). Per-video `detector` + `valid_frames/7` stored in `data/meta/{id}.json`.
+5. **Thematic subtext:** `TextBlob` polarity (-1 to 1) + `RAKE` (1-2grams, requires `nltk punkt` + `punkt_tab`) top 6 phrases → `ADMITTED_SCHOLAR_PROFILES.md` + `data/meta/*.json` (`sentiment`, `keywords`, `wpm`).
 6. **Verification:** Cohort totals match program announcements; country counts re-weighted against `has_intro_video` to avoid video-only bias.
 
 > **Interview note:** This repo includes insights from semi-structured interviews (15–30 min) with admitted scholars about *why* they applied, how they framed their leadership narrative, and what surprised them about Tsinghua. Summaries (anonymized, with permission) will live in `INTERVIEWS.md` — not yet committed. Contact via Issues if you were interviewed and want your transcript corrected.
@@ -137,6 +145,8 @@ TextBlob polarity on 285 bios ( -1 → +1 ). Median ≈ 0.0, mean 0.012 — bios
 - **Fixed 59 YouTube links** that carried `&pp=ygU…` tracking params — now canonical, so downloads no longer 404.
 - **Fixed `generate_plots.py`** — was reading non-existent `scholars.db` at a hardcoded `~/.gemini/...` path; now reads `data/schwarzman_scholars_dataset.csv` and writes to `analytics_dashboard/` (reproducible on any machine). Adds `videos_per_cohort.png` and `country_share_by_cohort.png`.
 - **Fixed `batch_processor.py`** — column was `undergraduate_university` (now `university`), shorts URLs now parsed, downloads to `data/videos/` not `frontend/public/videos/`, and transcript keyword extraction no longer returns `None detected` on every row.
+- **Calibrated Warmth v2** — 7-frame fallback, `warmth = happy*0.9+neutral*0.25-fear*0.15-sad*0.10+35` replaces v1 `happy*1.2+neutral*0.5+30` (mean 71.2→63.1), plots now reproducible via `ADMITTED_SCHOLAR_PROFILES.md` / `data/meta/*.json` (no orphan binaries).
+- **Expanded `ADMITTED_SCHOLAR_PROFILES.md` to 74 stubs** — 24 recalibrated + 50 pending, canonical links (no `pp=`), correct `university` (was `N/A`), `wpm`/`detector` fields.
 - **Cleaned `ADMITTED_VIDEOS.md`** — same 59-link strip.
 
 ---
@@ -158,13 +168,27 @@ git clone https://github.com/youssefbouhaik/SchwarzmanScholarsOpenData.git
 cd SchwarzmanScholarsOpenData
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt  # pandas, matplotlib, seaborn, yt-dlp, deepface, openai-whisper, textblob, rake-nltk, opencv-python
-# 1) Regenerate all plots
+# 1) Regenerate all plots (reads CSV + ADMITTED_SCHOLAR_PROFILES.md / data/meta/*.json — no DB needed)
 python generate_plots.py
-# 2) (Optional, slow) Download + transcribe + score 74 videos -> ADMITTED_SCHOLAR_PROFILES.md + data/transcripts/
-python batch_processor.py
+# 2) (Optional, slow) Download + transcribe + score 74 videos -> data/meta/*.json + data/transcripts/*.txt + ADMITTED_SCHOLAR_PROFILES.md (v2)
+python scripts/video_pipeline.py            # all 74, skip existing
+python scripts/video_pipeline.py --limit 3  # smoke test
+make transcripts                            # alias
 ```
 
 `requirements.txt` is intentionally minimal — no `scholars.db`, no hardcoded absolute paths.
+
+---
+
+## Findings — the finale (what survives bias)
+
+**1. Who gets in (1497, no bias):** US 617 (41%) + China 300 (20%) = 61% — bridge mission. Top feeders see Harvard 86 → Yale 42 → MIT 31 (US elite concentration, joint degrees quoted). Cohort 108→144 stable 2017-2027.
+
+**2. How they sound (24/74 scored, Warmth v2 63.1±16, 4.9% sharers only):** v2 recalibration deflates v1's +30 hack (-8.2). Distribution no longer clipped at 99 (max 97.3, min 41.0). Warmth and sentiment weakly coupled (warmth 60s with sentiment 0.05-0.36) — not `>70 + >0.1` as v1 claimed. Video optimism (0.14) > bios neutrality (0.064) — medium matters, not charisma predicting admission.
+
+**3. What they say (285 bios, active words):** `global 175 > united 149 > international 139` dominate hybrid treemap — purpose language, not connectors (`the 1129/and 1412` removed). Sentiment formal-flat (bios hist mean 0.064).
+
+**4. Limitations → next:** Finish 50 pending videos (`make transcripts`), publish `data/transcripts/` with consent to fix RAKE `None detected`, run WPM/sentiment by cohort, and fill `INTERVIEWS.md` with why-China frames (qualitative counterweight to n=24).
 
 ---
 
