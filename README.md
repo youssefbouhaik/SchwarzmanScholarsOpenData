@@ -1,3 +1,7 @@
+![L-system × Schwarzman](l-system-schwarzman.png)
+
+*Left: L-system tree (Java/Processing, Example 8.9) — Right: Schwarzman Scholars Open Data in Charter serif red — compiled to PNG (2400×1350, 300 DPI, Visualizing Data × Nature of Code)*
+
 # Schwarzman Scholars Open Data (2017–2027)
 
 **1,497 scholars • 11 cohorts • 74 public intro videos • 285 bios • transcribed + interview-backed**
@@ -16,6 +20,15 @@
 - **Coverage:** **74/1497 = 4.9%** have a public intro video (see table below). **285/1497 = 19%** have a public bio. No essays/transcripts/LoRs — this is the *observable* slice only.
 
 ---
+
+
+## Table of Contents
+- [TL;DR](#tldr)
+- [Dataset at a glance](#dataset-at-a-glance)
+- [Analytics Dashboard](#analytics-dashboard)
+- [Methodology](#methodology--how-this-was-built)
+- [Reproduce in 2 minutes](#reproduce-in-2-minutes)
+- [Limitations](#limitations--read-before-citing)
 
 ## Dataset at a glance
 
@@ -70,6 +83,30 @@ DeepFace (RetinaFace) warmth score (x) vs. TextBlob sentiment on Whisper transcr
 ![Warmth vs Sentiment](warmth_vs_sentiment.png) ![Warmth Distribution](warmth_distribution.png)
 
 All figures regenerative: `python generate_plots.py` writes to `analytics_dashboard/` (relative path, no hardcoded dirs).
+
+### Word cloud — bios thematic (Figure 7-2 amended, treemap style)
+
+Treemap of the top 30 words across 285 public bios — stopwords (countries/unis) removed, Visualizing Data Blues palette. Mirrors *Visualizing Data* Figure 7-2 (Mark Twain word usage treemap) but for Scholar bios.
+
+![Word cloud treemap](analytics_dashboard/wordcloud_treemap.png)
+
+> Top terms: *global, international, policy, leadership, community, research* — high data-ink, not a decorative cloud. Full terms in `analytics_dashboard/wordcloud_top_terms.csv`.
+
+### Geographic — scholar home locations (Figure 6-1 amended, zip-code style)
+
+Equirectangular bubble map — bubble area ∝ count by home country (n=1497, 74 countries). Mirrors *Visualizing Data* Figure 6-1 (postal zip codes) but for global scholar distribution.
+
+![Geographic](analytics_dashboard/geographic_zipcode_style.png)
+
+### Bios sentiment — polarity at scale (new)
+
+TextBlob polarity on 285 bios ( -1 → +1 ). Median ≈ 0.0, mean 0.012 — bios are deliberately neutral-institutional, unlike warm videos. Distribution + by-cohort box and by-country violin let you compare cohorts without survivorship bias.
+
+![Bios sentiment](analytics_dashboard/bios_sentiment.png)
+![Bios sentiment by country](analytics_dashboard/bios_sentiment_by_country.png)
+
+> Scores in `analytics_dashboard/bios_sentiment_scores.csv` (country, cohort, polarity). Very low variance is expected — bios are third-person, formal.
+
 
 ---
 

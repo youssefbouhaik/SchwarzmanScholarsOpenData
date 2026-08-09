@@ -1,0 +1,1498 @@
+country,cohort_year,bio_polarity
+China,2026,0.14696969696969697
+China,2024,0.0
+China,2026,0.05416666666666667
+Egypt,2025,0.0
+United States of America,2026,0.11666666666666667
+United Kingdom,2020,0.0
+Kyrgyzstan,2026,0.11944444444444445
+Pakistan,2021,0.0
+United States of America,2022,0.0
+Nigeria,2026,0.13518518518518519
+Pakistan,2020,0.0
+Morocco,2020,0.0
+United States of America,2024,0.0
+Jordan,2021,0.0
+United States of America,2025,0.0
+United States of America,2020,0.0
+Germany,2026,0.018750000000000003
+Ireland,2027,-0.03666666666666667
+United Kingdom,2022,0.0
+India,2024,0.0
+Benin,2021,0.0
+United States of America,2023,0.0
+United States of America,2026,-0.02857142857142857
+United States of America,2020,0.0
+Pakistan,2023,0.0
+United States of America,2026,0.05995670995670995
+Somalia,2022,0.0
+Pakistan,2027,0.10312500000000001
+China,2025,0.0
+Uganda,2026,0.044444444444444446
+Nigeria,2020,0.0
+Nigeria,2026,0.01666666666666667
+Russia,2022,0.0
+United States of America,2025,0.0
+Iraq,2025,0.0
+Palestine,2025,0.0
+Saudi Arabia,2027,0.05500000000000001
+United States of America,2024,0.0
+Afghanistan,2024,0.0
+United States of America,2027,-0.030000000000000006
+Panama,2025,0.0
+Canada,2023,0.0
+United States of America,2020,0.0
+United Kingdom,2022,0.0
+Kyrgyzstan,2027,0.19814814814814816
+Azerbaijan,2017,0.0
+Azerbaijan,2021,0.0
+Ireland,2027,0.041666666666666664
+United States of America,2021,0.0
+Egypt,2017,0.0
+Libya,2018,0.0
+United States of America,2020,0.0
+United States of America,2017,0.0
+United States of America,2020,0.0
+Spain,2021,0.0
+Brazil,2027,-0.06666666666666667
+India,2020,0.0
+South Sudan,2018,0.0
+Ghana,2021,0.0
+United States of America,2026,0.056666666666666664
+United States of America,2019,0.0
+Armenia,2025,0.0
+Australia,2026,0.1875
+United States of America,2027,-0.004829545454545456
+United States of America,2023,0.0
+United Kingdom,2019,0.0
+United States of America,2026,0.03852813852813853
+United States of America,2026,0.20555555555555552
+Ghana,2025,0.0
+United States of America,2026,0.02
+United States of America,2026,0.05
+United States of America,2023,0.0
+United States of America,2022,0.0
+United States of America,2027,0.05
+United States of America,2026,0.06666666666666668
+Kazakhstan,2027,0.15
+United States of America,2019,0.0
+China,2025,0.0
+Canada,2027,0.08499999999999999
+France,2022,0.0
+Myanmar,2020,0.0
+United States of America,2024,0.0
+United States of America,2020,0.0
+United States of America,2023,0.0
+Mexico,2022,0.0
+Pakistan,2023,0.0
+United States of America,2024,0.0
+South Korea,2026,0.0
+China,2024,0.0
+Ghana,2018,0.0
+United States of America,2027,0.10625
+United States of America,2025,0.0
+United States of America,2019,0.0
+China,2021,0.0
+Lebanon,2027,-0.02
+Australia,2019,0.0
+Australia,2019,0.0
+United States of America,2022,0.0
+Poland,2026,0.06333333333333332
+United States of America,2027,-0.044444444444444446
+United States of America,2018,0.0
+Mongolia,2026,0.0004329004329004317
+Syria,2021,0.0
+Brazil,2020,0.0
+United States of America,2017,0.0
+Kazakhstan,2022,0.0
+United States of America,2018,0.0
+United States of America,2024,0.0
+Mongolia,2027,0.11458333333333333
+United States of America,2017,0.0
+Russia,2024,0.0
+Tunisia,2021,0.0
+United States of America,2020,0.0
+New Zealand,2022,0.0
+Cameroon,2021,0.0
+United States of America,2025,0.0
+United Kingdom,2023,0.0
+Morocco,2025,0.0
+United States of America,2017,0.0
+United States of America,2023,0.0
+Turkey,2021,0.0
+United States of America,2021,0.0
+United States of America,2018,0.0
+India,2023,0.0
+United States of America,2024,0.0
+Germany,2022,0.0
+Nepal,2027,0.0
+United States of America,2024,0.0
+United States of America,2019,0.0
+United States of America,2027,-0.028367003367003367
+Bolivia,2027,0.0
+Australia,2022,0.0
+Netherlands,2018,0.0
+United States of America,2022,0.0
+United States of America,2025,0.0
+United States of America,2023,0.0
+Austria,2021,0.0
+United States of America,2024,0.0
+United States of America,2019,0.0
+Mexico,2026,0.009375000000000001
+United States of America,2020,0.0
+United States of America,2017,0.0
+United States of America,2017,0.0
+United States of America,2022,0.0
+United Kingdom,2024,0.0
+United States of America,2018,0.0
+United States of America,2022,0.0
+Canada,2017,0.0
+Canada,2023,0.0
+France,2018,0.0
+Singapore,2022,0.0
+Cameroon,2017,0.0
+United States of America,2022,0.0
+United States of America,2024,0.0
+United Kingdom,2017,0.0
+United States of America,2024,0.0
+Germany,2017,0.0
+United States of America,2026,0.11885521885521887
+United States of America,2017,0.0
+United Kingdom,2018,0.0
+China,2023,0.0
+China,2019,0.0
+Ireland,2019,0.0
+France,2026,0.06700336700336701
+United States of America,2025,0.0
+United States of America,2017,0.0
+United States of America,2018,0.0
+China,2018,0.0
+China,2027,0.044498556998557
+China,2022,0.0
+United States of America,2027,0.15714285714285717
+United States of America,2021,0.0
+Argentina,2021,0.0
+United States of America,2020,0.0
+United States of America,2020,0.0
+Chile,2025,0.0
+Italy,2022,0.0
+United Kingdom,2022,0.0
+United States of America,2027,0.05555555555555556
+United Kingdom,2024,0.0
+United States of America,2022,0.0
+United States of America,2025,0.0
+China,2020,0.0
+India,2017,0.0
+United States of America,2020,0.0
+United States of America,2018,0.0
+United States of America,2024,0.0
+United States of America,2023,0.0
+United States of America,2022,0.0
+China,2027,0.08825757575757576
+United States of America,2022,0.0
+Cameroon,2027,0.08181818181818182
+Peru,2017,0.0
+United States of America,2024,0.0
+United States of America,2017,0.0
+China,2026,0.07833333333333334
+United States of America,2023,0.0
+Australia,2021,0.0
+United States of America,2020,0.0
+China,2019,0.0
+China,2018,0.0
+United States of America,2018,0.0
+United States of America,2018,0.0
+China,2026,0.2563636363636364
+Italy,2023,0.0
+United States of America,2021,0.0
+United States of America,2024,0.0
+China,2022,0.0
+China,2026,0.016666666666666666
+China,2024,0.0
+United States of America,2022,0.0
+China,2020,0.0
+China,2021,0.0
+Australia,2027,0.13333333333333333
+United States of America,2017,0.0
+China,2024,0.0
+Singapore,2019,0.0
+United States of America,2023,0.0
+France,2025,0.0
+Singapore,2025,0.0
+United States of America,2019,0.0
+China,2017,0.0
+China,2027,-0.005555555555555554
+United States of America,2026,-0.023809523809523808
+United Kingdom,2019,0.0
+China,2023,0.0
+Brazil,2021,0.0
+China,2027,0.04454545454545454
+China,2024,0.0
+South Korea,2024,0.0
+India,2019,0.0
+South Korea,2021,0.0
+Bangladesh,2022,0.0
+Brazil,2020,0.0
+China,2017,0.0
+Singapore,2017,0.0
+United States of America,2020,0.0
+Tanzania,2027,0.03571428571428571
+China,2022,0.0
+United States of America,2025,0.0
+Cote D'Ivoire,2024,0.0
+United States of America,2027,0.05714285714285715
+France,2019,0.0
+United States of America,2017,0.0
+United States of America,2019,0.0
+United States of America,2020,0.0
+United States of America,2020,0.0
+United States of America,2026,0.05246212121212121
+Peru,2018,0.0
+Australia,2026,0.1272727272727273
+Ireland,2018,0.0
+United States of America,2026,0.10250000000000001
+United States of America,2023,0.0
+Russia,2025,0.0
+Germany,2020,0.0
+Chile,2021,0.0
+Brazil,2018,0.0
+Brazil,2026,0.0
+Brazil,2024,0.0
+United States of America,2025,0.0
+United States of America,2019,0.0
+United States of America,2022,0.0
+United States of America,2023,0.0
+China,2026,0.08009259259259259
+China,2022,0.0
+China,2026,0.1565530303030303
+United States of America,2021,0.0
+United States of America,2023,0.0
+Mexico,2023,0.0
+United States of America,2020,0.0
+Canada,2023,0.0
+Burkina Faso,2022,0.0
+Ghana,2027,-0.05185185185185185
+China,2019,0.0
+China,2020,0.0
+Mongolia,2022,0.0
+Zambia,2025,0.0
+United States of America,2019,0.0
+United States of America,2019,0.0
+Ghana,2020,0.0
+United Kingdom,2020,0.0
+Bangladesh,2021,0.0
+Malaysia,2023,0.0
+United States of America,2020,0.0
+United States of America,2023,0.0
+United States of America,2019,0.0
+Australia,2019,0.0
+United Kingdom,2027,-0.026666666666666665
+United States of America,2025,0.0
+Spain,2026,0.18579545454545454
+United States of America,2018,0.0
+Netherlands,2024,0.0
+Netherlands,2024,0.0
+United States of America,2020,0.0
+United States of America,2027,0.04583333333333333
+United States of America,2021,0.0
+United States of America,2027,0.15000000000000002
+United States of America,2027,0.08055555555555556
+China,2017,0.0
+United States of America,2017,0.0
+United States of America,2024,0.0
+Australia,2022,0.0
+United States of America,2025,0.0
+Canada,2022,0.0
+United States of America,2025,0.0
+Guinea,2020,0.0
+Guinea,2025,0.0
+United States of America,2020,0.0
+Israel,2027,0.016666666666666666
+United States of America,2024,0.0
+United States of America,2017,0.0
+Canada,2024,0.0
+United States of America,2023,0.0
+United States of America,2022,0.0
+United States of America,2025,0.0
+United States of America,2021,0.0
+United States of America,2027,-0.08888888888888889
+New Zealand,2018,0.0
+United States of America,2019,0.0
+Germany,2024,0.0
+United States of America,2018,0.0
+China,2021,0.0
+United States of America,2023,0.0
+France,2020,0.0
+Australia,2023,0.0
+United States of America,2021,0.0
+United States of America,2023,0.0
+United States of America,2022,0.0
+United States of America,2027,0.01571428571428572
+United States of America,2023,0.0
+Canada,2026,-0.0125
+Nigeria,2027,0.0625
+Japan,2023,0.0
+Netherlands,2019,0.0
+Egypt,2021,0.0
+United States of America,2017,0.0
+Nigeria,2027,-0.03833333333333334
+United States of America,2022,0.0
+United States of America,2027,0.07878787878787878
+Germany,2018,0.0
+Mongolia,2018,0.0
+United States of America,2025,0.0
+United States of America,2027,-0.010416666666666666
+United States of America,2018,0.0
+Kyrgyzstan,2020,0.0
+United States of America,2018,0.0
+Dominican Republic,2026,0.037500000000000006
+United States of America,2026,0.08
+United States of America,2026,0.025
+Canada,2019,0.0
+Antigua and Barbuda,2022,0.0
+United States of America,2019,0.0
+Bangladesh,2024,0.0
+Senegal,2021,0.0
+New Zealand,2023,0.0
+China,2020,0.0
+China,2025,0.0
+China,2022,0.0
+United States of America,2024,0.0
+Panama,2025,0.0
+Namibia,2025,0.0
+China,2020,0.0
+United States of America,2023,0.0
+United States of America,2019,0.0
+United States of America,2024,0.0
+United Kingdom,2020,0.0
+Brazil,2027,0.15625
+Australia,2025,0.0
+Australia,2024,0.0
+United States of America,2022,0.0
+Ecuador,2022,0.0
+Denmark,2017,0.0
+Norway,2027,0.0248015873015873
+United States of America,2022,0.0
+Haiti,2021,0.0
+United Kingdom,2024,0.0
+United States of America,2026,0.10176767676767677
+United States of America,2018,0.0
+United States of America,2021,0.0
+China,2022,0.0
+United States of America,2024,0.0
+China,2023,0.0
+Venezuela,2020,0.0
+Argentina,2017,0.0
+Japan,2025,0.0
+United States of America,2026,0.25
+United States of America,2017,0.0
+United States of America,2024,0.0
+United States of America,2019,0.0
+United States of America,2024,0.0
+United States of America,2023,0.0
+United States of America,2020,0.0
+United States of America,2027,0.1625
+United States of America,2019,0.0
+United States of America,2025,0.0
+India,2021,0.0
+United States of America,2018,0.0
+Mexico,2020,0.0
+United States of America,2018,0.0
+United States of America,2027,0.08958333333333333
+United States of America,2023,0.0
+South Africa,2024,0.0
+United States of America,2017,0.0
+Jamaica,2025,0.0
+Sweden,2026,0.1025
+Mongolia,2017,0.0
+United States of America,2020,0.0
+Italy,2024,0.0
+India,2020,0.0
+United States of America,2018,0.0
+Argentina,2027,0.07142857142857142
+Kenya,2026,-0.016666666666666666
+Switzerland,2024,0.0
+United States of America,2017,0.0
+United Kingdom,2020,0.0
+Benin,2027,0.1075
+Liberia,2025,0.0
+United States of America,2019,0.0
+Singapore,2022,0.0
+United States of America,2026,0.13999999999999999
+United States of America,2018,0.0
+United States of America,2017,0.0
+United States of America,2017,0.0
+Mexico,2021,0.0
+China,2026,0.05238095238095238
+Mexico,2025,0.0
+Spain,2027,-0.05
+Dominican Republic,2017,0.0
+United States of America,2018,0.0
+United States of America,2020,0.0
+United States of America,2022,0.0
+United States of America,2020,0.0
+United States of America,2025,0.0
+United States of America,2019,0.0
+Germany,2025,0.0
+Germany,2025,0.0
+United States of America,2024,0.0
+China,2022,0.0
+China,2025,0.0
+United States of America,2027,0.045000000000000005
+Ghana,2018,0.0
+United States of America,2024,0.0
+China,2022,0.0
+United States of America,2020,0.0
+China,2025,0.0
+China,2027,0.041666666666666664
+China,2018,0.0
+India,2020,0.0
+Israel,2022,0.0
+United States of America,2023,0.0
+Ukraine,2019,0.0
+United States of America,2020,0.0
+China,2020,0.0
+United States of America,2025,0.0
+Hungary,2023,0.0
+United States of America,2022,0.0
+Canada,2026,0.05
+Guyana,2026,0.203125
+United States of America,2026,0.32999999999999996
+United States of America,2026,0.14981060606060606
+Israel,2019,0.0
+New Zealand,2022,0.0
+United States of America,2017,0.0
+China,2025,0.0
+China,2023,0.0
+China,2021,0.0
+United States of America,2023,0.0
+United States of America,2026,0.07222222222222223
+United States of America,2019,0.0
+Israel,2020,0.0
+United States of America,2017,0.0
+United States of America,2018,0.0
+United States of America,2018,0.0
+United States of America,2019,0.0
+United States of America,2020,0.0
+China,2026,0.0
+China,2022,0.0
+China,2021,0.0
+Argentina,2022,0.0
+China,2020,0.0
+China,2023,0.0
+United States of America,2022,0.0
+United States of America,2017,0.0
+Germany,2024,0.0
+United States of America,2017,0.0
+Australia,2021,0.0
+Japan,2020,0.0
+Switzerland,2027,-0.05
+China,2022,0.0
+United States of America,2018,0.0
+China,2026,0.015625
+Brazil,2020,0.0
+China,2017,0.0
+United States of America,2017,0.0
+Germany,2022,0.0
+Germany,2025,0.0
+United Kingdom,2018,0.0
+Germany,2026,0.12916666666666668
+China,2027,0.29083333333333333
+United States of America,2025,0.0
+United Kingdom,2025,0.0
+United States of America,2019,0.0
+United States of America,2024,0.0
+United States of America,2024,0.0
+United States of America,2027,0.0078125
+United States of America,2025,0.0
+United States of America,2021,0.0
+China,2017,0.0
+Myanmar,2027,-0.0075000000000000015
+United States of America,2024,0.0
+China,2017,0.0
+China,2023,0.0
+China,2020,0.0
+Singapore,2022,0.0
+China,2024,0.0
+United States of America,2020,0.0
+China,2018,0.0
+China,2020,0.0
+China,2017,0.0
+United States of America,2023,0.0
+China,2021,0.0
+China,2024,0.0
+China,2027,-0.025000000000000005
+United States of America,2023,0.0
+China,2021,0.0
+Canada,2019,0.0
+Canada,2018,0.0
+United States of America,2025,0.0
+United Kingdom,2025,0.0
+Malaysia,2019,0.0
+Azerbaijan,2027,0.275
+India,2021,0.0
+Australia,2021,0.0
+United States of America,2017,0.0
+United Kingdom,2018,0.0
+South Korea,2019,0.0
+United Kingdom,2021,0.0
+Jordan,2022,0.0
+Chile,2020,0.0
+South Korea,2018,0.0
+India,2019,0.0
+United States of America,2024,0.0
+United States of America,2022,0.0
+Jordan,2024,0.0
+United States of America,2026,0.1
+United Kingdom,2018,0.0
+United States of America,2019,0.0
+United Kingdom,2019,0.0
+United States of America,2020,0.0
+United States of America,2022,0.0
+United States of America,2019,0.0
+Azerbaijan,2022,0.0
+United States of America,2022,0.0
+United States of America,2023,0.0
+United States of America,2017,0.0
+United Kingdom,2019,0.0
+Pakistan,2026,0.05
+United States of America,2024,0.0
+United States of America,2017,0.0
+New Zealand,2021,0.0
+South Korea,2022,0.0
+United States of America,2020,0.0
+United States of America,2025,0.0
+China,2018,0.0
+China,2020,0.0
+China,2018,0.0
+Singapore,2020,0.0
+China,2027,0.13164335664335663
+China,2021,0.0
+United States of America,2026,-0.016666666666666666
+China,2018,0.0
+China,2024,0.0
+United States of America,2027,0.08571428571428572
+United States of America,2022,0.0
+China,2021,0.0
+China,2024,0.0
+Singapore,2019,0.0
+China,2021,0.0
+Japan,2020,0.0
+United States of America,2027,0.00555555555555555
+United States of America,2023,0.0
+Botswana,2021,0.0
+Ireland,2025,0.0
+United States of America,2026,-0.055555555555555546
+Moldova,2025,0.0
+India,2021,0.0
+Singapore,2025,0.0
+United States of America,2023,0.0
+Singapore,2020,0.0
+South Korea,2020,0.0
+Poland,2024,0.0
+United States of America,2024,0.0
+Singapore,2018,0.0
+United States of America,2019,0.0
+Japan,2021,0.0
+Thailand,2017,0.0
+United States of America,2023,0.0
+United States of America,2023,0.0
+United States of America,2022,0.0
+India,2024,0.0
+India,2022,0.0
+China,2026,0.08424723424723425
+China,2017,0.0
+France,2021,0.0
+India,2027,0.12916666666666665
+United States of America,2019,0.0
+Rwanda,2024,0.0
+United States of America,2024,0.0
+Kenya,2022,0.0
+Nepal,2017,0.0
+United States of America,2027,0.026041666666666657
+Egypt,2019,0.0
+Netherlands,2017,0.0
+Honduras,2026,0.08571428571428572
+United States of America,2024,0.0
+India,2020,0.0
+Lithuania,2024,0.0
+United States of America,2026,0.0803030303030303
+United States of America,2017,0.0
+United States of America,2020,0.0
+Australia,2020,0.0
+United States of America,2018,0.0
+United States of America,2023,0.0
+United Kingdom,2026,0.07727272727272726
+United States of America,2022,0.0
+United Kingdom,2025,0.0
+United States of America,2022,0.0
+Pakistan,2022,0.0
+United States of America,2024,0.0
+United States of America,2020,0.0
+Saudi Arabia,2027,-0.01333333333333333
+Pakistan,2021,0.0
+Pakistan,2027,0.22083333333333333
+Georgia,2024,0.0
+United Kingdom,2023,0.0
+United States of America,2023,0.0
+United States of America,2019,0.0
+South Korea,2023,0.0
+United States of America,2019,0.0
+South Korea,2024,0.0
+United States of America,2026,-0.05333333333333333
+Burundi,2023,0.0
+Kenya,2023,0.0
+Australia,2018,0.0
+United States of America,2018,0.0
+United States of America,2021,0.0
+Israel,2025,0.0
+Austria,2024,0.0
+United States of America,2023,0.0
+North Macedonia,2022,0.0
+United States of America,2018,0.0
+United States of America,2027,-0.06944444444444443
+Switzerland,2026,0.0
+Singapore,2023,0.0
+United States of America,2019,0.0
+United States of America,2020,0.0
+China,2024,0.0
+Russia,2027,0.0071428571428571435
+United States of America,2026,0.05000000000000001
+United States of America,2019,0.0
+Ukraine,2024,0.0
+United States of America,2026,0.061111111111111116
+Germany,2018,0.0
+India,2022,0.0
+United States of America,2018,0.0
+United States of America,2019,0.0
+Singapore,2024,0.0
+United States of America,2023,0.0
+Germany,2026,0.025
+United States of America,2021,0.0
+Nepal,2021,0.0
+Cameroon,2027,0.07857142857142858
+Russia,2023,0.0
+United States of America,2027,-0.022727272727272728
+Trinidad and Tobago,2025,0.0
+United States of America,2021,0.0
+United States of America,2025,0.0
+United States of America,2022,0.0
+France,2027,0.05
+United Kingdom,2019,0.0
+Bosnia and Herzegovina,2025,0.0
+China,2021,0.0
+United States of America,2025,0.0
+China,2022,0.0
+China,2017,0.0
+Sweden,2020,0.0
+Pakistan,2026,0.07106060606060606
+United States of America,2021,0.0
+United States of America,2022,0.0
+United States of America,2026,0.06818181818181818
+China,2027,0.07857142857142858
+United States of America,2017,0.0
+United Kingdom,2023,0.0
+United States of America,2021,0.0
+Italy,2023,0.0
+United States of America,2018,0.0
+United States of America,2021,0.0
+United States of America,2027,0.25
+United States of America,2022,0.0
+United States of America,2027,0.0
+South Korea,2018,0.0
+China,2019,0.0
+South Korea,2023,0.0
+South Korea,2020,0.0
+China,2025,0.0
+South Korea,2019,0.0
+United States of America,2017,0.0
+China,2019,0.0
+Greece,2018,0.0
+United States of America,2024,0.0
+Singapore,2019,0.0
+United States of America,2025,0.0
+United States of America,2021,0.0
+United States of America,2027,-0.01833333333333333
+United Kingdom,2020,0.0
+China,2021,0.0
+United States of America,2022,0.0
+China,2020,0.0
+United States of America,2021,0.0
+China,2020,0.0
+United States of America,2021,0.0
+China,2020,0.0
+China,2025,0.0
+China,2017,0.0
+China,2027,0.15075757575757576
+China,2026,0.10333333333333335
+Canada,2020,0.0
+China,2023,0.0
+United States of America,2022,0.0
+China,2025,0.0
+China,2025,0.0
+China,2021,0.0
+United States of America,2026,0.07962962962962963
+China,2017,0.0
+China,2018,0.0
+China,2027,0.05357142857142857
+China,2021,0.0
+China,2026,0.015000000000000003
+China,2023,0.0
+Canada,2023,0.0
+China,2024,0.0
+United States of America,2025,0.0
+China,2021,0.0
+China,2021,0.0
+China,2025,0.0
+China,2024,0.0
+China,2026,0.06178451178451178
+China,2025,0.0
+Canada,2021,0.0
+China,2023,0.0
+United States of America,2023,0.0
+Mexico,2018,0.0
+Canada,2019,0.0
+Malaysia,2022,0.0
+Canada,2018,0.0
+Canada,2025,0.0
+South Korea,2024,0.0
+Canada,2026,0.2375
+China,2027,0.07777777777777778
+Australia,2023,0.0
+United States of America,2026,0.1
+China,2024,0.0
+Russia,2027,0.08571428571428572
+Canada,2018,0.0
+China,2026,0.025
+United States of America,2021,0.0
+China,2024,0.0
+China,2023,0.0
+United States of America,2021,0.0
+United States of America,2018,0.0
+China,2025,0.0
+United States of America,2025,0.0
+China,2023,0.0
+China,2026,0.00625
+China,2027,0.2333333333333333
+China,2026,0.23333333333333334
+China,2026,0.13011363636363638
+China,2021,0.0
+China,2019,0.0
+China,2022,0.0
+China,2025,0.0
+China,2020,0.0
+United States of America,2024,0.0
+United States of America,2017,0.0
+United States of America,2019,0.0
+Colombia,2019,0.0
+United States of America,2021,0.0
+Belarus,2024,0.0
+China,2019,0.0
+China,2018,0.0
+China,2019,0.0
+United States of America,2018,0.0
+Mexico,2021,0.0
+United States of America,2017,0.0
+Chile,2019,0.0
+Mexico,2017,0.0
+Australia,2026,0.05918367346938775
+Vietnam,2026,0.1218181818181818
+Uganda,2023,0.0
+United States of America,2025,0.0
+United Kingdom,2018,0.0
+France,2026,0.025
+China,2026,0.071875
+United States of America,2022,0.0
+United States of America,2021,0.0
+China,2026,0.04545454545454545
+China,2027,0.0
+China,2027,0.08333333333333333
+China,2024,0.0
+China,2018,0.0
+China,2022,0.0
+United States of America,2020,0.0
+United States of America,2022,0.0
+Brazil,2022,0.0
+Canada,2020,0.0
+Canada,2018,0.0
+United States of America,2024,0.0
+United States of America,2027,0.014285714285714287
+United States of America,2019,0.0
+Nepal,2023,0.0
+South Africa,2020,0.0
+Mongolia,2020,0.0
+Nigeria,2026,0.0
+United States of America,2019,0.0
+United States of America,2021,0.0
+United States of America,2023,0.0
+Zambia,2027,-0.020833333333333332
+Canada,2025,0.0
+United States of America,2018,0.0
+Lesotho,2021,0.0
+China,2025,0.0
+Germany,2019,0.0
+United States of America,2020,0.0
+United States of America,2024,0.0
+Zimbabwe,2022,0.0
+United States of America,2018,0.0
+Canada,2023,0.0
+United States of America,2017,0.0
+United States of America,2027,0.12
+United States of America,2026,0.07603305785123968
+Mexico,2018,0.0
+Canada,2019,0.0
+Zimbabwe,2017,0.0
+Kenya,2017,0.0
+United States of America,2023,0.0
+United States of America,2025,0.0
+Tunisia,2026,0.02
+Kenya,2026,-0.009523809523809526
+United States of America,2025,0.0
+United States of America,2018,0.0
+United States of America,2027,-0.05
+Australia,2017,0.0
+United States of America,2018,0.0
+United States of America,2021,0.0
+Ireland,2026,-0.00357142857142857
+Ireland,2020,0.0
+United Kingdom,2027,0.25
+United States of America,2017,0.0
+United States of America,2018,0.0
+United States of America,2026,0.06079545454545455
+United States of America,2021,0.0
+Australia,2022,0.0
+United States of America,2026,0.018855218855218854
+United States of America,2020,0.0
+China,2022,0.0
+United States of America,2022,0.0
+Chile,2024,0.0
+United States of America,2018,0.0
+United States of America,2017,0.0
+Mexico,2021,0.0
+Italy,2022,0.0
+Australia,2019,0.0
+Myanmar,2025,0.0
+Turkey,2027,0.016666666666666666
+Singapore,2020,0.0
+Jamaica,2022,0.0
+Pakistan,2026,-0.05
+Japan,2017,0.0
+United States of America,2024,0.0
+Egypt,2020,0.0
+Kenya,2020,0.0
+Sri Lanka,2025,0.0
+United States of America,2026,0.1275482093663912
+United States of America,2027,0.09375
+United States of America,2025,0.0
+United States of America,2019,0.0
+United States of America,2026,0.1261904761904762
+Panama,2026,0.04375
+Ecuador,2019,0.0
+United States of America,2020,0.0
+Japan,2022,0.0
+United States of America,2020,0.0
+United States of America,2020,0.0
+Ireland,2019,0.0
+Myanmar,2026,0.14722222222222223
+United States of America,2026,-0.026515151515151512
+Canada,2022,0.0
+India,2023,0.0
+Rwanda,2020,0.0
+Afghanistan,2019,0.0
+United States of America,2027,0.06041666666666667
+Zimbabwe,2023,0.0
+Indonesia,2024,0.0
+United States of America,2019,0.0
+United States of America,2024,0.0
+United States of America,2023,0.0
+Italy,2026,0.06833333333333333
+United States of America,2026,0.01388888888888889
+Australia,2024,0.0
+Panama,2023,0.0
+China,2022,0.0
+India,2024,0.0
+United States of America,2024,0.0
+United States of America,2022,0.0
+United Kingdom,2024,0.0
+United States of America,2025,0.0
+Canada,2021,0.0
+United States of America,2024,0.0
+United Kingdom,2023,0.0
+Cameroon,2023,0.0
+United States of America,2018,0.0
+United States of America,2020,0.0
+Israel,2021,0.0
+United States of America,2023,0.0
+Singapore,2026,-0.03333333333333333
+Vietnam,2023,0.0
+Vietnam,2025,0.0
+United States of America,2026,0.125
+Vietnam,2026,0.014285714285714287
+Vietnam,2027,0.07291666666666667
+Cameroon,2025,0.0
+Cameroon,2024,0.0
+China,2018,0.0
+China,2025,0.0
+United States of America,2025,0.0
+United States of America,2023,0.0
+Russia,2026,0.14285714285714285
+United States of America,2020,0.0
+United States of America,2021,0.0
+China,2018,0.0
+Japan,2021,0.0
+Norway,2022,0.0
+United States of America,2020,0.0
+South Africa,2019,0.0
+United States of America,2020,0.0
+Germany,2022,0.0
+Philippines,2023,0.0
+Kazakhstan,2017,0.0
+Kenya,2024,0.0
+Ghana,2025,0.0
+United Kingdom,2022,0.0
+Ireland,2025,0.0
+United States of America,2021,0.0
+Ireland,2020,0.0
+Nigeria,2022,0.0
+Argentina,2027,0.02958333333333334
+Ghana,2026,0.07500000000000001
+Kenya,2024,0.0
+United States of America,2025,0.0
+United States of America,2025,0.0
+Nigeria,2025,0.0
+United Kingdom,2020,0.0
+United States of America,2021,0.0
+United Kingdom,2021,0.0
+United States of America,2027,0.20285714285714285
+United States of America,2024,0.0
+South Africa,2018,0.0
+Kazakhstan,2021,0.0
+United States of America,2022,0.0
+Ghana,2020,0.0
+United States of America,2023,0.0
+Mexico,2024,0.0
+United States of America,2027,0.0
+United Kingdom,2023,0.0
+Russia,2019,0.0
+United States of America,2027,-0.05000000000000001
+United States of America,2020,0.0
+Ghana,2027,0.03766233766233767
+Japan,2024,0.0
+United States of America,2019,0.0
+United States of America,2018,0.0
+United States of America,2027,0.2
+China,2019,0.0
+China,2023,0.0
+Nepal,2027,0.06818181818181818
+Croatia,2026,0.06818181818181818
+Nicaragua,2019,0.0
+South Korea,2025,0.0
+South Korea,2027,0.03958333333333333
+United States of America,2018,0.0
+United States of America,2017,0.0
+United States of America,2017,0.0
+United States of America,2025,0.0
+United States of America,2020,0.0
+United States of America,2027,-0.01145833333333333
+Ecuador,2024,0.0
+United States of America,2019,0.0
+Germany,2027,0.18171487603305783
+Jamaica,2018,0.0
+China,2023,0.0
+United States of America,2020,0.0
+United States of America,2019,0.0
+United States of America,2023,0.0
+China,2019,0.0
+China,2019,0.0
+China,2022,0.0
+United States of America,2024,0.0
+United States of America,2022,0.0
+Argentina,2023,0.0
+Hungary,2027,-0.037500000000000006
+United States of America,2018,0.0
+Germany,2021,0.0
+United States of America,2022,0.0
+Jamaica,2019,0.0
+Sri Lanka,2025,0.0
+China,2017,0.0
+United States of America,2024,0.0
+Germany,2019,0.0
+China,2019,0.0
+Romania,2022,0.0
+United States of America,2021,0.0
+India,2019,0.0
+United States of America,2021,0.0
+United States of America,2027,0.08
+United States of America,2018,0.0
+United States of America,2018,0.0
+United States of America,2022,0.0
+United States of America,2024,0.0
+Romania,2023,0.0
+Pakistan,2018,0.0
+China,2023,0.0
+United States of America,2025,0.0
+Tanzania,2017,0.0
+Ghana,2021,0.0
+United States of America,2022,0.0
+United Kingdom,2017,0.0
+India,2019,0.0
+United Kingdom,2022,0.0
+United States of America,2023,0.0
+United States of America,2022,0.0
+United States of America,2027,0.16666666666666666
+Egypt,2020,0.0
+United States of America,2017,0.0
+United States of America,2023,0.0
+United States of America,2024,0.0
+India,2023,0.0
+India,2024,0.0
+Israel,2026,0.125
+United States of America,2018,0.0
+United States of America,2023,0.0
+United States of America,2022,0.0
+United Kingdom,2025,0.0
+United States of America,2018,0.0
+China,2023,0.0
+Colombia,2017,0.0
+Brazil,2017,0.0
+United States of America,2023,0.0
+United States of America,2019,0.0
+United States of America,2021,0.0
+United States of America,2024,0.0
+Mexico,2023,0.0
+Austria,2024,0.0
+United States of America,2017,0.0
+United States of America,2027,0.04583333333333334
+United States of America,2017,0.0
+United States of America,2021,0.0
+United States of America,2018,0.0
+United States of America,2027,0.08888888888888889
+United States of America,2018,0.0
+Argentina,2020,0.0
+Canada,2017,0.0
+United States of America,2023,0.0
+United States of America,2020,0.0
+United States of America,2018,0.0
+United States of America,2018,0.0
+United States of America,2026,0.008333333333333333
+United States of America,2022,0.0
+United States of America,2021,0.0
+Israel,2021,0.0
+United States of America,2017,0.0
+United States of America,2017,0.0
+United States of America,2022,0.0
+Mexico,2023,0.0
+United States of America,2024,0.0
+United States of America,2018,0.0
+United States of America,2017,0.0
+United States of America,2022,0.0
+United States of America,2019,0.0
+Singapore,2021,0.0
+Russia,2024,0.0
+India,2027,0.04
+Nigeria,2026,0.21666666666666667
+Nicaragua,2020,0.0
+United States of America,2027,0.21666666666666667
+Kenya,2026,-0.0071428571428571435
+United States of America,2019,0.0
+Sweden,2018,0.0
+United States of America,2027,0.027777777777777776
+Venezuela,2024,0.0
+India,2024,0.0
+United Kingdom,2020,0.0
+Japan,2021,0.0
+Uruguay,2025,0.0
+United States of America,2020,0.0
+United States of America,2019,0.0
+United States of America,2023,0.0
+France,2022,0.0
+India,2027,0.09333333333333334
+United Kingdom,2026,-0.019047619047619046
+United States of America,2025,0.0
+United States of America,2024,0.0
+United States of America,2021,0.0
+Austria,2021,0.0
+United States of America,2017,0.0
+United States of America,2027,0.09166666666666667
+Germany,2018,0.0
+United States of America,2026,0.15454545454545454
+United States of America,2017,0.0
+Germany,2024,0.0
+United States of America,2025,0.0
+United States of America,2026,0.02
+United States of America,2019,0.0
+United States of America,2022,0.0
+United States of America,2022,0.0
+Colombia,2019,0.0
+Israel,2019,0.0
+India,2026,0.1761904761904762
+United States of America,2018,0.0
+Ghana,2022,0.0
+Australia,2018,0.0
+India,2020,0.0
+Canada,2017,0.0
+United States of America,2025,0.0
+India,2017,0.0
+United States of America,2023,0.0
+India,2023,0.0
+United States of America,2024,0.0
+China,2027,-0.0025252525252525294
+Canada,2025,0.0
+United States of America,2017,0.0
+India,2025,0.0
+India,2024,0.0
+United States of America,2020,0.0
+United States of America,2018,0.0
+United States of America,2027,-0.025
+China,2018,0.0
+China,2024,0.0
+Liberia,2023,0.0
+United States of America,2026,-0.008333333333333333
+China,2020,0.0
+United States of America,2025,0.0
+Japan,2024,0.0
+Canada,2021,0.0
+United States of America,2023,0.0
+South Korea,2019,0.0
+United States of America,2025,0.0
+Nepal,2024,0.0
+United States of America,2022,0.0
+United States of America,2020,0.0
+India,2018,0.0
+Singapore,2022,0.0
+Brazil,2022,0.0
+Brazil,2022,0.0
+Peru,2025,0.0
+United States of America,2026,0.3375
+Singapore,2022,0.0
+Indonesia,2025,0.0
+Canada,2019,0.0
+India,2022,0.0
+India,2023,0.0
+India,2022,0.0
+United States of America,2021,0.0
+United States of America,2026,0.07142857142857142
+Poland,2025,0.0
+United States of America,2027,0.0
+Russia,2026,0.09038461538461538
+United States of America,2025,0.0
+China,2027,-0.0071428571428571435
+United States of America,2017,0.0
+Venezuela,2021,0.0
+United States of America,2021,0.0
+United States of America,2025,0.0
+Brazil,2024,0.0
+Kazakhstan,2019,0.0
+Germany,2023,0.0
+United States of America,2027,0.0888888888888889
+United States of America,2020,0.0
+United States of America,2017,0.0
+United States of America,2020,0.0
+United States of America,2027,0.5
+Switzerland,2017,0.0
+Philippines,2018,0.0
+United States of America,2022,0.0
+United States of America,2027,0.03571428571428571
+Ireland,2027,0.06833333333333333
+Austria,2026,-0.035416666666666666
+United Kingdom,2026,0.016666666666666666
+United States of America,2025,0.0
+United States of America,2022,0.0
+United States of America,2026,0.042857142857142864
+United States of America,2022,0.0
+United States of America,2019,0.0
+China,2018,0.0
+China,2019,0.0
+Indonesia,2017,0.0
+United Kingdom,2017,0.0
+United States of America,2017,0.0
+United States of America,2024,0.0
+United States of America,2022,0.0
+China,2024,0.0
+China,2018,0.0
+China,2025,0.0
+United States of America,2025,0.0
+United States of America,2021,0.0
+United States of America,2021,0.0
+United States of America,2018,0.0
+Indonesia,2019,0.0
+United States of America,2026,0.0625
+Canada,2027,0.12666666666666665
+United States of America,2026,0.05
+Afghanistan,2025,0.0
+Japan,2020,0.0
+United States of America,2025,0.0
+Colombia,2023,0.0
+United States of America,2020,0.0
+Singapore,2024,0.0
+United States of America,2019,0.0
+United States of America,2027,-0.016666666666666666
+Australia,2017,0.0
+Singapore,2023,0.0
+China,2017,0.0
+New Zealand,2020,0.0
+Canada,2023,0.0
+China,2023,0.0
+United States of America,2021,0.0
+China,2019,0.0
+China,2027,0.10714285714285714
+China,2022,0.0
+United States of America,2021,0.0
+Singapore,2025,0.0
+Malawi,2023,0.0
+Singapore,2021,0.0
+China,2024,0.0
+Singapore,2027,0.02716049382716049
+Japan,2017,0.0
+United States of America,2026,0.05555555555555555
+India,2024,0.0
+United States of America,2025,0.0
+United States of America,2018,0.0
+Germany,2023,0.0
+United States of America,2019,0.0
+Canada,2021,0.0
+Slovenia,2021,0.0
+United States of America,2022,0.0
+Malaysia,2027,0.05918367346938775
+United States of America,2019,0.0
+Russia,2023,0.0
+United States of America,2019,0.0
+United States of America,2019,0.0
+Colombia,2027,-0.0225
+Canada,2020,0.0
+United States of America,2027,0.07291666666666667
+United States of America,2023,0.0
+India,2025,0.0
+Thailand,2027,-0.075
+China,2019,0.0
+United States of America,2027,0.16666666666666669
+South Africa,2022,0.0
+United States of America,2017,0.0
+United States of America,2026,0.01547619047619048
+United Kingdom,2018,0.0
+Romania,2017,0.0
+United States of America,2020,0.0
+Rwanda,2022,0.0
+United States of America,2026,0.0
+China,2023,0.0
+Turkmenistan,2026,0.0975
+Rwanda,2019,0.0
+France,2025,0.0
+United States of America,2026,0.005555555555555554
+United States of America,2027,0.07500000000000001
+United States of America,2023,0.0
+United States of America,2024,0.0
+Brazil,2026,0.30416666666666664
+United States of America,2021,0.0
+United States of America,2025,0.0
+Italy,2020,0.0
+United States of America,2022,0.0
+United Kingdom,2021,0.0
+United States of America,2025,0.0
+United States of America,2027,0.05416666666666667
+France,2018,0.0
+United States of America,2022,0.0
+Hungary,2021,0.0
+Vietnam,2019,0.0
+United States of America,2022,0.0
+China,2018,0.0
+United States of America,2022,0.0
+United States of America,2024,0.0
+United States of America,2018,0.0
+United States of America,2024,0.0
+United States of America,2018,0.0
+China,2019,0.0
+United States of America,2025,0.0
+Canada,2019,0.0
+United States of America,2024,0.0
+China,2023,0.0
+China,2026,0.036000000000000004
+United States of America,2026,-0.0018518518518518521
+China,2024,0.0
+China,2027,-0.0828125
+United States of America,2019,0.0
+United States of America,2021,0.0
+China,2023,0.0
+China,2024,0.0
+China,2019,0.0
+United States of America,2024,0.0
+United States of America,2026,-0.034375
+United States of America,2023,0.0
+China,2026,0.10999999999999999
+United Kingdom,2019,0.0
+China,2018,0.0
+United States of America,2023,0.0
+China,2018,0.0
+China,2025,0.0
+China,2022,0.0
+China,2023,0.0
+China,2024,0.0
+China,2017,0.0
+China,2023,0.0
+China,2026,0.1830952380952381
+China,2022,0.0
+China,2021,0.0
+China,2018,0.0
+Canada,2024,0.0
+United States of America,2018,0.0
+United States of America,2018,0.0
+United States of America,2017,0.0
+United States of America,2023,0.0
+China,2027,0.04375
+China,2027,-0.026666666666666665
+United States of America,2025,0.0
+United States of America,2018,0.0
+United States of America,2026,0.15833333333333333
+Jamaica,2026,0.0125
+Indonesia,2021,0.0
+United States of America,2022,0.0
+United States of America,2025,0.0
+United States of America,2026,0.09999999999999999
+United States of America,2026,0.0
+United States of America,2027,-0.03125
+United States of America,2018,0.0
+United States of America,2027,-0.03125
+China,2021,0.0
+New Zealand,2023,0.0
+United States of America,2022,0.0
+United Kingdom,2018,0.0
+Poland,2020,0.0
+China,2019,0.0
+Canada,2018,0.0
+United States of America,2020,0.0
+China,2022,0.0
+Panama,2019,0.0
+New Zealand,2025,0.0
+United States of America,2019,0.0
+New Zealand,2024,0.0
+Australia,2019,0.0
+United States of America,2019,0.0
+Australia,2018,0.0
+China,2026,0.058928571428571434
+China,2019,0.0
+China,2025,0.0
+China,2022,0.0
+United States of America,2023,0.0
+United States of America,2025,0.0
+China,2019,0.0
+China,2018,0.0
+United States of America,2021,0.0
+China,2021,0.0
+China,2021,0.0
+China,2022,0.0
+China,2023,0.0
+China,2022,0.0
+China,2023,0.0
+China,2021,0.0
+China,2020,0.0
+China,2022,0.0
+United States of America,2023,0.0
+China,2025,0.0
+China,2023,0.0
+China,2026,0.0941798941798942
+China,2022,0.0
+United States of America,2021,0.0
+China,2022,0.0
+China,2018,0.0
+China,2019,0.0
+United States of America,2023,0.0
+China,2019,0.0
+China,2023,0.0
+China,2021,0.0
+China,2026,0.09015151515151515
+Canada,2025,0.0
+China,2026,0.06666666666666667
+China,2024,0.0
+China,2019,0.0
+China,2019,0.0
+China,2025,0.0
+China,2023,0.0
+China,2027,0.1
+United States of America,2020,0.0
+Germany,2021,0.0
+China,2017,0.0
+United States of America,2024,0.0
+Japan,2025,0.0
+China,2018,0.0
+China,2021,0.0
+China,2020,0.0
+Philippines,2023,0.0
+China,2022,0.0
+China,2020,0.0
+China,2020,0.0
+United States of America,2025,0.0
+United States of America,2019,0.0
+United States of America,2025,0.0
+China,2018,0.0
+China,2020,0.0
+China,2017,0.0
+United States of America,2023,0.0
+United States of America,2025,0.0
+Canada,2027,0.0875
+Russia,2023,0.0
+China,2027,0.08
+China,2020,0.0
+China,2024,0.0
+China,2023,0.0
+China,2025,0.0
+China,2020,0.0
+China,2020,0.0
+China,2027,0.08125
+China,2017,0.0
+China,2026,0.016666666666666666
+China,2027,0.03571428571428571
+China,2019,0.0
+United States of America,2026,0.028231292517006807
+United States of America,2024,0.0
+China,2021,0.0
+China,2017,0.0
+China,2021,0.0
+China,2026,0.0
+United States of America,2022,0.0
+China,2017,0.0
+China,2024,0.0
+China,2020,0.0
+China,2027,0.008333333333333335
+China,2027,0.01
+China,2020,0.0
+China,2027,0.026609848484848486
+United States of America,2021,0.0
+China,2025,0.0
+China,2018,0.0
+China,2025,0.0
+Spain,2019,0.0
+United States of America,2022,0.0
+China,2018,0.0
+China,2017,0.0
+China,2017,0.0
+China,2027,0.058653846153846154
+China,2024,0.0
+China,2023,0.0
+China,2024,0.0
+China,2020,0.0
+China,2023,0.0
+United States of America,2021,0.0
+China,2024,0.0
+Ukraine,2019,0.0
+China,2026,0.002083333333333333
+China,2019,0.0
+China,2025,0.0
+United States of America,2022,0.0
+United States of America,2024,0.0
+China,2019,0.0
+China,2018,0.0
+China,2017,0.0
+China,2027,0.08
+China,2024,0.0
+China,2020,0.0
+China,2025,0.0
+China,2022,0.0
+United States of America,2022,0.0
+Russia,2020,0.0
+United Kingdom,2026,0.04583333333333334
+Israel,2023,0.0
+United States of America,2020,0.0
+China,2025,0.0
+United States of America,2021,0.0
+United States of America,2019,0.0
+United States of America,2024,0.0
