@@ -1,7 +1,4 @@
 ![L-system × Schwarzman](l-system-schwarzman.png)
-
-*Left: L-system tree (Java/Processing, Example 8.9) — Right: Schwarzman Scholars Open Data in Charter serif red — compiled to PNG (2400×1350, 300 DPI, Visualizing Data × Nature of Code)*
-
 # Schwarzman Scholars Open Data (2017–2027)
 
 **1,497 scholars • 11 cohorts • 74 public intro videos • 285 bios • transcribed + interview-backed**
