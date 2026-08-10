@@ -241,9 +241,22 @@ def style_axes(
         )
     if subtitle:
         # Render subtitle as a text box just above axes (like Ref 2 "Tsinghua · Schwarzman")
-        # Use figure-level if axes title already used — here we add an axes text.
+        # Place higher when title exists to avoid overlap (title pad + subtitle offset)
+        y_sub = 1.12 if title else 1.02
+        title_pad = 32 if subtitle else 14
+        if title:
+            # bump title pad so subtitle has breathing room
+            ax.set_title(
+                title,
+                loc="left",
+                pad=title_pad,
+                fontsize=TITLE_SIZE,
+                fontweight="bold",
+                color=title_color,
+                fontfamily=(SERIF if title_serif else SANS)[0],
+            )
         ax.text(
-            0, 1.02, subtitle,
+            0, y_sub, subtitle,
             transform=ax.transAxes,
             ha="left", va="bottom",
             fontsize=SUBTITLE_SIZE - 1,

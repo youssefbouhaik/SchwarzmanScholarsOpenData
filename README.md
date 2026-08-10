@@ -27,6 +27,9 @@
 - [Reproduce in 2 minutes](#reproduce-in-2-minutes)
 - [Limitations](#limitations--read-before-citing)
 
+![Schwarzman Hybrid Treemap — the 285 bios in one view](analytics_dashboard/schwarzman_hybrid_4K.png)
+> **Figure 1 — Academic appetizer: how 285 admitted bios describe themselves.** Treemap area = word frequency (active words only — `and 1,412` / `the 1,129` stripped, POS-filtered to nouns/verbs/adjectives). `china 230`, `global 175`, `university 276`, `policy 114`, `founded 73`, `led 71` dominate by area — not `passionate 58`. No color encodes rank; white tiles + `#E2E8F0` strokes keep the map quiet. The bridge (`china`/`global`/`united`/`international`) is 970 mentions. See § The language of admission + `data/bios_words.csv` for counts and `scripts/bios_nlp.py` for the POS method.
+
 ## Dataset at a glance
 
 | File | Rows | Columns | Notes |
