@@ -7,7 +7,6 @@ node_modules/
 .venv/
 venv/
 __pycache__/
-
 # Heavy video files — keep repo light, regenerate via yt-dlp
 frontend/public/videos/*.mp4
 data/videos/*.mp4
@@ -15,11 +14,12 @@ data/videos/*.part
 temp_*.jpg
 temp_frame.jpg
 temp_batch.jpg
-
 # Transcripts not yet consented — keep local until scholar approves
 # Uncomment to track consented transcripts:
 # !data/transcripts/*.txt
-
 # Environment variables
 .env
 .DS_Store
+temp_review_for_you/
+docs/screenshot_*.png
+analytics_dashboard/notebook_error*.png
