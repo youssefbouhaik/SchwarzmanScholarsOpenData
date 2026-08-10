@@ -94,6 +94,91 @@ All figures regenerative: `python generate_plots.py` reads `data/schwarzman_scho
 
 > **All 74 intros shorthand:** `data/video_legend.csv` + `docs/VIDEO_LEGEND.md` give `AA18` … `XR27` (First+Last+cohort) for every video — use on any axis so `ADMITTED_SCHOLAR_PROFILES.md` (73 unique vids) → `data/video_features_all.csv` → PNGs stays readable. New `all74` plots with shorthand: `analytics_dashboard/warmth_vs_sentiment_all74_shorthand.png` (24 scored + 50 pending grey) and `charisma_by_cohort_all74_shorthand.png` (boxes sized by n=74, dots labelled). See legend for *how Schwarzman plays vs itself* (share table US 44.6% vs 41.2%, CN 2.7% vs 20.0% under-share) and vs other fellowships (region field).
 
+<details><summary>Full 74-code legend — every abbreviation disclosed (AA18 → XR27, 73 films, SL26/SL27 share one ID)</summary>
+
+`AA18` = **A**bdullah **A**lmiqasbi **18**; `SL26` + `SL27` share `imwXwnyzpRU`. `has_bio` yes/— = 19% have a bio; blank warmth = 50 pending (use `warmth_vs_sentiment.png` n=24). Table from `data/video_legend.csv` (join on `shorthand` or `vid`):
+
+| shorthand | name | cohort | country | region | has_bio | warmth_v2 |
+|---|---|---|---|---|---|---|
+| AA18 | Abdullah Almiqasbi | 2018 | Libya | Africa | — | 76.7 |
+| CP18 | Collin Parker | 2018 | United States of America | US | — | — |
+| MM18 | Mark McGinnis | 2018 | United States of America | US | — | — |
+| MS18 | Mollie Saltskog | 2018 | Sweden | Other | — | — |
+| PG18 | Paula Martínez Gutiérrez | 2018 | Mexico | LatAm | — | — |
+| BC19 | Bor Hung Chong | 2019 | Malaysia | Other | — | 55.4 |
+| CC19 | Capucine Cogné | 2019 | France | Europe | — | 90.2 |
+| HW19 | Hugo Wood | 2019 | Panama | Other | — | — |
+| AD20 | Abdourahamane Diallo | 2020 | Guinea | Africa | — | 52.7 |
+| AA20 | Adedotun Adejare | 2020 | United States of America | US | — | 77.8 |
+| EA20 | Elsa Alvarado | 2020 | United States of America | US | — | 46.2 |
+| LD20 | Laura Darnley | 2020 | United Kingdom | UK | — | 54.9 |
+| MR20 | Mohamed Ramy | 2020 | Egypt | Other | — | — |
+| VS20 | Varun Sharma | 2020 | United States of America | US | — | 59.1 |
+| CV21 | Christopher Vassallo | 2021 | United States of America | US | — | — |
+| DD21 | Debpriya Das | 2021 | Bangladesh | Asia-Pacific | — | 74.7 |
+| MD21 | Mariam Dogar | 2021 | United States of America | US | — | 90.1 |
+| SN21 | Shreya Nayak | 2021 | Canada | CA | — | — |
+| AT22 | Anathi Tshabe | 2022 | South Africa | Other | — | — |
+| GC22 | Gurchit Chatha | 2022 | United States of America | US | — | 49.3 |
+| JL22 | Jin Young Lim | 2022 | Malaysia | Other | — | — |
+| LH22 | Lena Hoffmann | 2022 | Germany | Europe | — | 41.0 |
+| LM22 | Lucio Milanese | 2022 | Italy | Other | — | — |
+| MK22 | Matea Kocevska | 2022 | North Macedonia | Other | — | — |
+| MM22 | Michael McPhail | 2022 | Australia | Asia-Pacific | — | — |
+| PB22 | Patrik Birkle | 2022 | Germany | Europe | — | 56.0 |
+| PR22 | Paulina Ruta | 2022 | United States of America | US | — | — |
+| TL22 | Trevaughn Latimer | 2022 | United States of America | US | — | 45.1 |
+| BJ23 | Bailey Johnson | 2023 | United States of America | US | — | — |
+| CW23 | Christina Wiremu-Brook | 2023 | New Zealand | Other | — | — |
+| DM23 | Damian Murray | 2023 | United States of America | US | — | — |
+| DI23 | Daniel James II | 2023 | United States of America | US | — | — |
+| JC23 | Justin L. Curl | 2023 | United States of America | US | — | 43.3 |
+| LT23 | Lea Thome | 2023 | Germany | Europe | — | — |
+| LN23 | Lloyd Jose Nunag | 2023 | Philippines | Other | — | — |
+| MS23 | Manthan Shah | 2023 | India | Asia-Pacific | — | — |
+| MZ23 | Mikhail Zamskoy | 2023 | Russia | Other | — | — |
+| NR23 | Neel Reddy | 2023 | United States of America | US | — | — |
+| NM23 | Nicolás Tamayo Medina | 2023 | Colombia | LatAm | — | — |
+| SZ23 | Sam Zahn | 2023 | United States of America | US | — | — |
+| TN23 | Trishna Nagrani | 2023 | Panama | Other | — | — |
+| YW23 | Yuchen Wang | 2023 | China | CN | — | — |
+| HM24 | Hans Mulyawan | 2024 | Indonesia | Asia-Pacific | — | — |
+| KG24 | Kay Glaeske | 2024 | Switzerland | Europe | — | 43.0 |
+| KM24 | Kléber Paucar Molina | 2024 | Ecuador | LatAm | — | — |
+| MI24 | Martha Isaacs | 2024 | United States of America | US | — | 66.7 |
+| NP24 | Natalia Paz Méndez Ponce | 2024 | Chile | Other | — | — |
+| DY25 | Daiki Yoshioka | 2025 | Japan | Asia-Pacific | — | — |
+| EG25 | Emmanuel Godfrey | 2025 | Liberia | Africa | — | 87.1 |
+| FH25 | Franz Hohmann | 2025 | Germany | Europe | — | 54.3 |
+| JO25 | Jennelle Ohene-Agyei | 2025 | United States of America | US | — | — |
+| JV25 | Juan Venancio | 2025 | United States of America | US | — | — |
+| LE25 | Lance Entsuah | 2025 | United States of America | US | — | 57.2 |
+| RS25 | Ruqaiyah Mohamed Shiraz | 2025 | Sri Lanka | Asia-Pacific | — | — |
+| WL25 | William Li | 2025 | United States of America | US | — | — |
+| AM26 | Angelo Mok | 2026 | United States of America | US | yes | — |
+| CA26 | Celene Aridin | 2026 | United States of America | US | yes | 49.9 |
+| GW26 | Garrett Williams | 2026 | United States of America | US | yes | — |
+| ML26 | Maha Latif | 2026 | Pakistan | Asia-Pacific | yes | — |
+| MH26 | Moriah Hamilton | 2026 | Guyana | Other | yes | 77.3 |
+| SL26 | Stephanie Lin | 2026 | United States of America | US | yes | — |
+| TN26 | Tra Nguyen | 2026 | Vietnam | Asia-Pacific | yes | — |
+| YN26 | Yu Ci Faye Ng | 2026 | Singapore | Asia-Pacific | yes | — |
+| AT27 | Alex Tseng | 2027 | United States of America | US | yes | — |
+| AB27 | Anita Bassey | 2027 | United States of America | US | yes | 97.3 |
+| CS27 | Camalah Saleh | 2027 | United States of America | US | yes | — |
+| DM27 | Daniel Martin | 2027 | United States of America | US | yes | — |
+| FM27 | Francis Mok | 2027 | United States of America | US | yes | — |
+| HK27 | Hamza Khawaja | 2027 | Pakistan | Asia-Pacific | yes | — |
+| ND27 | Natalie Delille | 2027 | United States of America | US | yes | 68.3 |
+| PO27 | Patricio Ortiz | 2027 | United States of America | US | yes | — |
+| ST27 | Sara Torres | 2027 | Colombia | LatAm | yes | — |
+| SL27 | Stephanie Li | 2027 | China | CN | yes | — |
+| XR27 | Xavier Ramirez | 2027 | United States of America | US | yes | — |
+
+Source: `data/video_legend.csv` → `data/video_features_all.csv`. Warmth 24 scored, 50 pending (—). Use on any axis; all plots now label shorthands at 6pt (warmth) / 5.5pt (cohort).
+
+</details>
+
 ### The language of admission — what 285 bios actually say
 
 Bios aren't essays. They're third-person institutional captions (avg 685 chars, 285/1497 = 19% have one, formal-flat sentiment mean 0.064). What the committee *chooses to print* is a signal.

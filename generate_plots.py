@@ -239,19 +239,53 @@ try:
         ss.style_axes(ax, title=f"Warmth Distribution (n={n}, v2)")
         ax.set_xlabel("Warmth v2"); ax.set_ylabel("Count"); ax.legend()
         plt.tight_layout(); plt.savefig(ROOT / "warmth_distribution.png", dpi=ss.SAVEDPI, bbox_inches="tight", facecolor=ss.CANVAS); plt.close("all")
-        # scatter — slate→crimson cmap (replaces Blues), crimson/ink guides
+        # scatter — slate→crimson cmap + tiny shorthands (all 24 at 6pt, offset to avoid covering dots)
+        # build shorthand map from video_legend.csv for the 24 scored
+        try:
+            _leg = pd.read_csv(ROOT / "data" / "video_legend.csv", encoding="utf-8")
+            _scored = _leg[_leg["warmth_v2"].notna()][["warmth_v2","sentiment","shorthand"]].copy()
+            _scored["warmth_v2"] = pd.to_numeric(_scored["warmth_v2"], errors="coerce")
+            _scored["sentiment"] = pd.to_numeric(_scored["sentiment"], errors="coerce")
+        except:
+            _scored = None
         fig, ax = plt.subplots(figsize=(11, 5.5))
         sc = ax.scatter(rec_df["warmth"], rec_df["sentiment"], c=rec_df["warmth"], cmap=ss.CMAP_WARMTH, s=68, edgecolor=ss.CANVAS, linewidth=0.6, alpha=0.88)
         plt.colorbar(sc, ax=ax, label="Warmth v2")
         ax.axhline(0.10, color=ss.MUTED, linestyle="--", linewidth=0.9, label="sentiment >0.10")
         ax.axvline(70, color=ss.SCHWARZMAN_RED, linestyle="--", linewidth=0.9, label="warmth 70")
-        ss.style_axes(ax, title=f"Warmth v2 vs. Vocal Sentiment (n={n}, Whisper tiny - TextBlob)", subtitle="Slate to crimson encodes warmth - warmer = darker/redder (Ref 1 area logic)", grid_axis="both")
-        ax.set_xlabel("Warmth v2 (0-99)"); ax.set_ylabel("Sentiment polarity (-1…1)"); ax.legend(); ax.grid(True, alpha=0.18, color=ss.BORDER, linestyle="--", linewidth=0.6)
-        plt.tight_layout(); plt.savefig(OUT / "warmth_vs_sentiment.png", dpi=ss.SAVEDPI, bbox_inches="tight", facecolor=ss.CANVAS); plt.close("all")
-        print("saved warmth_vs_sentiment.png")
+        # annotate each point with shorthand at 6pt, offset NE
+        if _scored is not None and len(_scored)==len(rec_df):
+            for _, r in _scored.iterrows():
+                ax.annotate(str(r["shorthand"]), (r["warmth_v2"], r["sentiment"]), fontsize=6, weight="bold", color=ss.INK,
+                            xytext=(4,4), textcoords="offset points", ha="left", va="bottom",
+                            bbox=dict(facecolor="white", edgecolor=ss.BORDER, boxstyle="round,pad=0.15", alpha=0.88))
+        else:
+            for _, r in rec_df.iterrows():
+                ax.annotate(f"{r['warmth']:.0f}", (r["warmth"], r["sentiment"]), fontsize=5, color=ss.MUTED, xytext=(3,3), textcoords="offset points")
+        # manual title block to avoid overlap (fig.text at 0.96/0.92 + red rule like custom_pca)
+        ss.style_axes(ax, grid_axis="both")
+        ax.set_xlabel("Warmth v2 (0-99)"); ax.set_ylabel("Sentiment polarity (-1…1)")
+        ax.legend(fontsize=7, frameon=True, facecolor=ss.CANVAS, edgecolor=ss.BORDER)
+        ax.grid(True, alpha=0.18, color=ss.BORDER, linestyle="--", linewidth=0.6)
+        fig.text(0.07, 0.96, f"Warmth v2 vs. Vocal Sentiment (n={n}, Whisper tiny - TextBlob)", fontsize=12, color=ss.INK, fontweight="bold", fontfamily=ss.SANS[0], ha="left", va="bottom")
+        fig.text(0.07, 0.92, "Slate to crimson encodes warmth - warmer = darker/redder · shorthands at 6pt", fontsize=8, color=ss.MUTED, fontfamily=ss.SANS[0], ha="left", va="bottom")
+        fig.add_artist(plt.Line2D([0.07, 0.11], [0.91, 0.91], transform=fig.transFigure, color=ss.SCHWARZMAN_RED, linewidth=1.4))
+        fig.add_artist(plt.Line2D([0.115, 0.18], [0.91, 0.91], transform=fig.transFigure, color=ss.BORDER, linewidth=0.8))
+        fig.tight_layout(rect=[0,0,1,0.88]); plt.savefig(OUT / "warmth_vs_sentiment.png", dpi=ss.SAVEDPI, bbox_inches="tight", facecolor=ss.CANVAS); plt.close("all")
+        print("saved warmth_vs_sentiment.png with shorthands")
         fig, ax = plt.subplots(figsize=(11, 5.5))
-        sc = ax.scatter(rec_df["warmth"], rec_df["sentiment"], c=rec_df["warmth"], cmap=ss.CMAP_WARMTH, s=68, edgecolor=ss.CANVAS, linewidth=0.6, alpha=0.88); plt.colorbar(sc, ax=ax, label="Warmth v2"); ax.axhline(0.10, color=ss.MUTED, linestyle="--", linewidth=0.9); ax.axvline(70, color=ss.SCHWARZMAN_RED, linestyle="--", linewidth=0.9); ss.style_axes(ax, title=f"Warmth v2 vs Sentiment (n={n})", grid_axis="both"); ax.set_xlabel("Warmth v2"); ax.set_ylabel("Sentiment"); plt.tight_layout(); plt.savefig(ROOT / "warmth_vs_sentiment.png", dpi=ss.SAVEDPI, bbox_inches="tight", facecolor=ss.CANVAS); plt.close("all")
-        # by cohort — muted boxes, ink strip
+        sc = ax.scatter(rec_df["warmth"], rec_df["sentiment"], c=rec_df["warmth"], cmap=ss.CMAP_WARMTH, s=68, edgecolor=ss.CANVAS, linewidth=0.6, alpha=0.88); plt.colorbar(sc, ax=ax, label="Warmth v2"); ax.axhline(0.10, color=ss.MUTED, linestyle="--", linewidth=0.9); ax.axvline(70, color=ss.SCHWARZMAN_RED, linestyle="--", linewidth=0.9)
+        if _scored is not None and len(_scored)==len(rec_df):
+            for _, r in _scored.iterrows():
+                ax.annotate(str(r["shorthand"]), (r["warmth_v2"], r["sentiment"]), fontsize=6, weight="bold", color=ss.INK, xytext=(4,4), textcoords="offset points", ha="left", va="bottom", bbox=dict(facecolor="white", edgecolor=ss.BORDER, boxstyle="round,pad=0.15", alpha=0.88))
+        ss.style_axes(ax, grid_axis="both"); ax.set_xlabel("Warmth v2"); ax.set_ylabel("Sentiment")
+        fig = plt.gcf()
+        fig.text(0.07, 0.96, f"Warmth v2 vs Sentiment (n={n})", fontsize=12, color=ss.INK, fontweight="bold", fontfamily=ss.SANS[0], ha="left", va="bottom")
+        fig.text(0.07, 0.92, "Slate to crimson · 6pt shorthands", fontsize=8, color=ss.MUTED, fontfamily=ss.SANS[0], ha="left", va="bottom")
+        fig.add_artist(plt.Line2D([0.07, 0.11], [0.91, 0.91], transform=fig.transFigure, color=ss.SCHWARZMAN_RED, linewidth=1.4))
+        fig.add_artist(plt.Line2D([0.115, 0.18], [0.91, 0.91], transform=fig.transFigure, color=ss.BORDER, linewidth=0.8))
+        fig.tight_layout(rect=[0,0,1,0.88]); plt.savefig(ROOT / "warmth_vs_sentiment.png", dpi=ss.SAVEDPI, bbox_inches="tight", facecolor=ss.CANVAS); plt.close("all")
+        # by cohort — muted boxes, ink strip + tiny shorthands (6pt, offset)
         if rec_df["cohort"].notna().any() and any(c.strip() for c in rec_df["cohort"]):
             fig, ax = plt.subplots(figsize=(12, 5.5))
             order = sorted([c for c in rec_df["cohort"].unique() if c.strip()])
@@ -267,22 +301,61 @@ try:
                 # fallback bare matplotlib
                 groups = [rec_df[rec_df["cohort"] == c]["warmth"].values for c in order]
                 bp = ax.boxplot(groups, labels=order, patch_artist=True, boxprops=dict(facecolor=ss.PANEL, edgecolor=ss.BORDER), medianprops=dict(color=ss.SCHWARZMAN_RED))
-            ss.style_axes(ax, title=f"Charisma/Warmth v2 by Cohort (n={n} scored, 7-frame v2)", subtitle="Box = distribution, dots = scholars — ink dots, muted boxes", grid_axis="y")
+            # annotate each dot with shorthand (offset so white bbox doesn't cover dot)
+            if _scored is not None and "cohort" not in _scored.columns:
+                try:
+                    _leg2 = pd.read_csv(ROOT / "data" / "video_legend.csv", encoding="utf-8")
+                    _scored2 = _leg2[_leg2["warmth_v2"].notna()][["cohort","warmth_v2","shorthand"]].copy()
+                    _scored2["warmth_v2"] = pd.to_numeric(_scored2["warmth_v2"], errors="coerce")
+                except:
+                    _scored2 = None
+            else:
+                _scored2 = _scored
+            if _scored2 is not None:
+                # build cohort -> x position map
+                pos = {c:i for i,c in enumerate(order)}
+                for _, r in _scored2.iterrows():
+                    coh = str(r["cohort"]); 
+                    if coh not in pos: continue
+                    # jitter stripplot by ~0.15, so offset a bit to avoid exact overlap
+                    import random, numpy as np
+                    jitter = (hash(r["shorthand"]) % 7 - 3) * 0.04  # deterministic jitter approx
+                    x = pos[coh] + jitter
+                    ax.annotate(str(r["shorthand"]), (x, r["warmth_v2"]), fontsize=5.5, weight="bold", color=ss.INK,
+                                xytext=(4,4), textcoords="offset points", ha="left", va="bottom",
+                                bbox=dict(facecolor="white", edgecolor=ss.BORDER, boxstyle="round,pad=0.12", alpha=0.88))
+            # manual title block to avoid overlap
+            ss.style_axes(ax, grid_axis="y")
             ax.set_xlabel("Cohort Year"); ax.set_ylabel("Warmth v2 (0-99)"); ax.set_ylim(0, 100)
             for t in ax.get_xticklabels():
                 t.set_rotation(20)
-            save("charisma_by_cohort.png")
-            plt.close("all")
+            fig.text(0.07, 0.96, f"Charisma/Warmth v2 by Cohort (n={n} scored, 7-frame v2)", fontsize=12, color=ss.INK, fontweight="bold", fontfamily=ss.SANS[0], ha="left", va="bottom")
+            fig.text(0.07, 0.92, "Box = distribution, dots = scholars · shorthands at 5.5pt", fontsize=8, color=ss.MUTED, fontfamily=ss.SANS[0], ha="left", va="bottom")
+            fig.add_artist(plt.Line2D([0.07, 0.11], [0.91, 0.91], transform=fig.transFigure, color=ss.SCHWARZMAN_RED, linewidth=1.4))
+            fig.add_artist(plt.Line2D([0.115, 0.18], [0.91, 0.91], transform=fig.transFigure, color=ss.BORDER, linewidth=0.8))
+            fig.tight_layout(rect=[0,0,1,0.88]); plt.savefig(OUT / "charisma_by_cohort.png", dpi=ss.SAVEDPI, bbox_inches="tight", facecolor=ss.CANVAS); plt.close("all")
+            print("saved charisma_by_cohort.png with shorthands")
             # root copy
             fig, ax = plt.subplots(figsize=(12, 5.5))
             try:
                 sns.boxplot(data=rec_df, x="cohort", y="warmth", order=order, palette=[ss.PANEL]*len(order), linewidth=0.9, fliersize=2, width=0.55)
                 sns.stripplot(data=rec_df, x="cohort", y="warmth", order=order, color=ss.INK, size=5, alpha=0.72, jitter=True)
+                if _scored2 is not None:
+                    pos2 = {c:i for i,c in enumerate(order)}
+                    for _, r in _scored2.iterrows():
+                        coh = str(r["cohort"])
+                        if coh not in pos2: continue
+                        jitter = (hash(r["shorthand"]) % 7 - 3) * 0.04
+                        x = pos2[coh] + jitter
+                        ax.annotate(str(r["shorthand"]), (x, r["warmth_v2"]), fontsize=5.5, weight="bold", color=ss.INK, xytext=(4,4), textcoords="offset points", ha="left", va="bottom", bbox=dict(facecolor="white", edgecolor=ss.BORDER, boxstyle="round,pad=0.12", alpha=0.88))
                 ax.set_xlabel("Cohort"); ax.set_ylabel("Warmth v2"); ax.set_ylim(0, 100)
             except:
                 pass
-            ax.set_title(f"Charisma/Warmth v2 by Cohort (n={n})", fontsize=12, color=ss.INK, fontweight="bold", fontfamily=ss.SANS[0], loc="left", pad=12)
-            plt.tight_layout(); plt.savefig(ROOT / "charisma_by_cohort.png", dpi=ss.SAVEDPI, bbox_inches="tight", facecolor=ss.CANVAS); plt.close("all")
+            fig.text(0.07, 0.96, f"Charisma/Warmth v2 by Cohort (n={n})", fontsize=12, color=ss.INK, fontweight="bold", fontfamily=ss.SANS[0], ha="left", va="bottom")
+            fig.text(0.07, 0.92, "Slate to crimson · 5.5pt shorthands", fontsize=8, color=ss.MUTED, fontfamily=ss.SANS[0], ha="left", va="bottom")
+            fig.add_artist(plt.Line2D([0.07, 0.11], [0.91, 0.91], transform=fig.transFigure, color=ss.SCHWARZMAN_RED, linewidth=1.4))
+            fig.add_artist(plt.Line2D([0.115, 0.18], [0.91, 0.91], transform=fig.transFigure, color=ss.BORDER, linewidth=0.8))
+            fig.tight_layout(rect=[0,0,1,0.88]); plt.savefig(ROOT / "charisma_by_cohort.png", dpi=ss.SAVEDPI, bbox_inches="tight", facecolor=ss.CANVAS); plt.close("all")
         print(f"Warmth plots done (n={n})")
     else:
         print("No warmth records — skip warmth plots")
