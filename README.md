@@ -52,7 +52,7 @@
 
 US and China dominate, as the program’s U.S.–China bridge mission predicts, followed by UK/Canada.
 
-![Top 10 Countries](analytics_dashboard/top_countries.png)
+![Top 10 Countries](top_countries.png)
 
 > From CSV: United States 617, China 300, United Kingdom 50, Canada 41, India 37, Australia 26, Singapore 24, Germany 24. Full breakdown in CSV.
 
