@@ -3,7 +3,7 @@
 
 **1,497 scholars • 11 cohorts • 74 public intro videos • 285 bios • transcribed + interview-backed**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Data: 1497 rows](https://img.shields.io/badge/rows-1497-blue)](data/schwarzman_scholars_dataset.csv) [![Videos: 74](https://img.shields.io/badge/public%20videos-74-green)](ADMITTED_VIDEOS.md) (generate_plots.py)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![Data: 1497 rows](https://img.shields.io/badge/rows-1497-blue)](data/schwarzman_scholars_dataset.csv) [![Videos: 74](https://img.shields.io/badge/public%20videos-74-green)](ADMITTED_VIDEOS.md)
 
 > Traditional advice obsesses over essays. Committees also judge non-verbal signals and context. This repo aggregates **every public Schwarzman Scholar (2017–2027)** with bios and intro videos where available, **transcribes the 74 public 1-min videos with Open AI's Whisper**, and adds **first-hand interviews with admitted scholars** to demystify who gets in: and wh, this repo is steadfast on giving a grounding understanding of admitted students archtypes, most importantly it's an attempt.
 
