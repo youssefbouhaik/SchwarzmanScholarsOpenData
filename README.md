@@ -35,10 +35,10 @@
 | File | Rows | Columns | Notes |
 |------|------|---------|-------|
 | `data/schwarzman_scholars_dataset.csv` | 1,497 | 9 (`id,name,country,university,cohort_year,youtube_video_id,admission_inferred,bio,has_intro_video`) | Canonical source. `youtube_video_id` cleaned to `watch?v=` / `shorts/` (no `&pp=` tracking). |
-| `data/videos/` | 74 expected | mp4 (not committed) | Run `python batch_processor.py` to populate from `youtube_video_id` |
-| `data/transcripts/` *(new)* | 74 expected | txt | Whisper transcriptions — create via `batch_processor.py`, commit if scholar consents |
+| `data/videos/` | 74 | mp4 ( are not committed) | Run `python batch_processor.py` to populate from `youtube_video_id` |
+| `data/transcripts/`  | 74  | txt | Open Ai's Whisper transcriptions — create via `batch_processor.py`,  |
 | `ADMITTED_VIDEOS.md` | — | 74 links by cohort | Human-readable index |
-| `ADMITTED_SCHOLAR_PROFILES.md` | — | 74 AI profiles | DeepFace warmth + sentiment per video |
+| `ADMITTED_SCHOLAR_PROFILES.md` | — | 74 profiles | DeepFace warmth + sentiment per video |
 
 **Cohort distribution (from CSV):** 2017:108, 2018:125, 2019:135, 2020:139, 2021:131, 2022:150, 2023:142, 2024:142, 2025:140, 2026:144, 2027:141.
 
