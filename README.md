@@ -195,10 +195,9 @@ Across `data/bios_words.csv` (active words only — 1,412× `and` / 1,129× `the
 
 > **Deeper:** 4 archetypes cluster the 285 bios via public `sklearn` TF-IDF 400 + KMeans k=4 + PCA — see `docs/HYPOTHESES.md` + `analytics_dashboard/bios_clusters_pca.png` (`Tech-Business 36%, Policy-Intl 29%, Climate-Bridge 25%, Health 9%`) and `data/bios_clusters.csv` (`shorthand,cluster`) for any shorthand plot. 5 hypotheses (Four doors, Bridge>brilliance, Verb>noun, University as signal, Video as compensatory) live there.
 
-### Geographic — scholar home locations (Figure 6-1 amended, zip-code style)
+### Geographic — scholar home locations (Figure 6-1)
 
-Equirectangular bubble map — bubble area ∝ count by home country (n=1497, 74 countries). Mirrors *Visualizing Data* Figure 6-1 (postal zip codes) but for global scholar distribution.
-
+Equirectangular bubble map — bubble area ∝ count by home country (n=1497, 74 countries).
 ![Geographic](analytics_dashboard/geographic_zipcode_style.png)
 
 ### Bios sentiment — polarity at scale
