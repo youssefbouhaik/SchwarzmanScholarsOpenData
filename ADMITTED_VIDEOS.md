@@ -111,7 +111,7 @@ This directory contains the confirmed public introduction videos of successful S
 | Name | University | Country | Link |
 |------|------------|---------|------|
 | Abdullah Almiqasbi | University of Nottingham | Libya | [Watch Video](https://www.youtube.com/watch?v=y8b9NvyEYJs) |
-| Collin Parker | United States Military Academy at West Point | United States of America | [Watch Video](https://www.youtube.com/watch?v=Yq4m7urLTZs) |
+| Stacey-Ann Pearson | United States Military Academy at West Point | United States of America | [Watch Video](https://www.youtube.com/watch?v=Yq4m7urLTZs) |
 | Mark McGinnis | United States Military Academy at West Point | United States of America | [Watch Video](https://www.youtube.com/watch?v=BHbcyDjIILc) |
 | Mollie Saltskog | Yale-NUS College | Sweden | [Watch Video](https://www.youtube.com/watch?v=Mf1FHwNbOvQ) |
 | Paula Martínez Gutiérrez | Brown University | Mexico | [Watch Video](https://www.youtube.com/watch?v=zGVnKAos_Uo) |
