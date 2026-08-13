@@ -66,7 +66,6 @@ This directory contains the confirmed public introduction videos of successful S
 | Nicolás Tamayo Medina | Universidad de Los Andes | Colombia | [Watch Video](https://www.youtube.com/watch?v=BimixKUh3Nc) |
 | Sam Zahn | University of North Carolina, Chapel Hill | United States of America | [Watch Video](https://www.youtube.com/watch?v=6F7Va8MPkrY) |
 | Trishna Nagrani | University of Warwick | Panama | [Watch Video](https://www.youtube.com/watch?v=g8L_Nu-pzfs) |
-| Yuchen Wang | George Washington University, Johns Hopkins University | China | [Watch Video](https://www.youtube.com/watch?v=ZzBa2Ju8TdY) |
 
 ## Cohort 2022
 | Name | University | Country | Link |
