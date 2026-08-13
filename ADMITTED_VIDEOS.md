@@ -85,7 +85,7 @@ This directory contains the confirmed public introduction videos of successful S
 ## Cohort 2021
 | Name | University | Country | Link |
 |------|------------|---------|------|
-| Christopher Vassallo | Harvard University | United States of America | [Watch Video](https://www.youtube.com/watch?v=Jcc33F58Sak) |
+| Ravi Veriah | Harvard University | United States of America | [Watch Video](https://www.youtube.com/watch?v=Jcc33F58Sak) |
 | Debpriya Das | University of Melbourne | Bangladesh | [Watch Video](https://www.youtube.com/watch?v=by3s8SNK-Z0) |
 | Mariam Dogar | Massachusetts Institute of Technology | United States of America | [Watch Video](https://www.youtube.com/watch?v=Lv5QrS_Fi28) |
 | Shreya Nayak | University of Toronto | Canada | [Watch Video](https://www.youtube.com/watch?v=ofVs_cdEw2Q) |
