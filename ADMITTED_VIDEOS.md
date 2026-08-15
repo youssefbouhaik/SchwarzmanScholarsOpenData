@@ -89,7 +89,7 @@ This directory contains the confirmed public introduction videos of successful S
 | Debpriya Das | University of Melbourne | Bangladesh | [Watch Video](https://www.youtube.com/watch?v=by3s8SNK-Z0) |
 | Mariam Dogar | Massachusetts Institute of Technology | United States of America | [Watch Video](https://www.youtube.com/watch?v=Lv5QrS_Fi28) |
 | Shreya Nayak | University of Toronto | Canada | [Watch Video](https://www.youtube.com/watch?v=ofVs_cdEw2Q) |
-
+| SShanti Kumar | Cornell University | Canada | [Watch Video](https://www.youtube.com/watch?v=JZpV15-lR6A) |
 ## Cohort 2020
 | Name | University | Country | Link |
 |------|------------|---------|------|
