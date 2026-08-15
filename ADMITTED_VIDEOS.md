@@ -79,7 +79,8 @@ This directory contains the confirmed public introduction videos of successful S
 | Michael McPhail | University of Western Australia | Australia | [Watch Video](https://www.youtube.com/watch?v=uw-iqK3RMoE) |
 | Patrik Birkle | University College London | Germany | [Watch Video](https://www.youtube.com/watch?v=Prs1VtXYeUo) |
 | Paulina Ruta | University of Pennsylvania | United States of America | [Watch Video](https://www.youtube.com/watch?v=aXw_BPFA8AE) |
-| Trevaughn Latimer | Loyola University Chicago | United States of America | [Watch Video](https://www.youtube.com/watch?v=pgj9yuPHyYk) |
+| Annie Sun | U pen | United States of America | [Watch Video](https://www.youtube.com/watch?v=LrNhnKO5JvE) |
+| Jin Young Lim | Peking University, Waseda University | Malaysia | [Watch Video](https://www.youtube.com/watch?v=c_hcqnuTFSc) |
 
 ## Cohort 2021
 | Name | University | Country | Link |
