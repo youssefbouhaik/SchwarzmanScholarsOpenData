@@ -99,6 +99,8 @@ This directory contains the confirmed public introduction videos of successful S
 | Laura Darnley | King's College London | United Kingdom | [Watch Video](https://www.youtube.com/watch?v=0qr-_TpqsKw) |
 | Mohamed Ramy | Amherst College | Egypt | [Watch Video](https://www.youtube.com/watch?v=vV1MfWotcPM) |
 | Varun Sharma | University of Virginia | United States of America | [Watch Video](https://www.youtube.com/watch?v=qT2y4ZxLBEo) |
+| Atoka Jo | NYU Abu Dhabi | Japan | [Watch Video](https://www.youtube.com/watch?v=1ga2OD8bTcU) |
+
 
 ## Cohort 2019
 | Name | University | Country | Link |
