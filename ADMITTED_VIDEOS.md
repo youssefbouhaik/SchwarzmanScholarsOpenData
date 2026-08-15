@@ -49,6 +49,7 @@ This directory contains the confirmed public introduction videos of successful S
 | Kléber Paucar Molina | King's College London | Ecuador | [Watch Video](https://www.youtube.com/watch?v=Csus3oAfO30) |
 | Martha Isaacs | University of North Carolina, Chapel Hill | United States of America | [Watch Video](https://www.youtube.com/watch?v=wnbpEnDFOAQ) |
 | Natalia Paz Méndez Ponce | Universidad de Santiago de Chile | Chile | [Watch Video](https://www.youtube.com/watch?v=MaQDjEXUfVc) |
+| NJohn Paul Gairhan | University of Arkansas, Fayetteville | USA | [Watch Video](https://www.youtube.com/watch?v=k0uxb1TtpcI) |
 
 ## Cohort 2023
 | Name | University | Country | Link |
