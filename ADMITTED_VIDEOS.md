@@ -81,6 +81,7 @@ This directory contains the confirmed public introduction videos of successful S
 | Paulina Ruta | University of Pennsylvania | United States of America | [Watch Video](https://www.youtube.com/watch?v=aXw_BPFA8AE) |
 | Annie Sun | U pen | United States of America | [Watch Video](https://www.youtube.com/watch?v=LrNhnKO5JvE) |
 | Jin Young Lim | Peking University, Waseda University | Malaysia | [Watch Video](https://www.youtube.com/watch?v=c_hcqnuTFSc) |
+| Keren Guttman | The Interdisciplinary Center Herzliyay | Palestine | [Watch Video](https://www.youtube.com/watch?v=DlZl4g1nPB0) |
 
 ## Cohort 2021
 | Name | University | Country | Link |
